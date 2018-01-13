@@ -1,0 +1,22270 @@
+und	KON
+und	KON
+
+wieder	ADV
+wieder	ADV
+
+Werbung	NN
+Werbung	NN
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+du	PPER
+du	PPER
+
+dieser	PDS
+dieser	PDAT
+
+schon	ADV
+schon	ADV
+
+Test-weise	ADV
+Test-weise	NN
+
+Deaktiviert	VVPP
+Deaktiviert	NN
+
+und	KON
+und	KON
+
+in	APPRART
+in	APPR
+
+Nachhinein	NN
+Nachhinein	NN
+
+wieder	ADV
+wieder	ADV
+
+aktivieren	VVPP
+aktivieren	VVINF
+
+?	$.
+?	$.
+
+LG	NN
+LG	NE
+
+(	$(
+(	$(
+
+Ms	NE
+Ms	NN
+
+)	$(
+)	$(
+
+an	APPRART
+an	APPR
+
+Dienstag	NN
+Dienstag	NN
+
+,	$,
+,	$,
+
+der	ART
+der	ART
+
+@card@	CARD
+@card@	CARD
+
+,	$,
+,	$,
+
+finden	VVFIN
+finden	VVFIN
+
+ein	ART
+ein	ART
+
+Infoveranstaltung	NN
+Infoveranstaltung	NN
+
+zu	APPRART
+zu	APPR
+
+Orientierungspraktikum	NN
+Orientierungspraktikum	NN
+
+(	$(
+(	$(
+
+OP	NN
+OP	NN
+
+)	$(
+)	$(
+
+und	KON
+und	KON
+
+zu	APPRART
+zu	PTKA
+
+pädagogisch	ADJA
+pädagogisch	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+dir	PPER
+dir	PRF
+
+auch	ADV
+auch	ADV
+
+mit	APPR
+mit	APPR
+
+buschiiii	NN
+buschiiii	NE
+
+emoticon	EMO
+emoticon	EMO
+
+ich	PPER
+ich	PPER
+
+können	VMFIN
+können	VMFIN
+
+noch	ADV
+noch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mal	ADV
+mal	ADV
+
+einschlafen	VVINF
+einschlafen	VVINF
+
+,	$,
+,	$,
+
+weils	KOUS_ES
+weils	VVFIN
+
+mir	PPER
+mir	PPER
+
+grade	ADV
+grade	NN
+
+so	ADV
+so	ADV
+
+bescheiden	ADJD
+bescheiden	ADJD
+
+gehen	VVFIN
+gehen	VVFIN
+
+._.	EMO
+._.	NN
+
+Schnapse	NE
+Schnapse	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Gedicht	NN
+Gedicht	NN
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+echt	ADJD
+echt	ADJD
+
+mal	ADV
+mal	ADV
+
+,	$,
+,	$,
+
+Kollege	NN
+Kollege	NN
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+News	NN
+News	NN
+
+:	$.
+:	$.
+
+Kampf	NN
+Kampf	NN
+
+um	APPRART
+um	APPR
+
+Geld	NN
+Geld	NN
+
+-	$(
+-	$(
+
+Familien-Krieg	NN
+Familien-Krieg	NN
+
+um	APPR
+um	APPR
+
+todkranken	ADJA
+todkranken	ADJA
+
+Ali	NE
+Ali	NE
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+also	ADV
+also	ADV
+
+irgendwie	ADV
+irgendwie	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+der	ART
+der	ART
+
+Musik	NN
+Musik	NN
+
+zu	PTKA
+zu	PTKA
+
+leise	ADJD
+leise	ADJD
+
+und	KON
+und	KON
+
+beyonce	NE
+beyonce	NE
+
+zu	PTKA
+zu	APPR
+
+laut	ADJD
+laut	APPR
+
+hashtag	HASH
+hashtag	HASH
+
+schauen	VVFIN
+schauen	VVFIN
+
+mir	PPER
+mir	PPER
+
+jetzt	ADV
+jetzt	ADV
+
+mit	APPR
+mit	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+Liebe	NN
+Liebe	NN
+
+"	$(
+"	$(
+
+Schlussmacher	NE
+Schlussmacher	NN
+
+"	$(
+"	$(
+
+an	PTKVZ
+an	PTKVZ
+
+&	KON
+&	KON
+
+hol	VVFIN
+hol	VVIMP
+
+mir	PPER
+mir	PPER
+
+Tipp	NN
+Tipp	NN
+
+.	$.
+.	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Hässliche	ADJA
+Hässliche	ADJA
+
+Meldung	NN
+Meldung	NN
+
+für	APPR
+für	APPR
+
+hashtag	NE
+hashtag	HASH
+
+:	$.
+:	$.
+
+griechisch	ADJA
+griechisch	ADJD
+
+Neonazi-Partei	NN
+Neonazi-Partei	NN
+
+gründen	VVFIN
+gründen	VVFIN
+
+Filiale	NN
+Filiale	NN
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	ART
+
+aber	ADV
+aber	ADV
+
+süß	ADJD
+süß	ADJD
+
+!	$.
+!	$.
+
+-	$(
+-	$(
+
+retweet	NN
+retweet	VVIMP
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+wo	PWAV
+wo	PWAV
+
+bleiben	VVFIN
+bleiben	VVFIN
+
+der	ART
+der	ART
+
+Sonne	NN
+Sonne	NN
+
+...	PAUSE
+...	$.
+
+?	$.
+?	$.
+
+url	URL
+url	URL
+
+googelt	VVFIN
+googelt	VVPP
+
+"	$(
+"	$(
+
+Peer	NE
+Peer	NE
+
+Steinbrück	NE
+Steinbrück	NN
+
+auf	APPR
+auf	APPR
+
+Twitter	NE
+Twitter	NN
+
+"	$(
+"	$(
+
+.	$.
+.	$.
+
+Hörst	NE
+Hörst	NE
+
+Röper	NE
+Röper	NE
+
+:	$.
+:	$.
+
+Attraktivität	NN
+Attraktivität	NN
+
+das	ART
+das	ART
+
+Journalistenberufs	NN
+Journalistenberufs	NN
+
+haben	VAFIN
+haben	VAFIN
+
+stark	ADJD
+stark	ADJD
+
+nachlassen	VVPP
+nachlassen	VVINF
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+tun	VVFIN
+tun	VVFIN
+
+euch	PPER
+euch	PPER
+
+der	PDS
+der	ART
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+an	PTKVZ
+an	PTKVZ
+
+!	$.
+!	$.
+
+"	$(
+"	$(
+
+url	URL
+url	URL
+
+Vossi	NE
+Vossi	NE
+
+mit	APPR
+mit	APPR
+
+"	$(
+"	$(
+
+Behind	APPR
+Behind	NN
+
+The	ART
+The	FM
+
+scenes	NN
+scenes	NE
+
+"	$(
+"	$(
+
+-	$(
+-	$(
+
+Material	NN
+Material	NN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+ISE	NE
+ISE	NE
+
+in	APPR
+in	APPR
+
+Amsterdam	NE
+Amsterdam	NE
+
+!	$.
+!	$.
+
+Video	NN
+Video	NN
+
+hier	ADV
+hier	ADV
+
+:	$.
+:	$.
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+der	ART
+der	ART
+
+Landesverband	NN
+Landesverband	NN
+
+Baden-Württemberg	NE
+Baden-Württemberg	NE
+
+von	APPR
+von	APPR
+
+Bioland	NE
+Bioland	NN
+
+haben	VAFIN
+haben	VAFIN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Mitgliederversammlung	NN
+Mitgliederversammlung	NN
+
+ein	ART
+ein	ART
+
+positiv	ADJA
+positiv	ADJD
+
+Bilanz	NN
+Bilanz	NN
+
+ziehen	VVPP
+ziehen	VVINF
+
+:	$.
+:	$.
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Hab	VAFIN
+Hab	NN
+
+gerade	ADV
+gerade	ADV
+
+ein	ART
+ein	ART
+
+Foto	NN
+Foto	NN
+
+posten	VVPP
+posten	NN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+gehen	VVIMP
+gehen	VVFIN
+
+da	ADV
+da	ADV
+
+weg	PTKVZ
+weg	ADV
+
+man	NN
+man	PIS
+
+es	PPER
+es	PPER
+
+können	VMFIN
+können	VMFIN
+
+nur	ADV
+nur	ADV
+
+gut	ADJD
+gut	ADJD
+
+werden	VAINF
+werden	VAINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+-	PDS
+-	$(
+
+sollen	VMFIN
+sollen	VMFIN
+
+in	APPRART
+in	APPR
+
+TV	NN
+TV	NE
+
+auch	ADV
+auch	ADV
+
+mal	ADV
+mal	ADV
+
+was	PIS
+was	PIS
+
+zu	APPR
+zu	APPR
+
+Leute	NN
+Leute	NN
+
+bringen	VVINF
+bringen	VVFIN
+
+der	PRELS
+der	ART
+
+unterzuckern	VVFIN
+unterzuckern	NN
+
+!	$.
+!	$.
+
+nebenbei	ADV
+nebenbei	ADV
+
+ein	ART
+ein	ART
+
+ganz	ADJA
+ganz	ADJD
+
+Packung	NN
+Packung	NN
+
+Merci	NE
+Merci	NE
+
+gefuttert	VVPP
+gefuttert	VVPP
+
+.	$.
+.	$.
+
+können	VMFIN
+können	VMFIN
+
+aber	ADV
+aber	ADV
+
+immer	ADV
+immer	ADV
+
+noch	ADV
+noch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mehr	PIAT
+mehr	PIAT
+
+Französisch	NN
+Französisch	NN
+
+als	KOKOM
+als	KOKOM
+
+Joey	NE
+Joey	NE
+
+in	APPR
+in	APPR
+
+'	$(
+'	$(
+
+Friends	NE
+Friends	NN
+
+'	$(
+'	$(
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+und	KON
+und	KON
+
+Foxconn	NE
+Foxconn	NE
+
+produzieren	VVFIN
+produzieren	VVFIN
+
+ausschließlich	ADV
+ausschließlich	ADV
+
+für	APPR
+für	APPR
+
+Apple	NE
+Apple	NE
+
+und	KON
+und	KON
+
+für	APPR
+für	APPR
+
+kein	PIAT
+kein	PIAT
+
+anderer	ADJA
+anderer	PIS
+
+Hersteller	NN
+Hersteller	NN
+
+?	$.
+?	$.
+
+kraß	ADJD
+kraß	ADJD
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+Sonne	NN
+Sonne	NN
+
+&gt;	KON
+&gt;	ADJA
+
+Regen	NN
+Regen	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+OmG	ITJ
+OmG	NE
+
+!	$.
+!	$.
+
+zurecht	ITJ
+zurecht	PTKVZ
+
+!	$.
+!	$.
+
+-	PDS
+-	$(
+
+sein	VAFIN
+sein	PPOSAT
+
+voll	ADJD
+voll	ADJD
+
+schön	ADJD
+schön	ADJD
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+werden	VAFIN
+werden	VAFIN
+
+der	PDS
+der	ART
+
+noch	ADV
+noch	ADV
+
+farbig	ADJD
+farbig	ADJD
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+wenn	KOUS
+wenn	KOUS
+
+du	PPER
+du	PPER
+
+möchten	VMFIN
+möchten	VMFIN
+
+folg	VVIMP
+folg	VVIMP
+
+mir	PPER
+mir	PRF
+
+ruhig	ADJD
+ruhig	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+emoticon	EMO
+emoticon	EMO
+
+Musst_du	VMFIN
+Musst_du	NN
+
+der	PDS
+der	ART
+
+eben	ADV
+eben	ADV
+
+noch	ADV
+noch	ADV
+
+twittern	VVINF
+twittern	ADJD
+
+,	$,
+,	$,
+
+weil	KOUS
+weil	KOUS
+
+der	ART
+der	ART
+
+ganz	ADJA
+ganz	ADJD
+
+Tag	NN
+Tag	NN
+
+der	ART
+der	ART
+
+Netz	NN
+Netz	NN
+
+in	APPR
+in	APPR
+
+Teil	NN
+Teil	NN
+
+Berlin	NE
+Berlin	NE
+
+es	PPER
+es	PPER
+
+vorher	ADV
+vorher	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+zulassen	VVPP
+zulassen	VVINF
+
+haben	VAFIN
+haben	VAFIN
+
+.	$.
+.	$.
+
+Aktie	NN
+Aktie	NN
+
+Frankfurt	NE
+Frankfurt	NE
+
+:	$.
+:	$.
+
+Dax	NE
+Dax	NE
+
+auf	APPR
+auf	APPR
+
+Talfahrt	NN
+Talfahrt	NN
+
+-	$(
+-	$(
+
+Stimmung	NN
+Stimmung	NN
+
+wegen	APPR
+wegen	APPR
+
+Spanien	NE
+Spanien	NE
+
+und	KON
+und	KON
+
+Italien	NE
+Italien	NE
+
+getrübt	ADJD
+getrübt	VVPP
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Wuhu	ITJ
+Wuhu	NE
+
+heute	ADV
+heute	ADV
+
+Abend	NN
+Abend	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+wieder	ADV
+wieder	ADV
+
+hashtag	NN
+hashtag	HASH
+
+suchen	VVPP
+suchen	VVINF
+
+!	$.
+!	$.
+
+auf	APPR
+auf	APPR
+
+hashtag	NE
+hashtag	HASH
+
+freu	VVFIN
+freu	VVIMP
+
+mich	PPER
+mich	PRF
+
+voll	ADJD
+voll	ADJD
+
+emoticon	$.
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+aller	PIS
+aller	PIS
+
+ziemlich	ADV
+ziemlich	ADV
+
+kompliziert	ADJD
+kompliziert	VVPP
+
+.	$.
+.	$.
+
+so	ADV
+so	ADV
+
+,	$,
+,	$,
+
+auf	APPR
+auf	APPR
+
+geht_es	VVFIN_ES
+geht_es	ADJA
+
+,	$,
+,	$,
+
+ab	APPR
+ab	APPR
+
+geht_es	VVFIN_ES
+geht_es	NE
+
+,	$,
+,	$,
+
+Rainald	NE
+Rainald	NE
+
+Grebe	NE
+Grebe	NE
+
+.	$.
+.	$.
+
+Vorfreude	NN
+Vorfreude	NN
+
+seit	APPR
+seit	APPR
+
+4	CARD
+4	CARD
+
+Monat	NN
+Monat	NN
+
+,	$,
+,	$,
+
+ab	ADV
+ab	ADV
+
+dafür	PROAV
+dafür	PAV
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+ach	ITJ
+ach	ITJ
+
+Mensch	NN
+Mensch	NN
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+mich	PPER
+mich	PRF
+
+bekommen	VVFIN
+bekommen	VVFIN
+
+man	PIS
+man	PIS
+
+da	ADV
+da	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+hinein	PTKVZ
+hinein	PTKVZ
+
+und	KON
+und	KON
+
+ich	PPER
+ich	PPER
+
+bedauern	VVFIN
+bedauern	VVFIN
+
+jeder	PIAT
+jeder	PIS
+
+der	PDS
+der	ART
+
+es	PPER
+es	PPER
+
+müssen	VMFIN
+müssen	VMFIN
+
+und	KON
+und	KON
+
+eigentlich	ADV
+eigentlich	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+wollen	VMFIN
+wollen	VMINF
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+eben	ADV
+eben	ADV
+
+kein	PIAT
+kein	PIAT
+
+verwöhntes	ADJA
+verwöhntes	ADJA
+
+Ding	NN
+Ding	NN
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+der	ART
+der	ART
+
+voll	ADJA
+voll	ADJD
+
+Bafög-Satz	NN
+Bafög-Satz	NN
+
+bekommen	VVFIN
+bekommen	VVINF
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+Eltern	NN
+Eltern	NN
+
+liegen	VVFIN
+liegen	VVFIN
+
+ich	PPER
+ich	PPER
+
+erst	ADV
+erst	ADV
+
+recht	ADJD
+recht	ADJD
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Tasche	NN
+Tasche	NN
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+oh	ITJ
+oh	ITJ
+
+.	$.
+.	$.
+
+der	PDS
+der	PDS
+
+tun	VVFIN
+tun	VVFIN
+
+mir	PPER
+mir	PPER
+
+leid	PTKVZ
+leid	ADJD
+
+.	$.
+.	$.
+
+verstehen	VVFIN
+verstehen	VVFIN
+
+ich	PPER
+ich	PPER
+
+gar	ADV
+gar	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+.	$.
+.	$.
+
+bis	APPR
+bis	KON
+
+jetzt	ADV
+jetzt	ADV
+
+der	ART
+der	ART
+
+gut	ADJA
+gut	ADJD
+
+Idee	NN
+Idee	NN
+
+!	$.
+!	$.
+
+@Lobot	ADDRESS
+@Lobot	NN
+
+Kopf	NN
+Kopf	NN
+
+hoch	ADJD
+hoch	PTKVZ
+
+!	$.
+!	$.
+
+...	PAUSE
+...	$.
+
+oder	KON
+oder	KON
+
+Matte	NN
+Matte	ADJA
+
+Up	PTKVZ
+Up	NN
+
+,	$,
+,	$,
+
+ähh	PTKPAU
+ähh	ADJA
+
+'	$(
+'	$(
+
+(he)nuss	NE
+(he)nuss	NN
+
+user	ADDRESS
+user	ADDRESS
+
+Achtung	NN
+Achtung	NN
+
+:	$.
+:	$.
+
+NussCorny	NE
+NussCorny	NE
+
+können	VMFIN
+können	VMFIN
+
+Spur	NN
+Spur	NN
+
+von	APPR
+von	APPR
+
+Nüssen	NN
+Nüssen	NN
+
+enthalten	VVINF
+enthalten	VVPP
+
+user	ADDRESS
+user	ADDRESS
+
+hey	ITJ
+hey	NE
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+der	ART
+der	ART
+
+Kostüm	NN
+Kostüm	NN
+
+auf	APPR
+auf	APPR
+
+Lager	NN
+Lager	NN
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+sollen	VMFIN
+sollen	VMFIN
+
+der	ART
+der	ART
+
+kein	PIAT
+kein	PIAT
+
+Problem	NN
+Problem	NN
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+Fazit	NN
+Fazit	NN
+
+das	ART
+das	ART
+
+Sonntags	NN
+Sonntags	NN
+
+:	$.
+:	$.
+
+Vampire	NN
+Vampire	NN
+
+dürfen	VMFIN
+dürfen	VMFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+glitzern	VVFIN
+glitzern	VVINF
+
+und	KON
+und	KON
+
+SuperBowl	NN
+SuperBowl	NN
+
+gucken	VVFIN
+gucken	VVFIN
+
+man	PIS
+man	PIS
+
+nur	ADV
+nur	ADV
+
+wegen	APPR
+wegen	APPR
+
+der	ART
+der	ART
+
+Halbzeit	NN
+Halbzeit	NN
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+wah	PPER
+wah	NE
+
+wieder	ADV
+wieder	ADV
+
+was	PIS
+was	PIS
+
+lernen	VVPP
+lernen	VVINF
+
+!	$.
+!	$.
+
+user	ADDRESS
+user	ADDRESS
+
+und	KON
+und	KON
+
+zweimal	ADV
+zweimal	ADV
+
+Dortmund	NE
+Dortmund	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+plötzlich	ADJD
+plötzlich	ADJD
+
+auch	ADV
+auch	ADV
+
+klar	ADJD
+klar	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+wer	PWS
+wer	PWS
+
+machen	VVFIN
+machen	VVFIN
+
+jetztn	ADV
+jetztn	NE
+
+der	ART
+der	ART
+
+gut	ADJA
+gut	ADJD
+
+"	$(
+"	$(
+
+File	NN
+File	NN
+
+:///	EMO
+:///	ADJD
+
+"	$(
+"	$(
+
+-	$(
+-	$(
+
+Witz	NN
+Witz	NN
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+vieler	PIAT
+vieler	PIAT
+
+Dank	NN
+Dank	NN
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+Jutta	NE
+Jutta	NE
+
+Krellmann	NE
+Krellmann	NE
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+ein	ART
+ein	ART
+
+hashtag	NN
+hashtag	HASH
+
+zwischen	APPR
+zwischen	APPR
+
+hashtag	NN
+hashtag	HASH
+
+und	KON
+und	KON
+
+hashtag	NN
+hashtag	HASH
+
+"	$(
+"	$(
+
+Interview	NN
+Interview	NN
+
+der	ART
+der	ART
+
+Woche	NN
+Woche	NN
+
+-	$(
+-	$(
+
+der	ART
+der	ART
+
+hashtag	NN
+hashtag	HASH
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+auf	APPR
+auf	APPR
+
+krawall	NN
+krawall	NN
+
+gebürstet	VVFIN
+gebürstet	VVPP
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+Photovoltaik	NN
+Photovoltaik	NN
+
+in	APPR
+in	APPR
+
+North	NE
+North	NE
+
+Carolina	NE
+Carolina	NE
+
+:	$.
+:	$.
+
+Envision	NE
+Envision	NN
+
+starten	VVFIN
+starten	VVFIN
+
+Planung	NN
+Planung	NN
+
+das	ART
+das	ART
+
+Kraftwerk	NN
+Kraftwerk	NN
+
+"	$(
+"	$(
+
+Solar	NE
+Solar	NE
+
+Forest	NE
+Forest	NE
+
+"	$(
+"	$(
+
+mit	APPR
+mit	APPR
+
+@card@	CARD
+@card@	CARD
+
+MW	NN
+MW	NE
+
+-	$(
+-	$(
+
+Solarserver	NN
+Solarserver	NE
+
+@WilmaElles	ADDRESS
+@WilmaElles	NN
+
+aber	KON
+aber	ADV
+
+echt	ADJD
+echt	ADJD
+
+was	PWS
+was	PIS
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	ART
+
+?	$.
+?	$.
+
+:))	EMO
+:))	NN
+
+user	ADDRESS
+user	ADDRESS
+
+digga	NN
+digga	NN
+
+wann	PWAV
+wann	PWAV
+
+machen	VVFIN
+machen	VVFIN
+
+wir	PPER
+wir	PPER
+
+challenges	NN
+challenges	ADJA
+
+?	$.
+?	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Crowdsourcing	NN
+Crowdsourcing	NE
+
+:	$.
+:	$.
+
+journalistisch	ADJD
+journalistisch	ADJD
+
+sinnvoll	ADJA
+sinnvoll	ADJD
+
+Anwendungszwecke	NN
+Anwendungszwecke	NN
+
+für	APPR
+für	APPR
+
+hashtag	NE
+hashtag	HASH
+
+url	URL
+url	URL
+
+hashtag	NN
+hashtag	HASH
+
+,	$,
+,	$,
+
+ich	PPER
+ich	PPER
+
+machen	VVFIN
+machen	VVFIN
+
+mich	PRF
+mich	PRF
+
+heeme	ADV
+heeme	ADJD
+
+man	PIS
+man	PIS
+
+können	VMFIN
+können	VMFIN
+
+meinen	VVINF
+meinen	VVINF
+
+,	$,
+,	$,
+
+es	PPER
+es	PPER
+
+gehen	VVFIN
+gehen	VVFIN
+
+um	APPR
+um	APPR
+
+etwas	PIS
+etwas	PIS
+
+Universität	NN
+Universität	NN
+
+und	KON
+und	KON
+
+hashtag	NN
+hashtag	HASH
+
+-	$(
+-	$(
+
+halbherzig	ADJD
+halbherzig	ADJD
+
+vernetzen	VVPP
+vernetzen	VVINF
+
+-	$(
+-	$(
+
+Bildung	NN
+Bildung	NN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+bei	APPR
+bei	APPR
+
+@card@	CARD
+@card@	CARD
+
+Mio.	NN
+Mio.	NE
+
+.	$.
+.	$.
+
+iOS	NE
+iOS	ADJA
+
+Gerät	NN
+Gerät	NN
+
+weltweit	ADJD
+weltweit	ADJD
+
+und	KON
+und	KON
+
+@card@	CARD
+@card@	CARD
+
+JBkern	NN
+JBkern	NN
+
+werden	VAFIN
+werden	VAFIN
+
+Apple	NE
+Apple	NE
+
+NIE	ADV
+NIE	ADV
+
+sein	PPOSAT
+sein	PPOSAT
+
+iOS	NE
+iOS	NN
+
+öffnen	VVINF
+öffnen	VVINF
+
+jetzt	ADV
+jetzt	ADV
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+zu	APPR
+zu	APPR
+
+Gast	NN
+Gast	NN
+
+-	$(
+-	$(
+
+Hotel	NN
+Hotel	NN
+
+&	KON
+&	KON
+
+Hausbesuche	NN
+Hausbesuche	NN
+
+-	$(
+-	$(
+
+Mobil	NN
+Mobil	NN
+
+:	$.
+:	$.
+
++	XY
++	KON
+
+@card@	CARD
+@card@	CARD
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+gerne	ADV
+gerne	ADV
+
+doch	ADV
+doch	ADV
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+mir	PPER
+mir	PPER
+
+extra	ADV
+extra	ADJD
+
+frei	ADJD
+frei	ADJD
+
+nehmen	VVPP
+nehmen	VVINF
+
+,	$,
+,	$,
+
+schauen	VVFIN
+schauen	VVFIN
+
+seit	APPR
+seit	APPR
+
+@card@	CARD
+@card@	CARD
+
+Jahr	NN
+Jahr	NN
+
+,	$,
+,	$,
+
+gehen	VVFIN
+gehen	VVFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+ohne	APPR
+ohne	KOUI
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+viel	ADV
+viel	PIAT
+
+Spaß	NN
+Spaß	NN
+
+dir	PPER
+dir	PRF
+
+noch	ADV
+noch	ADV
+
+beim	APPRART
+beim	APPRART
+
+schauen	NN
+schauen	VVINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+schon	ADV
+schon	ADV
+
+mal	ADV
+mal	ADV
+
+was	PIS
+was	PIS
+
+von	APPR
+von	APPR
+
+redundanz	NN
+redundanz	NN
+
+gehören	VVPP
+gehören	VVFIN
+
+?	$.
+?	$.
+
+wir	PPER
+wir	PPER
+
+fragen	VVFIN
+fragen	VVFIN
+
+der	ART
+der	ART
+
+Schulanfänger	NN
+Schulanfänger	NN
+
+in	APPRART
+in	APPR
+
+Kindergarten	NN
+Kindergarten	NN
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+wie	PWAV
+wie	KOUS
+
+heißen	VVFIN
+heißen	VVFIN
+
+der	ART
+der	ART
+
+Mann	NN
+Mann	NN
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+der	ART
+der	ART
+
+Schule	NN
+Schule	NN
+
+leiten	VVFIN
+leiten	VVINF
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+"	$(
+"	$(
+
+Schulgott	NN
+Schulgott	NN
+
+!	$.
+!	$.
+
+"	$(
+"	$(
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Netz	NN
+Netz	NE
+
+Frank	NE
+Frank	NE
+
+Ocean	NE
+Ocean	NE
+
+legen	VVFIN
+legen	VVFIN
+
+Streit	NN
+Streit	NN
+
+mit	APPR
+mit	APPR
+
+Chris	NE
+Chris	NE
+
+Brown	NE
+Brown	NE
+
+bei	PTKVZ
+bei	PTKVZ
+
+:	$.
+:	$.
+
+nach	APPR
+nach	APPR
+
+ein	ART
+ein	ART
+
+handgreiflichen	ADJA
+handgreiflichen	ADJA
+
+Streit	NN
+Streit	NN
+
+zwischen	APPR
+zwischen	APPR
+
+Rapper	NN
+Rapper	NN
+
+Frank	NE
+Frank	NE
+
+Ocean	NE
+Ocean	VVFIN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+München	NE
+München	NE
+
+:	$.
+:	$.
+
+Miriam	NE
+Miriam	NE
+
+in	APPRART
+in	APPR
+
+Mon	NE
+Mon	ADJA
+
+Cherie	NE
+Cherie	NN
+
+-	$(
+-	$(
+
+BRANDNEU	ADJD
+BRANDNEU	ADJD
+
+!	$.
+!	$.
+
+24-jähriges	ADJA
+24-jähriges	ADJA
+
+Topmodel	NN
+Topmodel	NN
+
+aus	APPR
+aus	APPR
+
+Prag	NE
+Prag	NE
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+Heldenreise	NN
+Heldenreise	NN
+
+:	$.
+:	$.
+
+Typologie	NN
+Typologie	NN
+
+ein	ART
+ein	ART
+
+Erzählung	NN
+Erzählung	NN
+
+:	$.
+:	$.
+
+als	APPR
+als	KOKOM
+
+Regisseur	NN
+Regisseur	NN
+
+George	NE
+George	NE
+
+Lucas	NE
+Lucas	NE
+
+sein	PPOSAT
+sein	PPOSAT
+
+"	$(
+"	$(
+
+Krieg	NN
+Krieg	NN
+
+der	ART
+der	ART
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+Bach	NE
+Bach	NN
+
+haben	VAFIN
+haben	VAFIN
+
+ja	ADV
+ja	ADV
+
+auch	ADV
+auch	ADV
+
+anderer	ADJA
+anderer	PIAT
+
+Funktion	NN
+Funktion	NN
+
+.	$.
+.	$.
+
+wir	PPER
+wir	PPER
+
+gehen	VVFIN
+gehen	VVFIN
+
+jedenfalls	ADV
+jedenfalls	ADV
+
+davon	PROAV
+davon	PAV
+
+aus	PTKVZ
+aus	PTKVZ
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+sich	PRF
+sich	PRF
+
+ein	ART
+ein	ART
+
+"	$(
+"	$(
+
+neu	NN
+neu	ADJD
+
+"	$(
+"	$(
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+...	$.
+...	$.
+
+(	$(
+(	$(
+
+1	CARD
+1	CARD
+
+)	$(
+)	$(
+
+user	ADDRESS
+user	ADDRESS
+
+inflecitve	ITJ
+inflecitve	NN
+
+ich	PPER
+ich	PPER
+
+befürchten	VVFIN
+befürchten	VVFIN
+
+fast	ADV
+fast	ADV
+
+,	$,
+,	$,
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+keiner	PIS
+keiner	PIS
+
+.	$.
+.	$.
+
+echt	ADJD
+echt	ADJD
+
+gruselig	ADJD
+gruselig	ADJD
+
+was	PWS
+was	PIAT
+
+einer	PIS
+einer	PIS
+
+da	ADV
+da	ADV
+
+vorsetzen	VVPP
+vorsetzen	VVINF
+
+werden	VAFIN
+werden	VAFIN
+
+@timemurders	ADDRESS
+@timemurders	NN
+
+Sláinte	ITJ
+Sláinte	ADJD
+
+(	$(
+(	$(
+
+da	ADV
+da	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+ein	ART
+ein	ART
+
+Ardbeg	NE
+Ardbeg	NN
+
+Ten	NE
+Ten	VVFIN
+
+drin	ADV
+drin	PAV
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+richtig	ADJD
+richtig	ADJD
+
+so	ADV
+so	ADV
+
+!	$.
+!	$.
+
+"	$(
+"	$(
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Länderfinanzausgleich	NN
+Länderfinanzausgleich	NN
+
+:	$.
+:	$.
+
+Bayern	NE
+Bayern	NE
+
+und	KON
+und	KON
+
+Hessen	NE
+Hessen	NE
+
+klagen	VVFIN
+klagen	VVFIN
+
+noch	ADV
+noch	ADV
+
+in	APPR
+in	APPR
+
+dieser	PDAT
+dieser	PDAT
+
+Monat	NN
+Monat	NN
+
+url	URL
+url	URL
+
+"	$(
+"	$(
+
+user	ADDRESS
+user	ADDRESS
+
+da	ADV
+da	ADV
+
+sitzen	VVFIN
+sitzen	VVFIN
+
+ich	PPER
+ich	PPER
+
+gerade	ADV
+gerade	ADV
+
+ganz	ADV
+ganz	ADV
+
+kurz	ADJD
+kurz	ADJD
+
+drin	PTKVZ
+drin	PTKVZ
+
+.	$.
+.	$.
+
+sitzen	VVFIN
+sitzen	VVFIN
+
+aber	ADV
+aber	ADV
+
+mittlerweile	ADV
+mittlerweile	ADV
+
+auch	ADV
+auch	ADV
+
+wieder	ADV
+wieder	ADV
+
+in	APPRART
+in	APPR
+
+Büro	NN
+Büro	NN
+
+.	$.
+.	$.
+
+Schreibwettbwerb	NN
+Schreibwettbwerb	NN
+
+:	$.
+:	$.
+
+diesmal	ADV
+diesmal	ADV
+
+gehen	VVFIN
+gehen	VVFIN
+
+es	PPER
+es	PPER
+
+um	APPR
+um	APPR
+
+der	ART
+der	ART
+
+Thema	NN
+Thema	NN
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+was	PWS
+was	PWS
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+...	$.
+...	$.
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+mehr	PIAT
+mehr	PIAT
+
+Info	NN
+Info	NN
+
+dazu	PROAV
+dazu	PAV
+
+finden	VVFIN
+finden	VVFIN
+
+ihr	PPER
+ihr	PPER
+
+hier	ADV
+hier	ADV
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+Frau	NN
+Frau	NN
+
+stehen	VVFIN
+stehen	VVFIN
+
+total	ADJD
+total	ADJD
+
+auf	APPR
+auf	APPR
+
+Actionhelden	NN
+Actionhelden	NN
+
+.	$.
+.	$.
+
+Morgen	ADV
+Morgen	ADV
+
+wieder	ADV
+wieder	ADV
+
+nur	ADV
+nur	ADV
+
+bis	APPR
+bis	APPR
+
+@card@	CARD
+@card@	CARD
+
+füle	VVFIN
+füle	VVFIN
+
+mich	PRF
+mich	PRF
+
+wie	KOKOM
+wie	KOKOM
+
+ein	ART
+ein	ART
+
+harzer	ADJA
+harzer	NN
+
+...	$.
+...	$.
+
+haben	VAFIN
+haben	VAFIN
+
+OBI	NE
+OBI	NE
+
+Chris	NE
+Chris	NE
+
+Andersons	NE
+Andersons	NE
+
+"	$(
+"	$(
+
+Makers	NE
+Makers	NN
+
+"	$(
+"	$(
+
+lesen	VVPP
+lesen	VVINF
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+OBI	NE
+OBI	NE
+
+machen	VVFIN
+machen	VVFIN
+
+Macherinnen	NN
+Macherinnen	NN
+
+-	$(
+-	$(
+
+lernen	VVFIN
+lernen	VVINF
+
+.	$.
+.	$.
+
+lachen	VVFIN
+lachen	VVINF
+
+.	$.
+.	$.
+
+einfach	ADV
+einfach	ADJD
+
+machen	VVFIN
+machen	VVINF
+
+!	$.
+!	$.
+
+"	$(
+"	$(
+
+Polizeimeldung	NN
+Polizeimeldung	NN
+
+:	$.
+:	$.
+
+Store	NN
+Store	NN
+
+machen	VVFIN
+machen	VVFIN
+
+Notbremsung	NN
+Notbremsung	NN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+leider	ADV
+leider	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+,	$,
+,	$,
+
+mir	PPER
+mir	PPER
+
+geht_es	VVFIN_ES
+geht_es	VVFIN
+
+dabei	PROAV
+dabei	PAV
+
+immer	ADV
+immer	ADV
+
+mieser	ADJD
+mieser	ADJA
+
+emoticon	EMO
+emoticon	EMO
+
+@AlexJJ78	ADDRESS
+@AlexJJ78	NN
+
+der	PDS
+der	PDS
+
+wollen	VMFIN
+wollen	VMFIN
+
+ich	PPER
+ich	PPER
+
+eh	ADV
+eh	ADV
+
+mal	ADV
+mal	ADV
+
+fragen	VVINF
+fragen	VVINF
+
+...	$.
+...	$.
+
+wie	PWAV
+wie	KOUS
+
+machen	VVFIN
+machen	VVFIN
+
+ihr	PPER
+ihr	PPER
+
+der	PDS
+der	PDS
+
+?	$.
+?	$.
+
+mir	PPER
+mir	PPER
+
+laufen	VVFIN
+laufen	VVFIN
+
+der	PDS
+der	ART
+
+immer	ADV
+immer	ADV
+
+wieder	ADV
+wieder	ADV
+
+aus	APPR
+aus	APPR
+
+der	ART
+der	ART
+
+Ohr	NN
+Ohr	NN
+
+...	$.
+...	$.
+
+emoticon	EMO
+emoticon	EMO
+
+Hab	NN
+Hab	NN
+
+jetzt	ADV
+jetzt	ADV
+
+erst	ADV
+erst	ADV
+
+verstehen	VVPP
+verstehen	VVINF
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+V-Day	NE
+V-Day	NE
+
+bei	APPR
+bei	APPR
+
+Gilly	NE
+Gilly	NE
+
+Hicks	NE
+Hicks	NN
+
+Valentinstag	NN
+Valentinstag	NN
+
+bedeuten	VVFIN
+bedeuten	VVINF
+
+.	$.
+.	$.
+
+verdammen	ADJD
+verdammen	VVINF
+
+,	$,
+,	$,
+
+Hawaii	NE
+Hawaii	NE
+
+gehören	VVFIN
+gehören	VVFIN
+
+ja	ADV
+ja	ADV
+
+zu	APPR
+zu	APPR
+
+der	ART
+der	ART
+
+USA	NE
+USA	NE
+
+.	$.
+.	$.
+
+da	ADV
+da	ADV
+
+können	VMFIN
+können	VMFIN
+
+ich	PPER
+ich	PPER
+
+dahin	PROAV
+dahin	PAV
+
+auch	ADV
+auch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+auswandern	VVINF
+auswandern	VVINF
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+es	PPER
+es	PPER
+
+werden	VAFIN
+werden	VAFIN
+
+ja	ADV
+ja	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+nur	ADV
+nur	ADV
+
+American	NN
+American	NE
+
+Football	NN
+Football	NN
+
+spielen	VVPP
+spielen	VVINF
+
+...	$.
+...	$.
+
+emoticon	EMO
+emoticon	EMO
+
+url	URL
+url	URL
+
+schauen	VVIMP
+schauen	VVFIN
+
+mal	ADV
+mal	ADV
+
+user	NE
+user	ADDRESS
+
+,	$,
+,	$,
+
+der	PDS
+der	PDS
+
+haben	VAFIN
+haben	VAFIN
+
+da	ADV
+da	ADV
+
+so	ADV
+so	ADV
+
+schwarz	ADJA
+schwarz	ADJD
+
+Streifen	NN
+Streifen	NN
+
+in	APPRART
+in	APPR
+
+Gesicht	NN
+Gesicht	NN
+
+wie	KOKOM
+wie	KOKOM
+
+der	ART
+der	ART
+
+Footballer	NN
+Footballer	NN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+WM	NN
+WM	NE
+
+hashtag	NN
+hashtag	HASH
+
+werden	VAFIN
+werden	VAFIN
+
+heute	ADV
+heute	ADV
+
+eröffnen	VVPP
+eröffnen	VVINF
+
+:	$.
+:	$.
+
+hier	ADV
+hier	ADV
+
+der	ART
+der	ART
+
+Übersicht	NN
+Übersicht	NN
+
+zu	APPR
+zu	APPR
+
+Übertragungen	NN
+Übertragungen	NN
+
+und	KON
+und	KON
+
+Livestreams	NN
+Livestreams	NN
+
+url	URL
+url	URL
+
+so	ADV
+so	ADV
+
+und	KON
+und	KON
+
+jetzt	ADV
+jetzt	ADV
+
+der	ART
+der	ART
+
+Farbenspielfrage	NN
+Farbenspielfrage	NN
+
+beim	APPRART
+beim	APPRART
+
+hashtag	NN
+hashtag	HASH
+
+schwarz-grün	ADJA
+schwarz-grün	ADJD
+
+Ausschließen	VVINF
+Ausschließen	NN
+
+ja	PTKANT
+ja	ADV
+
+oder	KON
+oder	KON
+
+nein	PTKANT
+nein	PTKANT
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+André	NE
+André	NE
+
+Straub	NE
+Straub	NE
+
+,	$,
+,	$,
+
+Leitung	NN
+Leitung	NN
+
+it	NN
+it	FM
+
+&	KON
+&	KON
+
+Logistik	NN
+Logistik	NN
+
+,	$,
+,	$,
+
+ISOLITE	NE
+ISOLITE	NN
+
+GmbH	NN
+GmbH	NN
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+mit	APPR
+mit	APPR
+
+nfon	NE
+nfon	NN
+
+haben	VAFIN
+haben	VAFIN
+
+wir	PPER
+wir	PPER
+
+genau	ADJD
+genau	ADJD
+
+der	ART
+der	ART
+
+Flexibilität	NN
+Flexibilität	NN
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+wir	PPER
+wir	PPER
+
+in	APPR
+in	APPR
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+ah	ITJ
+ah	ITJ
+
+ja	PTKANT
+ja	ADV
+
+ich	PPER
+ich	PPER
+
+wissen	VVFIN
+wissen	VVFIN
+
+schon	ADV
+schon	ADV
+
+der	ART
+der	ART
+
+Script	NN
+Script	NN
+
+von	APPR
+von	APPR
+
+der	ART
+der	ART
+
+Seite	NN
+Seite	NN
+
+emoticon	EMO
+emoticon	EMO
+
+TV	NN
+TV	NE
+
+anhaben	VVINF
+anhaben	VVINF
+
+und	KON
+und	KON
+
+mit	APPR
+mit	APPR
+
+sPhone	NN
+sPhone	NN
+
+aufm	APPRART
+aufm	NE
+
+Sofa	NN
+Sofa	NN
+
+davor	PROAV
+davor	PAV
+
+ablümmeln	VVINF
+ablümmeln	VVFIN
+
+.	$.
+.	$.
+
+irgendwann	ADV
+irgendwann	ADV
+
+merken	VVFIN
+merken	VVINF
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+man	PIS
+man	PIS
+
+außer	APPR
+außer	APPR
+
+der	ART
+der	ART
+
+eigen	ADJA
+eigen	ADJD
+
+TL	NN
+TL	NE
+
+schon	ADV
+schon	ADV
+
+lange	ADV
+lange	ADV
+
+nichts	PIS
+nichts	PIS
+
+mehr	ADV
+mehr	ADV
+
+mitbekommen	VVPP
+mitbekommen	VVPP
+
+haben	VAFIN
+haben	VAFIN
+
+.	$.
+.	$.
+
+warum	PWAV
+warum	PWAV
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+kein	PIAT
+kein	PIAT
+
+Mittel	NN
+Mittel	NN
+
+gegen	APPR
+gegen	APPR
+
+der	ART
+der	ART
+
+Kater	NN
+Kater	NN
+
+?	$.
+?	$.
+
+von	APPRART
+von	APPR
+
+Kampf	NN
+Kampf	NN
+
+gegen	APPR
+gegen	APPR
+
+der	ART
+der	ART
+
+Tief	NN
+Tief	NN
+
+nach	APPR
+nach	APPR
+
+der	ART
+der	ART
+
+Alkoholrausch	NN
+Alkoholrausch	NN
+
+url	URL
+url	URL
+
+Alkoholkranker	NN
+Alkoholkranker	ADJA
+
+Gascoigne	NE
+Gascoigne	NN
+
+begeben	VVFIN
+begeben	VVFIN
+
+sich	PRF
+sich	PRF
+
+in	APPR
+in	APPR
+
+Behandlung	NN
+Behandlung	NN
+
+:	$.
+:	$.
+
+Paul	NE
+Paul	NE
+
+Gascoigne	NE
+Gascoigne	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+an	APPRART
+an	APPR
+
+Montag	NN
+Montag	NN
+
+wegen	APPR
+wegen	APPR
+
+sein	PPOSAT
+sein	PPOSAT
+
+Alkoholsucht	NN
+Alkoholsucht	NN
+
+in	APPR
+in	APPR
+
+e	XYB
+e	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+in	APPR
+in	APPR
+
+Wuppertal	NE
+Wuppertal	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+schon	ADV
+schon	ADV
+
+früh	ADJD
+früh	ADJD
+
+Schluss	NN
+Schluss	NN
+
+:	$.
+:	$.
+
+bei	APPRART
+bei	APPR
+
+Hallenturnier	NN
+Hallenturnier	NN
+
+um	APPR
+um	APPR
+
+der	ART
+der	ART
+
+Wuppercup	NN
+Wuppercup	NN
+
+schied	VVFIN
+schied	VVFIN
+
+Bayer	NE
+Bayer	NE
+
+@card@	CARD
+@card@	CARD
+
+bereits	ADV
+bereits	ADV
+
+nac	XYB
+nac	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+Bußgeld	NN
+Bußgeld	NN
+
+für	APPR
+für	APPR
+
+Fahrradfahrer	NN
+Fahrradfahrer	NN
+
+erhöhen	VVPP
+erhöhen	VVINF
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+doch	ADV
+doch	ADV
+
+rein	ADJA
+rein	ADV
+
+Interessenvertreter	NN
+Interessenvertreter	NN
+
+...	$.
+...	$.
+
+nur	ADV
+nur	ADV
+
+noch	ADV
+noch	ADV
+
+wenig	PIAT
+wenig	PIAT
+
+Platz	NN
+Platz	NN
+
+in	APPR
+in	APPR
+
+München	NE
+München	NE
+
+,	$,
+,	$,
+
+Hannover	NE
+Hannover	NE
+
+und	KON
+und	KON
+
+Nürnberg	NE
+Nürnberg	NE
+
+.	$.
+.	$.
+
+jetzt	ADV
+jetzt	ADV
+
+anmelden	VVINF
+anmelden	VVINF
+
+!	$.
+!	$.
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+sein	VAFIN
+sein	PPOSAT
+
+ja	ADV
+ja	ADV
+
+überraschend	ADJD
+überraschend	ADJD
+
+vieler	PIAT
+vieler	PIAT
+
+Kandidat*innen	NN
+Kandidat*innen	NN
+
+hier	ADV
+hier	ADV
+
+für	APPR
+für	APPR
+
+ein	ART
+ein	ART
+
+BGE	NN
+BGE	NN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+suchen	VVFIN
+suchen	VVFIN
+
+hashtag	NN
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+gut	ADJA
+gut	ADJD
+
+Morgen	NN
+Morgen	ADV
+
+,	$,
+,	$,
+
+wie	PWAV
+wie	KOUS
+
+ich	PPER
+ich	PPER
+
+sehen	VVFIN
+sehen	VVINF
+
+haben	VAFIN
+haben	VAFIN
+
+fast	ADV
+fast	ADV
+
+alle	PIS
+alle	PIS
+
+der	ART
+der	ART
+
+superbowl	NN
+superbowl	NN
+
+sehen	VVPP
+sehen	VVINF
+
+.	$.
+.	$.
+
+kurz	ADJA
+kurz	ADJD
+
+Frage	NN
+Frage	NN
+
+:	$.
+:	$.
+
+interessieren	VVFIN
+interessieren	VVFIN
+
+sich	PRF
+sich	PRF
+
+von	APPR
+von	APPR
+
+der	PRELS
+der	ART
+
+jemand	PIS
+jemand	PIS
+
+wirklich	ADJD
+wirklich	ADJD
+
+für	APPR
+für	APPR
+
+dieser	PDAT
+dieser	PDAT
+
+Sport	NN
+Sport	NN
+
+?	$.
+?	$.
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+böse	NN
+böse	ADJA
+
+in	APPRART
+in	APPR
+
+Busch	NN
+Busch	NE
+
+!	$.
+!	$.
+
+user	ADDRESS
+user	ADDRESS
+
+OmG	ITJ
+OmG	NE
+
+,	$,
+,	$,
+
+ich	PPER
+ich	PPER
+
+kennen	VVFIN
+kennen	VVFIN
+
+dieser	PDAT
+dieser	PDAT
+
+Gefühl	NN
+Gefühl	NN
+
+!	$.
+!	$.
+
+OmG	ITJ
+OmG	VVIMP
+
+und	KON
+und	KON
+
+wie	PWAV
+wie	KOUS
+
+ich	PPER
+ich	PPER
+
+der	PDS
+der	PDS
+
+kennen	VVFIN
+kennen	VVFIN
+
+emoticon	EMO
+emoticon	EMO
+
+OP	NE
+OP	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+cool	ADJD
+cool	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+Doku	NE
+Doku	NN
+
+über	APPR
+über	APPR
+
+hashtag	NE
+hashtag	HASH
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Mediathek	NN
+Mediathek	NN
+
+.	$.
+.	$.
+
+(	$(
+(	$(
+
+Dauer	NN
+Dauer	NN
+
+:	$.
+:	$.
+
+@card@	CARD
+@card@	CARD
+
+Minute	NN
+Minute	NN
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+Vorsicht	NN
+Vorsicht	NN
+
+Pishing	NN
+Pishing	VVFIN
+
+:	$.
+:	$.
+
+angeblich	ADJA
+angeblich	ADJD
+
+?	$(
+?	$.
+
+Elster	NE
+Elster	NN
+
+?	$(
+?	$.
+
+Steuerbescheide	NN
+Steuerbescheide	NN
+
+enthalten	VVFIN
+enthalten	VVFIN
+
+Schadcode	NN
+Schadcode	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+Bundesamt	NN
+Bundesamt	NN
+
+für	APPR
+für	APPR
+
+Sicherheit	NN
+Sicherheit	NN
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+I	XYB
+I	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+in	APPRART
+in	APPR
+
+Speisewagen	NN
+Speisewagen	NN
+
+werden	VAFIN
+werden	VAFIN
+
+auf	APPR
+auf	APPR
+
+mich	PPER
+mich	PRF
+
+wetten	VVPP
+wetten	VVINF
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+sollen	VMFIN
+sollen	VMFIN
+
+Horst	NE
+Horst	NE
+
+Licht	NE
+Licht	NN
+
+sein	VAINF
+sein	VAINF
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+Superclean	NE
+Superclean	NN
+
+und	KON
+und	KON
+
+DroidCleaner	NE
+DroidCleaner	NN
+
+:	$.
+:	$.
+
+Spyware	NN
+Spyware	NN
+
+für	APPR
+für	APPR
+
+Android	NE
+Android	NE
+
+und	KON
+und	KON
+
+Windows	NE
+Windows	NE
+
+in	APPRART
+in	APPR
+
+Google	NE
+Google	NN
+
+Play	NE
+Play	NN
+
+Store	NE
+Store	NN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+irgendwie	ADV
+irgendwie	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+ihr	PPER
+ihr	PPER
+
+auch	ADV
+auch	ADV
+
+mal	ADV
+mal	ADV
+
+gut	ADJD
+gut	ADJD
+
+drauf	PTKVZ
+drauf	PAV
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+bis	APPR
+bis	APPR
+
+der	ART
+der	ART
+
+Programm	NN
+Programm	NN
+
+stehen	VVFIN
+stehen	VVFIN
+
+,	$,
+,	$,
+
+dauern	VVFIN
+dauern	VVFIN
+
+es	PPER
+es	PPER
+
+noch	ADV
+noch	ADV
+
+ein	ART
+ein	ART
+
+bisschen	PIS
+bisschen	PIS
+
+.	$.
+.	$.
+
+sobald	KOUS
+sobald	KOUS
+
+es	PPER
+es	PPER
+
+Information	NN
+Information	NN
+
+geben	VVFIN
+geben	VVINF
+
+,	$,
+,	$,
+
+werden	VAFIN
+werden	VAFIN
+
+wir	PPER
+wir	PPER
+
+darüber	PROAV
+darüber	PAV
+
+informieren	VVINF
+informieren	VVINF
+
+.	$.
+.	$.
+
+neu	ADJA
+neu	ADJD
+
+Firma	NN
+Firma	NN
+
+,	$,
+,	$,
+
+wir	PPER
+wir	PPER
+
+freuen	VVFIN
+freuen	VVFIN
+
+UNS	PRF
+UNS	PPER
+
+ÜBER	APPR
+ÜBER	APPR
+
+alle	PIAT
+alle	PIAT
+
+"	$(
+"	$(
+
+LIKES	NN
+LIKES	NN
+
+"	$(
+"	$(
+
+emoticon	EMO
+emoticon	EMO
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+irgendwas	PIS
+irgendwas	PIS
+
+mit	APPR
+mit	APPR
+
+einer	ART
+einer	ART
+
+debugausgabe	NN
+debugausgabe	NN
+
+ein	ART
+ein	ART
+
+buffers	NN
+buffers	NN
+
+~	XY
+~	XY
+
+hashtag	NE
+hashtag	HASH
+
+decken	VVFIN
+decken	VVFIN
+
+weltweit	ADJD
+weltweit	ADJD
+
+groß	ADJA
+groß	ADJD
+
+hashtag	NN
+hashtag	HASH
+
+auf	PTKVZ
+auf	PTKVZ
+
+:	$.
+:	$.
+
+@card@	CARD
+@card@	CARD
+
+hashtag	NN
+hashtag	HASH
+
+sollen	VMFIN
+sollen	VMFIN
+
+manipulieren	VVPP
+manipulieren	VVINF
+
+werden	VAPP
+werden	VAFIN
+
+sein	VAINF
+sein	VAINF
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+zweifelhaft	ADJA
+zweifelhaft	ADJD
+
+Bonitätsnoten	NN
+Bonitätsnoten	NN
+
+:	$.
+:	$.
+
+USA	NE
+USA	NE
+
+wollen	VMFIN
+wollen	VMFIN
+
+Ratingagentur	NN
+Ratingagentur	NN
+
+S&P	NE
+S&P	NN
+
+verklagen	VVINF
+verklagen	VVINF
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+US-Justizministerium	NN
+US-Justizministerium	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+der	ART
+der	ART
+
+Woche	NN
+Woche	NN
+
+gehen	VVFIN
+gehen	VVFIN
+
+viel	ADV
+viel	ADV
+
+zu	PTKA
+zu	PTKA
+
+gut	ADJD
+gut	ADJD
+
+los	PTKVZ
+los	PTKVZ
+
+.	$.
+.	$.
+
+der	PDS
+der	PDS
+
+können	VMFIN
+können	VMFIN
+
+einer	PIS
+einer	PIS
+
+ja	ADV
+ja	ADV
+
+Angst	NN
+Angst	NN
+
+machen	VVINF
+machen	VVINF
+
+...	$.
+...	$.
+
+Plagiatsvorwurf	NN
+Plagiatsvorwurf	NN
+
+:	$.
+:	$.
+
+Schavan	NE
+Schavan	NE
+
+werden	VAFIN
+werden	VAFIN
+
+wohl	ADV
+wohl	ADV
+
+der	ART
+der	ART
+
+Titel	NN
+Titel	NN
+
+verlieren	VVINF
+verlieren	VVINF
+
+-	$(
+-	$(
+
+Inland	NN
+Inland	NN
+
+-	$(
+-	$(
+
+FAZ	NE
+FAZ	NE
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Glückwunsch	NN
+Glückwunsch	NN
+
+an	APPR
+an	APPR
+
+Bilfinger	NE
+Bilfinger	NN
+
+zu	APPRART
+zu	APPR
+
+8.	ADJA
+8.	ADJA
+
+Platz	NN
+Platz	NN
+
+Best	NE
+Best	ADJD
+
+Online	NE
+Online	NN
+
+Application	NE
+Application	NN
+
+und	KON
+und	KON
+
+vieler	PIAT
+vieler	PIAT
+
+Gruß	NN
+Gruß	NN
+
+user	ADDRESS
+user	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+Suche	NN
+Suche	NN
+
+Faust'sche	ADJA
+Faust'sche	NN
+
+Beziehung	NN
+Beziehung	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+als	KOUS
+als	KOUS
+
+sein	VAFIN
+sein	PPOSAT
+
+es	PPER
+es	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+da	ADV
+da	PTKVZ
+
+.	$.
+.	$.
+
+Studium	NN
+Studium	NN
+
+von	APPR
+von	APPR
+
+Gartner	NE
+Gartner	NN
+
+und	KON
+und	KON
+
+Kantar	NE
+Kantar	NN
+
+:	$.
+:	$.
+
+erster	ADJA
+erster	ADJA
+
+Erfolg	NN
+Erfolg	NN
+
+für	APPR
+für	APPR
+
+Windows	NE
+Windows	NE
+
+Phone	NE
+Phone	NN
+
+url	URL
+url	URL
+
+Halbzeit	NN
+Halbzeit	NN
+
+,	$,
+,	$,
+
+@card@	CARD
+@card@	CARD
+
+!	$.
+!	$.
+
+Fazit	NN
+Fazit	NN
+
+:	$.
+:	$.
+
+user	ADDRESS
+user	ADDRESS
+
+mit	APPR
+mit	APPR
+
+stark	ADJA
+stark	ADJD
+
+Defense	NN
+Defense	ADJA
+
+und	KON
+und	KON
+
+vorne	ADV
+vorne	ADV
+
+effektiv	ADJD
+effektiv	ADJD
+
+!	$.
+!	$.
+
+user	NE
+user	ADDRESS
+
+wirken	VVFIN
+wirken	VVINF
+
+verunsichern	ADJD
+verunsichern	VVINF
+
+!	$.
+!	$.
+
+jetzt	ADV
+jetzt	ADV
+
+erstmal	ADV
+erstmal	ADV
+
+Showtime	NN
+Showtime	NN
+
+mit	APPR
+mit	APPR
+
+Beyonce	NE
+Beyonce	NE
+
+hashtag	HASH
+hashtag	HASH
+
+Facebook	NE
+Facebook	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+kostenlos	ADJD
+kostenlos	ADJD
+
+:	$.
+:	$.
+
+Vorname	NN
+Vorname	NN
+
+,	$,
+,	$,
+
+Nachname	NN
+Nachname	NN
+
+,	$,
+,	$,
+
+Email-Adresse	NN
+Email-Adresse	NN
+
+.	$.
+.	$.
+
+Manfred	NE
+Manfred	NE
+
+Mustermann	NE
+Mustermann	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+Mitglied	NN
+Mitglied	NN
+
+.	$.
+.	$.
+
+für	APPR
+für	APPR
+
+Facebook	NE
+Facebook	NE
+
+-	XYB
+-	$(
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+♬♬♫♫	XY
+♬♬♫♫	NN
+
+wir	PPER
+wir	PPER
+
+wünschen	VVFIN
+wünschen	VVFIN
+
+euch	PPER
+euch	PPER
+
+ein	ART
+ein	ART
+
+toll	ADJA
+toll	ADJD
+
+Start	NN
+Start	NN
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+neu	ADJA
+neu	ADJD
+
+,	$,
+,	$,
+
+verschneite	ADJA
+verschneite	VVFIN
+
+Woche	NN
+Woche	NN
+
+!	$.
+!	$.
+
+♬♬♫♫	XY
+♬♬♫♫	ADJD
+
+url	URL
+url	URL
+
+Geldwäschegesetz	NN
+Geldwäschegesetz	NN
+
+2	CARD
+2	CARD
+
+-	$(
+-	$(
+
+Rechtsthemen	NN
+Rechtsthemen	NN
+
+Teil	NN
+Teil	NN
+
+1b	NN
+1b	NN
+
+-	$(
+-	$(
+
+ImmobilienScout24	NE
+ImmobilienScout24	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Tiefgaragenstellplatz	NN
+Tiefgaragenstellplatz	NN
+
+abschließen	VVPP
+abschließen	VVINF
+
+,	$,
+,	$,
+
+St.	NE
+St.	NE
+
+Benno-Viertel	NN
+Benno-Viertel	NN
+
+,	$,
+,	$,
+
+Zufahrt	NN
+Zufahrt	NN
+
+Kreittmayrstraße	NE
+Kreittmayrstraße	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+wer	PWS
+wer	PWS
+
+gucken	VVFIN
+gucken	VVFIN
+
+denn	ADV
+denn	ADV
+
+ernsthaft	ADJD
+ernsthaft	ADJD
+
+dieser	PDAT
+dieser	PDAT
+
+Superbowlscheiße	NN
+Superbowlscheiße	NN
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+wer	PWS
+wer	PWS
+
+wollen	VMFIN
+wollen	VMFIN
+
+der	ADV
+der	ART
+
+massivholzwände	NN
+massivholzwände	NN
+
+?	$.
+?	$.
+
+ich	PPER
+ich	PPER
+
+wollen	VMFIN
+wollen	VMFIN
+
+doch	ADV
+doch	ADV
+
+nur	ADV
+nur	ADV
+
+eine	ADV
+eine	ART
+
+anderer	ADJA
+anderer	PIAT
+
+Farbe	NN
+Farbe	NN
+
+!	$.
+!	$.
+
+jetzt	ADV
+jetzt	ADV
+
+denken	VVFIN
+denken	VVFIN
+
+der	ART
+der	ART
+
+anderer	ADJA
+anderer	PIS
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+kein	PIAT
+kein	PIAT
+
+Geschmack	NN
+Geschmack	NN
+
+.	$.
+.	$.
+
+vieler	PIAT
+vieler	PIAT
+
+Dank	NN
+Dank	NN
+
+Einladung	NN
+Einladung	NN
+
+zu	APPRART
+zu	APPR
+
+hashtag	NN
+hashtag	HASH
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+Sozialraumorientierung	NN
+Sozialraumorientierung	NN
+
+in	APPR
+in	APPR
+
+hashtag	NN
+hashtag	HASH
+
+und	KON
+und	KON
+
+hashtag	NN
+hashtag	HASH
+
+"	$(
+"	$(
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+an	APPRART
+an	APPR
+
+@card@	CARD
+@card@	CARD
+
+url	URL
+url	URL
+
+ich	PPER
+ich	PPER
+
+sein	VAFIN
+sein	VAINF
+
+mir	PPER
+mir	PPER
+
+sicher	ADJD
+sicher	ADJD
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+der	ART
+der	ART
+
+hashtag	NN
+hashtag	HASH
+
+schon	ADV
+schon	ADV
+
+ein	ART
+ein	ART
+
+bisschen	PIS
+bisschen	PIS
+
+gut	ADJD
+gut	ADJD
+
+werden	VAFIN
+werden	VAINF
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+man	PIS
+man	PIS
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+ständig	ADJD
+ständig	ADJD
+
+wiederholen	VVPP
+wiederholen	VVINF
+
+,	$,
+,	$,
+
+wie	PWAV
+wie	KOUS
+
+scheiße_ADJD_scheiße	ADJD
+scheiße_ADJD_scheiße	VVFIN
+
+der	ART
+der	ART
+
+Montag	NN
+Montag	NN
+
+sein	VAFIN
+sein	VAINF
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+warum	PWAV
+warum	PWAV
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	PRELS
+
+lustig	ADJD
+lustig	ADJD
+
+?	$.
+?	$.
+
+nun	ADV
+nun	ADV
+
+,	$,
+,	$,
+
+sie	PPER
+sie	PPER
+
+schreiben	VVFIN
+schreiben	VVFIN
+
+der	PDS
+der	ART
+
+in	APPR
+in	APPR
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+Steckbrief	NN
+Steckbrief	NN
+
+zu	APPRART
+zu	APPR
+
+Bundestagskandidatur	NN
+Bundestagskandidatur	NN
+
+.	$.
+.	$.
+
+schon	ADV
+schon	ADV
+
+lesen	VVPP
+lesen	VVFIN
+
+?	$.
+?	$.
+
+:	$.
+:	$.
+
+warum	PWAV
+warum	PWAV
+
+sein	VAFIN
+sein	PPOSAT
+
+Handys	NN
+Handys	NN
+
+sexy	ADJD
+sexy	ADJD
+
+und	KON
+und	KON
+
+Bankprodukt	NN
+Bankprodukt	NN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+?	$.
+?	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+schwarz	ADJA
+schwarz	ADJD
+
+NIKE-Jogginghose	NN
+NIKE-Jogginghose	NN
+
+&	KON
+&	KON
+
+AirMax	NE
+AirMax	NN
+
+sein	VAFIN
+sein	VAINF
+
+doch	ADV
+doch	KON
+
+hashtag	ADJD
+hashtag	HASH
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+der	PDS
+der	PDS
+
+laufen	VVFIN
+laufen	VVFIN
+
+schon	ADV
+schon	ADV
+
+bei	APPR
+bei	APPR
+
+mir	PPER
+mir	PPER
+
+...	$.
+...	$.
+
+theoretisch	ADJD
+theoretisch	ADJD
+
+sollen	VMFIN
+sollen	VMFIN
+
+ich	PPER
+ich	PPER
+
+ja	ADV
+ja	ADV
+
+schon	ADV
+schon	ADV
+
+in	APPRART
+in	APPR
+
+Bett	NN
+Bett	NN
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+Theorie	NN
+Theorie	NN
+
+und	KON
+und	KON
+
+Praxis	NN
+Praxis	NN
+
+.	$.
+.	$.
+
+immer	ADV
+immer	ADV
+
+so	ADV
+so	ADV
+
+ein	ART
+ein	ART
+
+Scheiss	NN
+Scheiss	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+dann	ADV
+dann	ADV
+
+gehen	VVFIN
+gehen	VVFIN
+
+ich	PPER
+ich	PPER
+
+für	APPR
+für	APPR
+
+dich	PPER
+dich	PPER
+
+in	APPRART
+in	APPR
+
+Holthusenbad	NN
+Holthusenbad	NN
+
+->	XY
+->	ADJA
+
+Mädchensauna	NN
+Mädchensauna	NN
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+kein	PIAT
+kein	PIAT
+
+Ferien	NN
+Ferien	NN
+
+?	$.
+?	$.
+
+Anmachsprüche	NN
+Anmachsprüche	NN
+
+für	APPR
+für	APPR
+
+@card@	CARD
+@card@	CARD
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+du	PPER
+du	PPER
+
+stehen	VVFIN
+stehen	VVFIN
+
+auf	APPR
+auf	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+To-Do-Liste	NN
+To-Do-Liste	NN
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+(	$(
+(	$(
+
+To-__Do__-Liste	NN
+To-__Do__-Liste	NN
+
+,	$,
+,	$,
+
+verstehen	VVFIN
+verstehen	VVFIN
+
+ihr	PPER
+ihr	PPER
+
+?	$.
+?	$.
+
+Ach	ITJ
+Ach	ITJ
+
+ist	VAFIN
+ist	VAFIN
+
+ja	ADV
+ja	ADV
+
+auch	ADV
+auch	ADV
+
+egal	ADJD
+egal	ADJD
+
+.	$.
+.	$.
+
+)	$(
+)	$(
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+46″	XY
+46″	NE
+
+LED-TV	NE
+LED-TV	NE
+
+Philips	NE
+Philips	NE
+
+46PFL3807K	NE
+46PFL3807K	NE
+
+:	$.
+:	$.
+
+Smart	NE
+Smart	ADJD
+
+TV	NE
+TV	NE
+
+mit	APPR
+mit	APPR
+
+Triple	NE
+Triple	NE
+
+Tuner	NE
+Tuner	NE
+
+für	APPR
+für	APPR
+
+@card@	CARD
+@card@	CARD
+
+Euro	NN
+Euro	NN
+
+(	$(
+(	$(
+
+statt	APPR
+statt	APPR
+
+598	CARD
+598	CARD
+
+Euro	NN
+Euro	NN
+
+)	$(
+)	$(
+
+:	$.
+:	$.
+
+ein	ART
+ein	ART
+
+weit	ADJA
+weit	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+@mhaddl	ADDRESS
+@mhaddl	NN
+
+schicken	VVFIN
+schicken	VVFIN
+
+sie	PPER
+sie	PPER
+
+ein	ART
+ein	ART
+
+iMessage	NN
+iMessage	NN
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+@SPIEGELONLINE	ADDRESS
+@SPIEGELONLINE	NN
+
+user	ADDRESS
+user	ADDRESS
+
+danke	VVFIN
+danke	VVFIN
+
+,	$,
+,	$,
+
+dieser	PDAT
+dieser	PDAT
+
+Tipp	NN
+Tipp	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+sehr	ADV
+sehr	ADV
+
+hilfreich	ADJD
+hilfreich	ADJD
+
+!	$.
+!	$.
+
+super	NE
+super	ADJD
+
+Bowl	NE
+Bowl	NE
+
+.	$.
+.	$.
+
+hier	ADV
+hier	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+grade	ADV
+grade	NN
+
+alle	PIS
+alle	PIAT
+
+schreiend	ADJD
+schreiend	ADJD
+
+aufgesprungen	VVPP
+aufgesprungen	VVPP
+
+!	$.
+!	$.
+
+sein	VAFIN
+sein	PPOSAT
+
+voll	ADJD
+voll	ADJD
+
+dabei	PTKVZ
+dabei	PAV
+
+und	KON
+und	KON
+
+tragen	VVFIN
+tragen	VVFIN
+
+sogar	ADV
+sogar	ADV
+
+ein	ART
+ein	ART
+
+Game-Shirt	NN
+Game-Shirt	NN
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+heute2	NE
+heute2	NN
+
+:	$.
+:	$.
+
+Google	NE
+Google	NN
+
+zahlen	VVFIN
+zahlen	VVFIN
+
+in	APPR
+in	APPR
+
+Frankreich	NE
+Frankreich	NE
+
+@card@	CARD
+@card@	CARD
+
+Mio.	NN
+Mio.	NE
+
+Euro	NN
+Euro	NN
+
+an	APPR
+an	APPR
+
+Verleger-Fonds	NN
+Verleger-Fonds	NN
+
+..	$.
+..	NN
+
+-	$(
+-	$(
+
+Turi2	NE
+Turi2	NE
+
+-	$(
+-	$(
+
+für	APPR
+für	APPR
+
+Medienmacher	NN
+Medienmacher	NN
+
+url	URL
+url	URL
+
+Aktueller	ADJD
+Aktueller	ADJD
+
+geht_es	VVFIN_ES
+geht_es	VVFIN
+
+kaum	ADV
+kaum	ADV
+
+,	$,
+,	$,
+
+oder	KON
+oder	KON
+
+?	$.
+?	$.
+
+-	$(
+-	$(
+
+der	ART
+der	ART
+
+erster	ADJA
+erster	ADJA
+
+neu	ADJA
+neu	ADJD
+
+hashtag	NN
+hashtag	HASH
+
+sein	VAFIN
+sein	PPOSAT
+
+da	ADV
+da	ADV
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Handball	NN
+Handball	NN
+
+DHB-Pokal	NN
+DHB-Pokal	NN
+
+:	$.
+:	$.
+
+HSV	NE
+HSV	NE
+
+Hamburg	NE
+Hamburg	NE
+
+erreichen	VVFIN
+erreichen	VVFIN
+
+in	APPRART
+in	APPR
+
+Pokal	NN
+Pokal	NN
+
+Final-Four-Turnier	NN
+Final-Four-Turnier	NN
+
+-	$(
+-	$(
+
+Handelsblatt	NE
+Handelsblatt	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+also	ADV
+also	ADV
+
+entweder	KON
+entweder	KON
+
+dein	PPOSAT
+dein	PPOSAT
+
+Rechner	NN
+Rechner	NN
+
+spackt	VVFIN
+spackt	VVFIN
+
+rum	PTKVZ
+rum	ADV
+
+oda	KON
+oda	NE
+
+da	ADV
+da	ADV
+
+stimmen	VVFIN
+stimmen	VVFIN
+
+irgendwas	PIS
+irgendwas	PIS
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+hashtag	HASH
+hashtag	HASH
+
+And	FM
+And	NE
+
+Underpants	NN
+Underpants	NN
+
+user	NN
+user	ADDRESS
+
+url	URL
+url	URL
+
+sein	VAFIN
+sein	VAINF
+
+der	ART
+der	ART
+
+lecker	ADJD
+lecker	ADJA
+
+emoticon	EMO
+emoticon	EMO
+
+emoticon	EMO
+emoticon	EMO
+
+url	URL
+url	URL
+
+The	NE
+The	FM
+
+Stefan	NE
+Stefan	NE
+
+Nowaczynski	NE
+Nowaczynski	NE
+
+Daily	NE
+Daily	NE
+
+werden	VAFIN
+werden	VAFIN
+
+gerade	ADV
+gerade	ADV
+
+veröffentlichen	VVPP
+veröffentlichen	VVINF
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+-	XY
+-	$(
+
+Topthema	NN
+Topthema	NN
+
+heute	ADV
+heute	ADV
+
+von	APPR
+von	APPR
+
+user	NE
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+Schumacher	NE
+Schumacher	NE
+
+:	$.
+:	$.
+
+kein	PIAT
+kein	PIAT
+
+Funktion	NN
+Funktion	NN
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Formel	NE
+Formel	NN
+
+1	CARD
+1	CARD
+
+:	$.
+:	$.
+
+Ross	NE
+Ross	NN
+
+Brawn	NE
+Brawn	NN
+
+bestätigen	VVPP
+bestätigen	VVFIN
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+Michael	NE
+Michael	NE
+
+Schumacher	NE
+Schumacher	NE
+
+Daimler-Botschafter	NN
+Daimler-Botschafter	NN
+
+w	XYB
+w	ADJA
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+Ausstellung	NN
+Ausstellung	NN
+
+zu	APPR
+zu	APPR
+
+Klimaanpassung	NN
+Klimaanpassung	NN
+
+in	APPR
+in	APPR
+
+Stadt	NN
+Stadt	NN
+
+in	APPRART
+in	APPR
+
+Frankfurter	ADJA
+Frankfurter	ADJA
+
+Planungsdezernat	NN
+Planungsdezernat	NN
+
+,	$,
+,	$,
+
+Kurt-Schumacher-Straße	NN
+Kurt-Schumacher-Straße	NN
+
+@card@	CARD
+@card@	CARD
+
+.	$.
+.	$.
+
+lohnen	VVFIN
+lohnen	VVFIN
+
+sich	PRF
+sich	PRF
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+und	KON
+und	KON
+
+auf	APPR
+auf	APPR
+
+welcher	PWAT
+welcher	PIS
+
+Rechner	NN
+Rechner	NN
+
+zeigen	VVFIN
+zeigen	VVFIN
+
+der	ART
+der	ART
+
+Neurowissenschaftler	NN
+Neurowissenschaftler	NN
+
+sein	PPOSAT
+sein	PPOSAT
+
+Präsentation	NN
+Präsentation	NN
+
+...	$.
+...	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+jetzt	ADV
+jetzt	ADV
+
+gehen	VVFIN
+gehen	VVFIN
+
+es	PPER
+es	PPER
+
+hier	ADV
+hier	ADV
+
+auch	ADV
+auch	ADV
+
+wieder	ADV
+wieder	ADV
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Ausverkauf	NN
+Ausverkauf	NN
+
+gehen	VVFIN
+gehen	VVFIN
+
+weiter	PTKVZ
+weiter	PTKVZ
+
+:	$.
+:	$.
+
+Kritik	NN
+Kritik	NN
+
+an	APPRART
+an	APPR
+
+"	$(
+"	$(
+
+Kompromiss	NN
+Kompromiss	NN
+
+"	$(
+"	$(
+
+-	$(
+-	$(
+
+hashtag	NN
+hashtag	HASH
+
+fühlen	VVFIN
+fühlen	VVFIN
+
+sich	PRF
+sich	PRF
+
+brüskiert	ADJD
+brüskiert	VVPP
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Kulturkampf	NN
+Kulturkampf	NN
+
+um	APPR
+um	APPR
+
+der	ART
+der	ART
+
+Abrichtung	NN
+Abrichtung	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Kind	NN
+Kind	NN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+Spiel	NN
+Spiel	VVIMP
+
+das	ART
+das	PDS
+
+leben	NN
+leben	VVFIN
+
+:	$.
+:	$.
+
+Resignation	NN
+Resignation	NN
+
+vs	APPR
+vs	NN
+
+Hoffnung	NN
+Hoffnung	NN
+
+.	$.
+.	$.
+
+der	PDS
+der	PDS
+
+können	VMFIN
+können	VMFIN
+
+doch	ADV
+doch	ADV
+
+alle	PIS
+alle	PIAT
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+wahr	ADJD
+wahr	ADJD
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+du	PPER
+du	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+heute	ADV
+heute	ADV
+
+echt	ADJD
+echt	ADJD
+
+fies	ADJD
+fies	ADJD
+
+!!!!!	$.
+!!!!!	ADJD
+
+man	PIS
+man	PIS
+
+nennen	VVFIN
+nennen	VVFIN
+
+der	PDS
+der	ART
+
+auch	ADV
+auch	ADV
+
+Privatsphäre	NN
+Privatsphäre	NN
+
+emoticon	EMO
+emoticon	EMO
+
+schaffen	VVPP
+schaffen	VVINF
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+neuseeländisch	ADJA
+neuseeländisch	ADJD
+
+Forscher	NN
+Forscher	NN
+
+untersuchen	VVFIN
+untersuchen	VVFIN
+
+der	ART
+der	ART
+
+Einfluss	NN
+Einfluss	NN
+
+der	ART
+der	ART
+
+Sinnesorgane	NN
+Sinnesorgane	NN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Sättigugnsgefühl	NN
+Sättigugnsgefühl	NN
+
+.	$.
+.	$.
+
+ellviva	NE
+ellviva	NN
+
+berichten	VVFIN
+berichten	VVINF
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+IBKA	NE
+IBKA	NN
+
+richten	VVFIN
+richten	VVFIN
+
+ständig	ADJA
+ständig	ADJD
+
+Arbeitsgruppe	NN
+Arbeitsgruppe	NN
+
+zu	APPRART
+zu	APPR
+
+Islam	NN
+Islam	NN
+
+ein	PTKVZ
+ein	PTKVZ
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+@christin_rot	ADDRESS
+@christin_rot	ADJD
+
+user	ADDRESS
+user	ADDRESS
+
+pro	APPR
+pro	APPR
+
+Viertel	NN
+Viertel	NN
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+3	CARD
+3	CARD
+
+mal	ADV
+mal	ADV
+
+@card@	CARD
+@card@	CARD
+
+Sek	NN
+Sek	NE
+
+Pause	NN
+Pause	NN
+
+glauben	VVFIN
+glauben	VVFIN
+
+ich	PPER
+ich	PPER
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+Brandauer	NE
+Brandauer	NE
+
+vor	APPR
+vor	APPR
+
+alle	PIS
+alle	PIS
+
+aus	APPR
+aus	APPR
+
+der	ART
+der	ART
+
+Istvan	NE
+Istvan	NE
+
+Szabo	NE
+Szabo	NE
+
+Film	NN
+Film	NN
+
+Mephisto	NE
+Mephisto	NN
+
+sehr	ADV
+sehr	ADV
+
+nachhaltig	ADJD
+nachhaltig	ADJD
+
+in	APPR
+in	APPR
+
+Erinnerung	NN
+Erinnerung	NN
+
+.	$.
+.	$.
+
+stimmen	VVFIN
+stimmen	VVINF
+
+.	$.
+.	$.
+
+toll	ADJA
+toll	ADJD
+
+Schauspieler	NN
+Schauspieler	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+auch	ADV
+auch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+schlimm	ADJD
+schlimm	ADJD
+
+als	KOKOM
+als	KOKOM
+
+bei	APPR
+bei	APPR
+
+ihr	PPER
+ihr	PPER
+
+,	$,
+,	$,
+
+glauben	VVFIN
+glauben	VVFIN
+
+ich	PPER
+ich	PPER
+
+gewinnen	VVFIN
+gewinnen	VVFIN
+
+drei	CARD
+drei	CARD
+
+Blu-rays	NN
+Blu-rays	NN
+
+von	APPR
+von	APPR
+
+Red	NE
+Red	NE
+
+NIGHTS	NE
+NIGHTS	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+ich	PPER
+ich	PPER
+
+lieben	VVFIN
+lieben	VVFIN
+
+Zombiespiele	NN
+Zombiespiele	NN
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+Dead	NE
+Dead	NE
+
+Island	NE
+Island	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+..	PAUSE
+..	ADJA
+
+Scheiße	ADJD
+Scheiße	NN
+
+.	$.
+.	$.
+
+Psychologie	NN
+Psychologie	NN
+
+-	$(
+-	$(
+
+endlich	ADV
+endlich	ADV
+
+wieder	ADV
+wieder	ADV
+
+Angst	NN
+Angst	NN
+
+-	$(
+-	$(
+
+wissen	NN
+wissen	VVFIN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+heute	ADV
+heute	ADV
+
+abend	ADV
+abend	ADV
+
+ab	APPR
+ab	APPR
+
+@card@	CARD
+@card@	CARD
+
+Uhr	NN
+Uhr	NN
+
+gibt_es	VVFIN_ES
+gibt_es	VVFIN
+
+Gertis	NE
+Gertis	NE
+
+gut	ADJA
+gut	ADJD
+
+Knobi-Putenbrust	NN
+Knobi-Putenbrust	NN
+
+!	$.
+!	$.
+
+@	XY
+@	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+oh	ITJ
+oh	ITJ
+
+Gott	NN
+Gott	NN
+
+,	$,
+,	$,
+
+der	ART
+der	PRELS
+
+user	NE
+user	ADDRESS
+
+sein	VAFIN
+sein	VAINF
+
+ein	ART
+ein	ART
+
+Fan	NN
+Fan	NN
+
+von	APPR
+von	APPR
+
+Daniele	NE
+Daniele	NE
+
+Negronie	NE
+Negronie	NN
+
+laufen	VVFIN
+laufen	VVFIN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+"	$(
+"	$(
+
+Hurra	ITJ
+Hurra	ITJ
+
+wir	PPER
+wir	PPER
+
+müssen	VMFIN
+müssen	VMFIN
+
+der	ART
+der	ART
+
+Internet	NN
+Internet	NN
+
+schutzen	VVINF
+schutzen	ADJD
+
+!	$.
+!	$.
+
+gründen	VVFIN
+gründen	VVFIN
+
+wir	PPER
+wir	PPER
+
+ein	ART
+ein	ART
+
+user	NN
+user	ADDRESS
+
+und	KON
+und	KON
+
+machen	VVFIN
+machen	VVFIN
+
+sich	PRF
+sich	PRF
+
+gegenseitig	ADJD
+gegenseitig	ADJD
+
+zu	APPRART
+zu	APPR
+
+Obst	NN
+Obst	NN
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+url	URL
+url	URL
+
+ach	ITJ
+ach	ITJ
+
+und	KON
+und	KON
+
+nebenbei	ADV
+nebenbei	ADV
+
+unterhalten	VVFIN
+unterhalten	VVFIN
+
+wir	PPER
+wir	PPER
+
+sich	PRF
+sich	PRF
+
+über	APPR
+über	APPR
+
+Tatoos	NN
+Tatoos	NN
+
+:3	EMO
+:3	CARD
+
+naaaw	ITJ
+naaaw	NN
+
+ich	PPER
+ich	PPER
+
+wollen	VMFIN
+wollen	VMFIN
+
+unbedingt	ADV
+unbedingt	ADJD
+
+wenn	KOUS
+wenn	KOUS
+
+ich	PPER
+ich	PPER
+
+@card@	CARD
+@card@	CARD
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+so	ADV
+so	ADV
+
+einer	PIS
+einer	ART
+
+inflecitve	EMO
+inflecitve	NN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+auch	ADV
+auch	ADV
+
+schön	ADJD
+schön	ADJD
+
+.	$.
+.	$.
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+der	PDS
+der	ART
+
+auch	ADV
+auch	ADV
+
+bei	APPR
+bei	APPR
+
+SKY	NE
+SKY	NN
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+brauchen	VVFIN
+brauchen	VVFIN
+
+du	PPER
+du	PPER
+
+auch	ADV
+auch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+.	$.
+.	$.
+
+wir	PPER
+wir	PPER
+
+verstehen	VVFIN
+verstehen	VVFIN
+
+euch	PPER
+euch	PPER
+
+auch	ADV
+auch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+.	$.
+.	$.
+
+sein	VAFIN
+sein	PPOSAT
+
+nur	ADV
+nur	ADV
+
+fair	ADJD
+fair	ADJD
+
+(	$(
+(	$(
+
+dabei	PROAV
+dabei	PAV
+
+sein+es	VAFIN_ES
+sein+es	VVFIN
+
+bei	APPR
+bei	APPR
+
+uns	PPER
+uns	PPER
+
+noch	ADV
+noch	ADV
+
+rel.	ADJD
+rel.	NE
+
+einfach	ADJD
+einfach	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+)	$(
+)	$(
+
+der	ART
+der	ART
+
+Unterschied	NN
+Unterschied	NN
+
+zwischen	APPR
+zwischen	APPR
+
+hashtag	NN
+hashtag	HASH
+
+(	$(
+(	$(
+
+Ausbildung	NN
+Ausbildung	NN
+
+)	$(
+)	$(
+
+und	KON
+und	KON
+
+hashtag	NN
+hashtag	HASH
+
+(	$(
+(	$(
+
+Studium	NN
+Studium	NN
+
+)	$(
+)	$(
+
+scheinen	VVFIN
+scheinen	VVFIN
+
+wohl	ADV
+wohl	ADV
+
+PC	NN
+PC	NE
+
+vs	APPR
+vs	NN
+
+Mac	NE
+Mac	NE
+
+zu	PTKZU
+zu	PTKZU
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+hashtag	NN
+hashtag	HASH
+
+mit	APPR
+mit	APPR
+
+hashtag	NN
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Iiihhh	ITJ
+Iiihhh	NN
+
+,	$,
+,	$,
+
+Mensch	NN
+Mensch	NN
+
+!	$.
+!	$.
+
+schnell	ADJD
+schnell	ADJD
+
+wieder	ADV
+wieder	ADV
+
+nach	APPR
+nach	APPR
+
+Haus	NN
+Haus	NN
+
+.	$.
+.	$.
+
+Ratgeber	NN
+Ratgeber	NN
+
+:	$.
+:	$.
+
+frei	ADJA
+frei	ADJD
+
+Sicht	NN
+Sicht	NN
+
+in	APPRART
+in	APPR
+
+Winter	NN
+Winter	NN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+so	ADV
+so	ADV
+
+fein	ADJD
+fein	ADJD
+
+können	VMFIN
+können	VMFIN
+
+sie	PPER
+sie	PPER
+
+schleichen	VVINF
+schleichen	VVINF
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+dann	ADV
+dann	ADV
+
+wollen	VMFIN
+wollen	VMFIN
+
+ich	PPER
+ich	PPER
+
+aber	ADV
+aber	ADV
+
+Trauzeuge	NN
+Trauzeuge	NN
+
+sein	VAINF
+sein	VAINF
+
+!	$.
+!	$.
+
+(-;	EMO
+(-;	NN
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+da	KOUS
+da	ADV
+
+geht_es	VVFIN_ES
+geht_es	VVFIN
+
+oftmals	ADV
+oftmals	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mehr	ADV
+mehr	ADV
+
+um	APPR
+um	APPR
+
+der	ART
+der	ART
+
+Spaß	NN
+Spaß	NN
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+man	PIS
+man	PIS
+
+mit	APPR
+mit	APPR
+
+ein	ART
+ein	ART
+
+Film	NN
+Film	NN
+
+haben	VAFIN
+haben	VAINF
+
+...	$.
+...	$.
+
+Feuerwehrmann/-frau	NN
+Feuerwehrmann/-frau	NN
+
+in	APPR
+in	APPR
+
+hashtag	CARD
+hashtag	HASH
+
+Hamburg	NE
+Hamburg	NE
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+ein	ART
+ein	ART
+
+ganz	ADJA
+ganz	ADJD
+
+Leben	NN
+Leben	NN
+
+in	APPR
+in	APPR
+
+@card@	CARD
+@card@	CARD
+
+Minute	NN
+Minute	NN
+
+.	$.
+.	$.
+
+anrührend	ADJA
+anrührend	ADJD
+
+Geschichte	NN
+Geschichte	NN
+
+über	APPR
+über	APPR
+
+der	ART
+der	ART
+
+therapeutische	ADJA
+therapeutische	ADJA
+
+Komponente	NN
+Komponente	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Beruf	NN
+Beruf	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+:	$.
+:	$.
+
+hashtag	HASH
+hashtag	HASH
+
+Achtung	NN
+Achtung	NN
+
+:	$.
+:	$.
+
+...	PAUSE
+...	$.
+
+fördern	VVFIN
+fördern	VVFIN
+
+Intelligenz	NN
+Intelligenz	NN
+
+,	$,
+,	$,
+
+Empathie	NN
+Empathie	NN
+
+,	$,
+,	$,
+
+werden	VAFIN
+werden	VAFIN
+
+nie	ADV
+nie	ADV
+
+in	APPR
+in	APPR
+
+US-Armee	NN
+US-Armee	NN
+
+einsetzen	VVPP
+einsetzen	VVINF
+
+oder	KON
+oder	KON
+
+von	APPR
+von	APPR
+
+Amoks	NN
+Amoks	NN
+
+spielen	VVPP
+spielen	VVINF
+
+!	$.
+!	$.
+
+ich	PPER
+ich	PPER
+
+gucks	VVFIN
+gucks	VVFIN
+
+eigentlich	ADV
+eigentlich	ADV
+
+nur	ADV
+nur	ADV
+
+,	$,
+,	$,
+
+weil	KOUS
+weil	KOUS
+
+ich	PPER
+ich	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+pennen	VVINF
+pennen	VVINF
+
+können	VMFIN
+können	VMINF
+
+.	$.
+.	$.
+
+aber	KON
+aber	ADV
+
+hübsch	ADJA
+hübsch	ADJD
+
+Cheerleader	NN
+Cheerleader	NN
+
+haben	VAFIN
+haben	VAFIN
+
+sie	PPER
+sie	PPER
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Nehm	VVFIN
+Nehm	ADJD
+
+jetzt	ADV
+jetzt	ADV
+
+der	ART
+der	ART
+
+S28	NE
+S28	NN
+
+von	APPR
+von	APPR
+
+@card@	CARD
+@card@	CARD
+
+...	$.
+...	$.
+
+Anmeldung	NN
+Anmeldung	NN
+
+starten	VVPP
+starten	VVINF
+
+:	$.
+:	$.
+
+Young	NE
+Young	NE
+
+Professional	NE
+Professional	NN
+
+day	NE
+day	NE
+
+@card@	CARD
+@card@	CARD
+
+:	$.
+:	$.
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Campus	NN
+Campus	NN
+
+Westend	NE
+Westend	NE
+
+der	ART
+der	ART
+
+Goethe-Universität	NN
+Goethe-Universität	NN
+
+Frankfurt	NE
+Frankfurt	NE
+
+drehen	VVFIN
+drehen	VVINF
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+"	$(
+"	$(
+
+wer	PWS
+wer	PWS
+
+sein	VAFIN
+sein	VAINF
+
+ich	PPER
+ich	PPER
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+,	$,
+,	$,
+
+"	$(
+"	$(
+
+wozu	PWAV
+wozu	PWAV
+
+sein	VAFIN
+sein	VAINF
+
+ich	PPER
+ich	PPER
+
+da	ADV
+da	ADV
+
+auf	APPR
+auf	APPR
+
+dieser	PDAT
+dieser	PDAT
+
+Welt	NN
+Welt	NN
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+und	KON
+und	KON
+
+"	$(
+"	$(
+
+aus	APPR
+aus	APPR
+
+welcher	PWAT
+welcher	PIS
+
+Quelle	NN
+Quelle	NN
+
+schöpfe	VVFIN
+schöpfe	VVFIN
+
+ich	PPER
+ich	PPER
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Seat	NE
+Seat	NN
+
+Mii	NE
+Mii	NE
+
+FR	NE
+FR	NE
+
+Concept	NE
+Concept	NE
+
+:	$.
+:	$.
+
+Seat	NE
+Seat	NN
+
+zeigen	VVFIN
+zeigen	VVFIN
+
+der	ART
+der	ART
+
+Besucher	NN
+Besucher	NN
+
+das	ART
+das	ART
+
+vergangen	ADJA
+vergangen	ADJD
+
+Pariser	ADJA
+Pariser	NN
+
+Automobilsalons	NN
+Automobilsalons	NN
+
+das	ART
+das	ART
+
+Jahr	NN
+Jahr	NN
+
+@card@	CARD
+@card@	CARD
+
+neben	APPR
+neben	APPR
+
+de	XYB
+de	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+@hurensohnlogie	ADDRESS
+@hurensohnlogie	NN
+
+müssen	VVFIN
+müssen	VMFIN
+
+ihr	PPER
+ihr	PPER
+
+da	ADV
+da	ADV
+
+auch	ADV
+auch	ADV
+
+immer	ADV
+immer	ADV
+
+unterschreiben	VVINF
+unterschreiben	VVINF
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+ihr	PPER
+ihr	PPER
+
+da	ADV
+da	ADV
+
+sein	VVFIN
+sein	VAINF
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+und	KON
+und	KON
+
+wo	PWAV
+wo	PWAV
+
+bekommen	VVFIN
+bekommen	VVFIN
+
+ich	PPER
+ich	PPER
+
+der	PDS
+der	PDS
+
+her	PTKVZ
+her	PTKVZ
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+emoticon	EMO
+emoticon	EMO
+
+S-Bahn	NN
+S-Bahn	NN
+
+Stammstrecke	NN
+Stammstrecke	NN
+
+:	$.
+:	$.
+
+Verzögerung	NN
+Verzögerung	NN
+
+(	$(
+(	$(
+
+Stand	NN
+Stand	NN
+
+@card@	CARD
+@card@	CARD
+
+,	$,
+,	$,
+
+@card@	CARD
+@card@	CARD
+
+Uhr	NN
+Uhr	NN
+
+)	$(
+)	$(
+
+sehr	ADJA
+sehr	ADV
+
+geehrter	ADJA
+geehrter	ADJA
+
+Herr	NN
+Herr	NN
+
+Streckenagen	NE
+Streckenagen	NN
+
+...	$.
+...	$.
+
+Read	FM
+Read	NN
+
+more	FM
+more	ADJA
+
+at	FM
+at	NN
+
+url	URL
+url	URL
+
+Wodka	NN
+Wodka	NN
+
+,	$,
+,	$,
+
+Wein	NN
+Wein	NN
+
+und	KON
+und	KON
+
+Sekt	NN
+Sekt	NN
+
+stehen	VVFIN
+stehen	VVFIN
+
+bereit	ADJD
+bereit	PTKVZ
+
+.	$.
+.	$.
+
+fehlen	VVFIN
+fehlen	VVFIN
+
+nur	ADV
+nur	ADV
+
+noch	ADV
+noch	ADV
+
+der	ART
+der	ART
+
+Jenny	NE
+Jenny	NE
+
+Elvers	NE
+Elvers	NE
+
+Interview	NN
+Interview	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+und	KON
+und	KON
+
+mit	APPR
+mit	APPR
+
+was	PWS
+was	PIS
+
+?	$.
+?	$.
+
+mit	APPR
+mit	APPR
+
+recht	NN
+recht	ADJD
+
+der	ART
+der	ART
+
+Ableutewerk	NN
+Ableutewerk	NN
+
+in	APPR
+in	APPR
+
+Ilanz	NE
+Ilanz	NE
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+immer	ADV
+immer	ADV
+
+noch	ADV
+noch	ADV
+
+in	APPR
+in	APPR
+
+Betrieb	NN
+Betrieb	NN
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+fallen	VVFIN
+fallen	VVFIN
+
+normalerweise	ADV
+normalerweise	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+auf	PTKVZ
+auf	PTKVZ
+
+,	$,
+,	$,
+
+ausser	APPR
+ausser	APPR
+
+s	XYU
+s	NN
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+bringen	VVIMP
+bringen	VVFIN
+
+ihn	PPER
+ihn	PPER
+
+doch	ADV
+doch	ADV
+
+bitte	ADV
+bitte	ADV
+
+bei	APPR
+bei	APPR
+
+mir	PPER
+mir	PPER
+
+vorbei	PTKVZ
+vorbei	PTKVZ
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+Hetze	VVFIN
+Hetze	NN
+
+doch	ADV
+doch	ADV
+
+niemand	PIS
+niemand	PIS
+
+auf	APPR
+auf	APPR
+
+irgend	ADV
+irgend	ADV
+
+jemand	PIS
+jemand	PIS
+
+.	$.
+.	$.
+
+der	PDS
+der	PDS
+
+stimmen	VVFIN
+stimmen	VVFIN
+
+einfach	ADV
+einfach	ADJD
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+werden	VAFIN
+werden	VAFIN
+
+sowas	PIS
+sowas	PIS
+
+nie	ADV
+nie	ADV
+
+tun	VVINF
+tun	VVINF
+
+.	$.
+.	$.
+
+Kampagne	NN
+Kampagne	NN
+
+-	$(
+-	$(
+
+Verkaufsförderung	NN
+Verkaufsförderung	NN
+
+-	$(
+-	$(
+
+Mehrwerte	NN
+Mehrwerte	NN
+
+-	$(
+-	$(
+
+VPV	NE
+VPV	NE
+
+Makler	NN
+Makler	NN
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+der	ART
+der	ART
+
+Unterlage	NN
+Unterlage	NN
+
+zu	APPRART
+zu	APPR
+
+Service-Kampagne	NN
+Service-Kampagne	NN
+
+"	$(
+"	$(
+
+Risiko	NN
+Risiko	NN
+
+Langlebigke	XYB
+Langlebigke	NN
+
+...	$.
+...	$.
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+mal	ADV
+mal	ADV
+
+ein	ART
+ein	ART
+
+Frage	NN
+Frage	NN
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+man	PIS
+man	PIS
+
+i-MSCP	NE
+i-MSCP	NN
+
+installieren	VVPP
+installieren	VVINF
+
+,	$,
+,	$,
+
+gehen	VVFIN
+gehen	VVFIN
+
+der	ART
+der	ART
+
+bisherig	ADJA
+bisherig	ADJA
+
+MySQL	NN
+MySQL	NN
+
+Datenbanken	NN
+Datenbanken	NN
+
+verlieren	PTKVZ
+verlieren	VVINF
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+was	PWS
+was	PIS
+
+sollen	VMFIN
+sollen	VMFIN
+
+denn	ADV
+denn	KON
+
+der	PDS
+der	PDS
+
+überhaupt	ADV
+überhaupt	ADV
+
+heißen	VVINF
+heißen	VVINF
+
+?	$.
+?	$.
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NE
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Klugscheißer-Replys	NN
+Klugscheißer-Replys	NE
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+nächster	ADJA
+nächster	ADJA
+
+groß	ADJA
+groß	ADJD
+
+Ding	NN
+Ding	NN
+
+.	$.
+.	$.
+
+Vorhersage	NN
+Vorhersage	NN
+
+(	$(
+(	$(
+
+Di.	NN
+Di.	NN
+
+)	$(
+)	$(
+
+Vormittag	NN
+Vormittag	NN
+
+:	$.
+:	$.
+
+rF	XY
+rF	ADJA
+
+69	CARD
+69	CARD
+
+%	NN
+%	NN
+
+;	$.
+;	$.
+
+QFE	XY
+QFE	NE
+
+973hPa	XY
+973hPa	NE
+
+;	$.
+;	$.
+
+QFF	XY
+QFF	NN
+
+1012hPa	XY
+1012hPa	ADJA
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+:	$.
+:	$.
+
+hashtag	NN
+hashtag	HASH
+
+hashtag	VVINF
+hashtag	HASH
+
+in	APPRART
+in	APPR
+
+hashtag	NN
+hashtag	HASH
+
+in	APPR
+in	APPR
+
+drei	CARD
+drei	CARD
+
+einfach	ADJA
+einfach	ADJD
+
+Schritt	NN
+Schritt	PTKVZ
+
+!	$.
+!	$.
+
+jetzt	ADV
+jetzt	ADV
+
+hashtag	ADJD
+hashtag	HASH
+
+testen	VVINF
+testen	VVFIN
+
+bei	APPR
+bei	APPR
+
+gruenspa	XYB
+gruenspa	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+nach	APPR
+nach	APPR
+
+der	ART
+der	ART
+
+5.	ADJA
+5.	ADJA
+
+Tasse	NN
+Tasse	NN
+
+Kaffee	NN
+Kaffee	NN
+
+sehen	VVFIN
+sehen	VVFIN
+
+der	ART
+der	ART
+
+Tag	NN
+Tag	NN
+
+doch	ADV
+doch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mehr	ADV
+mehr	ADV
+
+so	ADV
+so	ADV
+
+schlimm	ADJD
+schlimm	ADJD
+
+aus	PTKVZ
+aus	PTKVZ
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Rede	NN
+Rede	NN
+
+das	ART
+das	ART
+
+SPD-Kanzlerkandidaten	NN
+SPD-Kanzlerkandidaten	NN
+
+in	APPR
+in	APPR
+
+London	NE
+London	NE
+
+:	$.
+:	$.
+
+Steinbrück	NE
+Steinbrück	NN
+
+fordern	VVFIN
+fordern	VVFIN
+
+Brite	NN
+Brite	NN
+
+zu	APPRART
+zu	APPR
+
+Verbleib	NN
+Verbleib	NN
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+EU	NE
+EU	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+ich	PPER
+ich	PPER
+
+zeigen	VVFIN
+zeigen	VVFIN
+
+euch	PPER
+euch	PPER
+
+gerne	ADV
+gerne	ADV
+
+nochmal	ADV
+nochmal	ADV
+
+mein	PPOSAT
+mein	PPOSAT
+
+Tweet	NN
+Tweet	NN
+
+von	APPR
+von	APPR
+
+heute	ADV
+heute	ADV
+
+mittag	ADV
+mittag	ADV
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+Pilkington	NE
+Pilkington	NE
+
+:	$.
+:	$.
+
+EANS-Hinweisbekanntmachung	NN
+EANS-Hinweisbekanntmachung	NN
+
+:	$.
+:	$.
+
+Pilkington	NE
+Pilkington	NE
+
+Deutschland	NE
+Deutschland	NE
+
+AG	NN
+AG	NN
+
+/	$(
+/	$(
+
+Bekanntmachung	NN
+Bekanntmachung	NN
+
+gemäß	APPR
+gemäß	APPR
+
+§37v	XY
+§37v	NE
+
+,	$,
+,	$,
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Vorschlag	NN
+Vorschlag	NN
+
+EU-Richtlinie	NN
+EU-Richtlinie	NN
+
+:	$.
+:	$.
+
+planen	VVFIN
+planen	VVFIN
+
+Brüssel	NE
+Brüssel	NE
+
+lang	ADJA
+lang	ADJD
+
+Kabine	NN
+Kabine	NN
+
+und	KON
+und	KON
+
+Auflieger	NN
+Auflieger	NN
+
+?	$.
+?	$.
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+europäisch	ADJA
+europäisch	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+weglaufen	VVINF
+weglaufen	VVINF
+
+und	KON
+und	KON
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+umdrehen	VVINF
+umdrehen	VVINF
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+offiziell	ADJA
+offiziell	ADJD
+
+News	NN
+News	NN
+
+:	$.
+:	$.
+
+Dynamo	NE
+Dynamo	NE
+
+testen	VVFIN
+testen	VVFIN
+
+gegen	APPR
+gegen	APPR
+
+Heidenau	NE
+Heidenau	NE
+
+in	APPR
+in	APPR
+
+Kesselsdorf	NE
+Kesselsdorf	NN
+
+:	$.
+:	$.
+
+Anstoß	NN
+Anstoß	NN
+
+:	$.
+:	$.
+
+Dienstag	NN
+Dienstag	NN
+
+,	$,
+,	$,
+
+@card@	CARD
+@card@	CARD
+
+,	$,
+,	$,
+
+@card@	CARD
+@card@	CARD
+
+Uhr	NN
+Uhr	NN
+
+|	$(
+|	XY
+
+Austragungs	XYB
+Austragungs	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+der	PDS
+der	PDS
+
+werden	VAFIN
+werden	VAFIN
+
+hashtag	NE
+hashtag	HASH
+
+freuen	VVINF
+freuen	VVINF
+
+Angebot	NN
+Angebot	NN
+
+das	ART
+das	ART
+
+Tag	NN
+Tag	NN
+
+:	$.
+:	$.
+
+Maskulin	ADJD
+Maskulin	ADJD
+
+und	KON
+und	KON
+
+clean	ADJD
+clean	ADJD
+
+dürfen	VMFIN
+dürfen	VMFIN
+
+man	PIS
+man	PIS
+
+auch	ADV
+auch	ADV
+
+dieser	PDAT
+dieser	PDAT
+
+Jahr	NN
+Jahr	NN
+
+sein	PPOSAT
+sein	PPOSAT
+
+Statement-Modetrend	NN
+Statement-Modetrend	NN
+
+kundtun	VVINF
+kundtun	VVFIN
+
+url	URL
+url	URL
+
+Outlet	NE
+Outlet	NN
+
+user	ADDRESS
+user	ADDRESS
+
+dafür	PROAV
+dafür	PAV
+
+das	KOUS
+das	PDS
+
+Du	PPER
+Du	PPER
+
+@card@	CARD
+@card@	CARD
+
+werden	VAFIN
+werden	VAINF
+
+wirkst	VVFIN
+wirkst	VVFIN
+
+du	PPER
+du	PPER
+
+noch	ADV
+noch	ADV
+
+sehr	ADV
+sehr	ADV
+
+kindlich	ADJD
+kindlich	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+Falcon	NE
+Falcon	NE
+
+Pro	NE
+Pro	NN
+
+wollen	VMFIN
+wollen	VMFIN
+
+ich	PPER
+ich	PPER
+
+mir	PRF
+mir	PRF
+
+auch	ADV
+auch	ADV
+
+nochmal	ADV
+nochmal	ADV
+
+anschauen	VVINF
+anschauen	VVINF
+
+.	$.
+.	$.
+
+welcher	PWAT
+welcher	PWS
+
+anderer	ADJA
+anderer	PIS
+
+meintest	VVFIN
+meintest	VVFIN
+
+du	PPER
+du	PPER
+
+noch	ADV
+noch	ADV
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+sehr	ADV
+sehr	ADV
+
+gut	ADJA
+gut	ADJD
+
+Beitrag	NN
+Beitrag	NN
+
+,	$,
+,	$,
+
+kommen	VVFIN
+kommen	VVFIN
+
+leider	ADV
+leider	ADV
+
+gestern	ADV
+gestern	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+dazu	PTKVZ
+dazu	PAV
+
+ihn	PPER
+ihn	PPER
+
+zu	PTKZU
+zu	PTKZU
+
+lesen	VVINF
+lesen	VVINF
+
+.	$.
+.	$.
+
+vlt	ADV
+vlt	NN
+
+lassen	VVFIN
+lassen	VVFIN
+
+du	PPER
+du	PPER
+
+in	APPRART
+in	APPR
+
+Hintergrund	NN
+Hintergrund	NN
+
+der	ART
+der	ART
+
+nächster	ADJA
+nächster	ADJA
+
+Mal	NN
+Mal	NN
+
+der	ART
+der	ART
+
+Text	NN
+Text	NN
+
+mitlaufen	VVINF
+mitlaufen	VVFIN
+
+emoticon	EMO
+emoticon	EMO
+
+hashtag	HASH
+hashtag	HASH
+
+an	APPRART
+an	APPR
+
+Ende	NN
+Ende	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+Wrestling	NN
+Wrestling	NN
+
+doch	ADV
+doch	KON
+
+der	ART
+der	ART
+
+einzig	ADJA
+einzig	ADJD
+
+ernstzunehmend	ADJA
+ernstzunehmend	ADJD
+
+Sportart	NN
+Sportart	NN
+
+in	APPR
+in	APPR
+
+der	PDS
+der	ART
+
+alle	PIS
+alle	PIS
+
+mit	APPR
+mit	APPR
+
+rechter	ADJA
+rechter	ADJA
+
+Ding	NN
+Ding	NN
+
+zugeht	VVFIN
+zugeht	VVFIN
+
+hashtag	NE
+hashtag	HASH
+
+und	KON
+und	KON
+
+hashtag	NE
+hashtag	HASH
+
+machen	VVFIN
+machen	VVFIN
+
+Front	NN
+Front	NN
+
+gegen	APPR
+gegen	APPR
+
+der	ART
+der	ART
+
+hashtag	NN
+hashtag	HASH
+
+-	$(
+-	$(
+
+ein	ART
+ein	ART
+
+Klage	NN
+Klage	NN
+
+stehen	VVFIN
+stehen	VVFIN
+
+bevor	PTKVZ
+bevor	PTKVZ
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Baumschäden	NN
+Baumschäden	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+deutsch	ADJA
+deutsch	ADJD
+
+Eiche	NN
+Eiche	NN
+
+gehen	VVFIN
+gehen	VVFIN
+
+es	PPER
+es	PPER
+
+immer	ADV
+immer	ADV
+
+schlecht	ADJD
+schlecht	ADJD
+
+url	URL
+url	URL
+
+tschüss	ITJ
+tschüss	NE
+
+.	$.
+.	$.
+
+Vollformat-Kamera	NN
+Vollformat-Kamera	NN
+
+Sony	NE
+Sony	NE
+
+RX1	NE
+RX1	NE
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+klein	NN
+klein	ADJD
+
+mit	APPR
+mit	APPR
+
+der	ART
+der	ART
+
+groß	ADJA
+groß	ADJD
+
+Auge	NN
+Auge	NN
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+Fasching	NN
+Fasching	NN
+
+.	$.
+.	$.
+
+man	PIS
+man	PIS
+
+merken	VVFIN
+merken	VVFIN
+
+es	PPER
+es	PPER
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+können	VMFIN
+können	VMFIN
+
+mir	PPER
+mir	PPER
+
+jetzt	ADV
+jetzt	ADV
+
+aller	PIAT
+aller	PIAT
+
+weiterer	NN
+weiterer	ADJA
+
+verbauen	VVINF
+verbauen	VVINF
+
+und	KON
+und	KON
+
+-	PPER
+-	$(
+
+ein	ART
+ein	ART
+
+lang	ADJA
+lang	ADJD
+
+Text	NN
+Text	NN
+
+schreiben	VVINF
+schreiben	VVINF
+
+.	$.
+.	$.
+
+doch	KON
+doch	KON
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+Angst	NN
+Angst	NN
+
+vor	APPR
+vor	APPR
+
+sein	PPOSAT
+sein	PPOSAT
+
+Antwort	NN
+Antwort	NN
+
+.	$.
+.	$.
+
+hey	ITJ
+hey	NE
+
+dürfen	VMFIN
+dürfen	VMFIN
+
+ich	PPER
+ich	PPER
+
+dein	PPOSAT
+dein	PPOSAT
+
+eierlutschen	VVINF
+eierlutschen	ADJA
+
+-	$(
+-	$(
+
+ich	PPER
+ich	PPER
+
+können	VMFIN
+können	VMFIN
+
+dir	PPER
+dir	PPER
+
+mal	ADV
+mal	ADV
+
+mein	PPOSAT
+mein	PPOSAT
+
+Pimmel	NN
+Pimmel	NN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Kopf	NN
+Kopf	NN
+
+hauen	VVINF
+hauen	VVFIN
+
+du	PPER
+du	PPER
+
+notgeiles	ADJA
+notgeiles	ADJA
+
+Schwein	NN
+Schwein	NN
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+neu	ADJA
+neu	ADJD
+
+Buch	NN
+Buch	NN
+
+von	APPR
+von	APPR
+
+Christian	NE
+Christian	NE
+
+Morgenstern	NE
+Morgenstern	NN
+
+:	$.
+:	$.
+
+Galgenlieder	NE
+Galgenlieder	NN
+
+url	URL
+url	URL
+
+Hab	VAFIN
+Hab	NN
+
+der	ART
+der	ART
+
+Zeitraum	NN
+Zeitraum	NN
+
+verpassen	VVPP
+verpassen	VVINF
+
+,	$,
+,	$,
+
+in	APPR
+in	APPR
+
+der	PRELS
+der	PRELS
+
+ich	PPER
+ich	PPER
+
+schlafen	VVINF
+schlafen	VVINF
+
+können	VMFIN
+können	VMINF
+
+.	$.
+.	$.
+
+sein	VAFIN
+sein	PPOSAT
+
+doch	ADV
+doch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+so	ADV
+so	ADV
+
+wirklich	ADJD
+wirklich	ADJD
+
+schlaflos-los	ADJD
+schlaflos-los	ADJD
+
+.	$.
+.	$.
+
+@SaramagMusik	ADDRESS
+@SaramagMusik	NN
+
+normal	ADJD
+normal	ADJD
+
+heutzutage	ADV
+heutzutage	ADV
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+neu	ADJD
+neu	ADJD
+
+in	APPRART
+in	APPR
+
+Blog	NN
+Blog	NN
+
+:	$.
+:	$.
+
+sein	VAFIN
+sein	VAINF
+
+der	ART
+der	ART
+
+Globalisierung	NN
+Globalisierung	NN
+
+der	ART
+der	ART
+
+Ende	NN
+Ende	NN
+
+der	ART
+der	ART
+
+Kunst	NN
+Kunst	NN
+
+der	ART
+der	ART
+
+Moderne	NN
+Moderne	NN
+
+?	$.
+?	$.
+
+Peter	NE
+Peter	NE
+
+Weibel	NE
+Weibel	NN
+
+beziehen	VVFIN
+beziehen	VVFIN
+
+Stellung	NN
+Stellung	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+Karneval	NN
+Karneval	NN
+
+@card@	CARD
+@card@	CARD
+
+...	$.
+...	$.
+
+ich	PPER
+ich	PPER
+
+ziehen	VVFIN
+ziehen	VVFIN
+
+beim	APPRART
+beim	APPRART
+
+Umzug	NN
+Umzug	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Lieblingskostüm	NN
+Lieblingskostüm	NN
+
+an	PTKVZ
+an	PTKVZ
+
+!	$.
+!	$.
+
+und	KON
+und	KON
+
+nein	PTKANT
+nein	PTKANT
+
+,	$,
+,	$,
+
+der	PDS
+der	PRELS
+
+sein	VAFIN
+sein	PPOSAT
+
+kein	PIAT
+kein	PIAT
+
+Kuh	NN
+Kuh	NN
+
+!	$.
+!	$.
+
+schon	ADV
+schon	ADV
+
+mal	ADV
+mal	ADV
+
+eine	ART
+eine	ART
+
+Kuh	NN
+Kuh	NN
+
+mit	APPR
+mit	PTKVZ
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+talentiert	ADJA
+talentiert	ADJD
+
+Unterhaltungskünstler	NN
+Unterhaltungskünstler	NN
+
+retten	VVFIN
+retten	VVFIN
+
+Firmenfeier	NN
+Firmenfeier	NN
+
+url	URL
+url	URL
+
+mein	PPOSAT
+mein	PPOSAT
+
+Freund	NN
+Freund	NN
+
+haben	VAFIN
+haben	VAFIN
+
+mir	PPER
+mir	PPER
+
+cig	NN
+cig	ADJD
+
+köfte	NN
+köfte	NN
+
+und	KON
+und	KON
+
+gözleme	NN
+gözleme	NN
+
+bringen	VVPP
+bringen	VVINF
+
+.	$.
+.	$.
+
+er	PPER
+er	PPER
+
+sein	VAFIN
+sein	VAINF
+
+ein	ART
+ein	ART
+
+gut	ADJA
+gut	ADJD
+
+Junge	NN
+Junge	NN
+
+.	$.
+.	$.
+
+hashtag	NN
+hashtag	HASH
+
+beim	APPRART
+beim	APPRART
+
+hashtag	NN
+hashtag	HASH
+
+und	KON
+und	KON
+
+von	APPR
+von	APPR
+
+der	ART
+der	ART
+
+Software	NN
+Software	NN
+
+reden	VVFIN
+reden	VVFIN
+
+wohl	ADV
+wohl	ADV
+
+niemand	PIS
+niemand	PIS
+
+.	$.
+.	$.
+
+-	PDS
+-	$(
+
+scheinen	VVFIN
+scheinen	VVFIN
+
+ja	ADV
+ja	ADV
+
+kostenlos	ADJD
+kostenlos	ADJD
+
+zu	PTKZU
+zu	PTKZU
+
+sein	VAINF
+sein	VAINF
+
+...	$.
+...	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+wollen	VMFIN
+wollen	VMFIN
+
+zumindest	ADV
+zumindest	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mehr	ADV
+mehr	ADV
+
+so	ADV
+so	ADV
+
+schnell	ADJD
+schnell	ADJD
+
+in	APPR
+in	APPR
+
+Space	NE
+Space	NN
+
+Drive	NE
+Drive	NN
+
+Inns	NE
+Inns	NE
+
+futtern	VVINF
+futtern	VVINF
+
+.	$.
+.	$.
+
+user	NE
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+der	ART
+der	ART
+
+gut	ADJA
+gut	ADJD
+
+Super	NE
+Super	NN
+
+Bowl	NE
+Bowl	NE
+
+Spot	NN
+Spot	NN
+
+@card@	CARD
+@card@	CARD
+
+zusammenstellen	VVPP
+zusammenstellen	VVINF
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+[	$(
+[	$(
+
+Jonathan	NE
+Jonathan	NE
+
+]	$(
+]	$(
+
+zu	APPRART
+zu	APPR
+
+heutig	ADJA
+heutig	ADJD
+
+Mittagszeit	NN
+Mittagszeit	NN
+
+sein	VAFIN
+sein	VAINF
+
+mein	PPOSAT
+mein	PPOSAT
+
+vorsitzend	NN
+vorsitzend	NN
+
+Konrad	NE
+Konrad	NE
+
+Degen	NE
+Degen	NE
+
+beim	APPRART
+beim	APPRART
+
+Pressesprecher	NN
+Pressesprecher	NN
+
+das	ART
+das	ART
+
+Kultusministerium	NN
+Kultusministerium	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+Arche-Nebra-Folge	NN
+Arche-Nebra-Folge	NN
+
+der	ART
+der	ART
+
+Freizeitchecker	NN
+Freizeitchecker	NN
+
+kommen	VVFIN
+kommen	VVFIN
+
+laut	APPR
+laut	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+Sendeplan	NN
+Sendeplan	NN
+
+an	APPRART
+an	APPR
+
+8.	ADJA
+8.	ADJA
+
+Februar	NN
+Februar	NN
+
+.	$.
+.	$.
+
+also	ADV
+also	ADV
+
+bitte	ADV
+bitte	VVFIN
+
+noch	ADV
+noch	ADV
+
+etwas	PIAT
+etwas	PIAT
+
+Geduld	NN
+Geduld	NN
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+werden	VAFIN
+werden	VAFIN
+
+der	PDS
+der	PDS
+
+nehmen	VVINF
+nehmen	VVINF
+
+,	$,
+,	$,
+
+aber	ADV
+aber	ADV
+
+ohne	APPR
+ohne	APPR
+
+dieser	PDAT
+dieser	PDAT
+
+Lockenwickler	NN
+Lockenwickler	NN
+
+!	$.
+!	$.
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	VAINF
+
+doch	ADV
+doch	KON
+
+kein	PIAT
+kein	PIAT
+
+Fakt	NN
+Fakt	NN
+
+:	$.
+:	$.
+
+Timeline	NN
+Timeline	NN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+?	$.
+?	$.
+
+egal	ADJD
+egal	ADJD
+
+wie	KOKOM
+wie	KOKOM
+
+alt	ADJD
+alt	ADJD
+
+du	PPER
+du	PPER
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+chuck	NE
+chuck	NN
+
+norris	NE
+norris	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+alt	ADJD
+alt	ADJD
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+verlieren	VVFIN
+verlieren	VVFIN
+
+sein	PPOSAT
+sein	PPOSAT
+
+Anzeigengroßkunden	NN
+Anzeigengroßkunden	NN
+
+an	APPR
+an	APPR
+
+Google	NE
+Google	NN
+
+!	$.
+!	$.
+
+entweder	KON
+entweder	KON
+
+der	PDS
+der	PDS
+
+machen	VVFIN
+machen	VVFIN
+
+nun	ADV
+nun	ADV
+
+ein	ART
+ein	ART
+
+richtig	ADJA
+richtig	ADJD
+
+Zeitung	NN
+Zeitung	NN
+
+oder	KON
+oder	KON
+
+zu	PTKVZ
+zu	ADV
+
+.	$.
+.	$.
+
+so	ADV
+so	ADV
+
+einfach	ADJD
+einfach	ADJD
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	ART
+
+!	$.
+!	$.
+
+wie	PWAV
+wie	KOUS
+
+stehen	VVFIN
+stehen	VVFIN
+
+es	PPER
+es	PPER
+
+in	APPR
+in	APPR
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+Unternehmen	NN
+Unternehmen	NN
+
+um	APPR
+um	APPR
+
+den	ART
+den	ART
+
+hashtag	NN
+hashtag	HASH
+
+?	$.
+?	$.
+
+ein	ART
+ein	ART
+
+kostenloser	ADJA
+kostenloser	ADJA
+
+Fragebogen 	NN
+Fragebogen	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+wie	PWAV
+wie	KOKOM
+
+können	VMFIN
+können	VMFIN
+
+man	PIS
+man	PIS
+
+der	PDS
+der	PDS
+
+mögen	VVINF
+mögen	VMINF
+
+?	$.
+?	$.
+
+Slowenien	NE
+Slowenien	NE
+
+schreiben	VVFIN
+schreiben	VVFIN
+
+der	ART
+der	ART
+
+Netzneutralität	NN
+Netzneutralität	NN
+
+gesetzlich	ADJD
+gesetzlich	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Sport	NN
+Sport	NN
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+-	$(
+-	$(
+
+Tipp	NN
+Tipp	NN
+
+:	$.
+:	$.
+
+Info	NN
+Info	NN
+
+zu	APPRART
+zu	APPR
+
+Eishockey	NN
+Eishockey	NN
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+-	$(
+-	$(
+
+Info	NN
+Info	NN
+
+zu	APPRART
+zu	APPR
+
+Leichtathletik	NN
+Leichtathletik	NN
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+hashtag	HASH
+hashtag	HASH
+
+bei	APPRART
+bei	APPR
+
+1.	ADJA
+1.	ADJA
+
+BDA-Montagsgespräch	NN
+BDA-Montagsgespräch	NN
+
+@card@	CARD
+@card@	CARD
+
+sein	VAFIN
+sein	VAINF
+
+der	ART
+der	ART
+
+Baudezernent	NN
+Baudezernent	NN
+
+Franz-Josef	NE
+Franz-Josef	NE
+
+Höing	NE
+Höing	NE
+
+zu	APPR
+zu	APPR
+
+Gast	NN
+Gast	NN
+
+.	$.
+.	$.
+
+ein	ART
+ein	ART
+
+Rückblick	NN
+Rückblick	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+mein	PPOSAT
+mein	PPOSAT
+
+Apfel	NN
+Apfel	NN
+
+Welt	NN
+Welt	NN
+
+Nachricht	NN
+Nachricht	NN
+
+werden	VAFIN
+werden	VAFIN
+
+gerade	ADV
+gerade	ADV
+
+veröffentlichen	VVPP
+veröffentlichen	VVINF
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+-	XY
+-	$(
+
+Topthema	NN
+Topthema	NN
+
+heute	ADV
+heute	ADV
+
+von	APPR
+von	APPR
+
+user	NE
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+wünschen	VVFIN
+wünschen	VVFIN
+
+aller	PIS
+aller	PIAT
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+zu	PTKA
+zu	APPR
+
+spät	ADJD
+spät	ADJD
+
+Stunde	NN
+Stunde	NN
+
+noch	ADV
+noch	ADV
+
+dieser	PDAT
+dieser	PDAT
+
+Nachricht	NN
+Nachricht	NN
+
+lesen	VVFIN
+lesen	VVFIN
+
+ein	ART
+ein	ART
+
+angenehm	ADJA
+angenehm	ADJD
+
+Nachtruhe	NN
+Nachtruhe	NN
+
+und	KON
+und	KON
+
+schön	ADJA
+schön	ADJD
+
+Traum	NN
+Traum	NN
+
+.	$.
+.	$.
+
+gut	ADJA
+gut	ADJD
+
+Nacht	NN
+Nacht	NN
+
+emoticon	EMO
+emoticon	EMO
+
+DEU	NE
+DEU	ADJD
+
+sollen	VMFIN
+sollen	VMFIN
+
+sich	PRF
+sich	PRF
+
+locker	ADJD
+locker	ADJD
+
+machen	VVINF
+machen	VVINF
+
+.	$.
+.	$.
+
+wenn	KOUS
+wenn	KOUS
+
+eine	ART
+eine	ART
+
+Frau	NN
+Frau	NN
+
+einen	ART
+einen	ART
+
+schön	ADJA
+schön	ADJD
+
+Hintern	NN
+Hintern	NN
+
+o.	KON
+o.	APPR
+
+ä.	NN
+ä.	NE
+
+haben	VAFIN
+haben	VAINF
+
+werden	VAFIN
+werden	VAFIN
+
+Man	PIS_PPER
+Man	PIS
+
+ja	ADV
+ja	ADV
+
+sagen	VVINF
+sagen	VVINF
+
+dürfen	VMINF
+dürfen	VMINF
+
+.	$.
+.	$.
+
+@ArneMarsiano	ADDRESS
+@ArneMarsiano	NN
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+Ihhh	ITJ
+Ihhh	ADV
+
+!	$.
+!	$.
+
+was	PWS
+was	PWS
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	ART
+
+denn	ADV
+denn	ADV
+
+für	APPR
+für	APPR
+
+ein	ART
+ein	ART
+
+mieses	ADJA
+mieses	ADJA
+
+hashtag	NN
+hashtag	HASH
+
+da	ADV
+da	ADV
+
+draußen	ADV
+draußen	ADV
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+je	ADV
+je	APPR
+
+nachdem	PROAV
+nachdem	KOUS
+
+wie	KOKOM
+wie	KOUS
+
+lange	ADJD
+lange	ADV
+
+deine	PPOSAT
+deine	PPOSAT
+
+letzter	ADJA
+letzter	ADJA
+
+Mail	NN
+Mail	NE
+
+her	PTKVZ
+her	PTKVZ
+
+sein	VAFIN
+sein	VAINF
+
+können	VMFIN
+können	VMFIN
+
+du	PPER
+du	PPER
+
+nochmals	ADV
+nochmals	ADV
+
+proaktiv	ADJD
+proaktiv	ADJD
+
+auf	APPR
+auf	APPR
+
+der	PDS
+der	ART
+
+aufmerksam	ADJD
+aufmerksam	ADJD
+
+machen	VVINF
+machen	VVINF
+
+und	KON
+und	KON
+
+Nachfrage	VVINF
+Nachfrage	NN
+
+.	$.
+.	$.
+
+/fg	XY
+/fg	NE
+
+@FaeSantiago	ADDRESS
+@FaeSantiago	NN
+
+voll	ADJD
+voll	ADJD
+
+behindern	VVPP
+behindern	VVFIN
+
+sowas	PIS
+sowas	PIS
+
+,	$,
+,	$,
+
+genauso	ADV
+genauso	ADV
+
+wenn	KOUS
+wenn	KOUS
+
+sie	PPER
+sie	PPER
+
+sich	PRF
+sich	PRF
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Präsidentenwahl	NN
+Präsidentenwahl	NN
+
+dort	ADV
+dort	ADV
+
+interessieren	VVINF
+interessieren	VVINF
+
+als	KOKOM
+als	KOKOM
+
+haben	VAFIN
+haben	VAFIN
+
+es	PPER
+es	PPER
+
+irgendein	PIAT
+irgendein	PIAT
+
+Auswirkung	NN
+Auswirkung	NN
+
+ej	ITJ
+ej	NE
+
+!	$.
+!	$.
+
+Babo	NE
+Babo	NE
+
+!	$.
+!	$.
+
+@Vaniileinx33	ADDRESS
+@Vaniileinx33	ADJA
+
+hilf	VVIMP
+hilf	VVIMP
+
+mal	ADV
+mal	ADV
+
+.	$.
+.	$.
+
+zu	PTKA
+zu	PTKA
+
+hart	ADJD
+hart	ADJD
+
+?	$.
+?	$.
+
+url	URL
+url	URL
+
+Blöd	ADJD
+Blöd	ADJD
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+man	PIS
+man	PIS
+
+der	ART
+der	ART
+
+Adresse	NN
+Adresse	NN
+
+das	ART
+das	ART
+
+Ladengeschäfts	NN
+Ladengeschäfts	NN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Online-Karten	NN
+Online-Karten	NN
+
+pflegen	VVFIN
+pflegen	VVINF
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+Kunde	NN
+Kunde	NN
+
+dann	ADV
+dann	ADV
+
+immer	ADV
+immer	ADV
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+falsch	ADJA
+falsch	ADJD
+
+Laden	NN
+Laden	NN
+
+gehen	VVFIN
+gehen	VVINF
+
+.	$.
+.	$.
+
+m	XY
+m	NN
+
+(	$(
+(	$(
+
+wo	PWAV
+wo	PWAV
+
+sein	VAFIN
+sein	VAINF
+
+denn	ADV
+denn	KON
+
+Magix	NE
+Magix	NN
+
+plötzlich	ADJD
+plötzlich	ADJD
+
+hin	PTKVZ
+hin	PTKVZ
+
+?	$.
+?	$.
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+doch	ADV
+doch	ADV
+
+an	APPRART
+an	APZR
+
+konvertieren	NN
+konvertieren	VVINF
+
+!	$.
+!	$.
+
+teuer	ADJA
+teuer	ADJD
+
+Energie	NN
+Energie	NN
+
+:	$.
+:	$.
+
+Wirtschaft	NN
+Wirtschaft	NN
+
+fordern	VVFIN
+fordern	VVFIN
+
+niedrig	ADJA
+niedrig	ADJD
+
+Stromsteuer	NN
+Stromsteuer	NN
+
+:	$.
+:	$.
+
+wie	PWAV
+wie	KOUS
+
+senken	VVFIN
+senken	VVFIN
+
+man	PIS
+man	PIS
+
+der	ART
+der	ART
+
+Strompreis	NN
+Strompreis	NN
+
+?	$.
+?	$.
+
+während	APPR
+während	APPR
+
+Umweltminister	NN
+Umweltminister	NN
+
+A	XYB
+A	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+aller	PIAT
+aller	PIAT
+
+gute	NN
+gute	ADJA
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+Mann	NN
+Mann	NN
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+ihr	PPER
+ihr	PPER
+
+mir	PRF
+mir	PRF
+
+dein	PPOSAT
+dein	PPOSAT
+
+Penis	NN
+Penis	NN
+
+an	APPR
+an	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+Hintern	NN
+Hintern	NN
+
+reiben	VVFIN
+reiben	VVINF
+
+,	$,
+,	$,
+
+denken	VVFIN
+denken	VVFIN
+
+ich	PPER
+ich	PPER
+
+erstmal	ADV
+erstmal	ADV
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+ihr	PPER
+ihr	PPER
+
+euch	PRF
+euch	PPER
+
+zu	PTKA
+zu	APPR
+
+hässlich	ADJD
+hässlich	ADJD
+
+finden	VVFIN
+finden	VVFIN
+
+um	KOUI
+um	APPR
+
+mich	PPER
+mich	PPER
+
+von	APPR
+von	APPR
+
+vorne	ADV
+vorne	ADV
+
+anzutanzen	VVIZU
+anzutanzen	VVIZU
+
+.	$.
+.	$.
+
+manchmal	ADV
+manchmal	ADV
+
+sorgen	VVFIN
+sorgen	VVFIN
+
+Spotify	NE
+Spotify	NN
+
+ja	ADV
+ja	ADV
+
+für	APPR
+für	APPR
+
+Verzweiflung	NN
+Verzweiflung	NN
+
+,	$,
+,	$,
+
+weil	KOUS
+weil	KOUS
+
+es	PPER
+es	PPER
+
+blöde	ADJA
+blöde	ADJA
+
+Interpret	NN
+Interpret	NN
+
+immer	ADV
+immer	ADV
+
+wieder	ADV
+wieder	ADV
+
+spielen	VVFIN
+spielen	VVINF
+
+.	$.
+.	$.
+
+aber	KON
+aber	KON
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+schon	ADV
+schon	ADV
+
+paar	PIAT
+paar	PIAT
+
+neu	ADJA
+neu	ADJD
+
+Bands	NN
+Bands	NN
+
+kennenlernen	VVPP
+kennenlernen	VVINF
+
+.	$.
+.	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+groß	ADJA
+groß	ADJD
+
+Kino	NN
+Kino	NN
+
+,	$,
+,	$,
+
+Frau	NN
+Frau	NN
+
+Kommissarin	NN
+Kommissarin	NN
+
+!	$.
+!	$.
+
+solange	KOUS
+solange	KOUS
+
+ein	ART
+ein	ART
+
+Leiche	NN
+Leiche	NN
+
+herbeireden	VVINF
+herbeireden	VVINF
+
+,	$,
+,	$,
+
+bis	KOUS
+bis	KOUS
+
+sie	PPER
+sie	PPER
+
+da	ADV
+da	ADV
+
+sein	VAFIN
+sein	VAINF
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+..	$.
+..	NN
+
+Schneemann	NN
+Schneemann	NE
+
+dann	ADV
+dann	ADV
+
+,	$,
+,	$,
+
+der	PDS
+der	PRELS
+
+hier	ADV
+hier	ADV
+
+stecken	VVFIN
+stecken	VVFIN
+
+der	ART
+der	ART
+
+Nase	NN
+Nase	NN
+
+dran	PROAV
+dran	PTKVZ
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+Klitzekleine	NN
+Klitzekleine	NN
+
+-	$(
+-	$(
+
+der	PDS
+der	PRELS
+
+knabbert	VVFIN
+knabbert	VVFIN
+
+sie	PPER
+sie	PPER
+
+heimlich	ADJD
+heimlich	ADJD
+
+an	PTKVZ
+an	PTKVZ
+
+!	$.
+!	$.
+
+(	$(
+(	$(
+
+Kind	NN
+Kind	NN
+
+an	APPR
+an	APPR
+
+Nase	NN
+Nase	NN
+
+kitzeln	VVFIN
+kitzeln	VVINF
+
+.	$.
+.	$.
+
+)	$(
+)	$(
+
+...	$.
+...	$.
+
+Aufbau	NN
+Aufbau	NN
+
+,	$,
+,	$,
+
+leer	ADJA
+leer	ADJD
+
+Lkw	NN
+Lkw	NN
+
+und	KON
+und	KON
+
+Pkw	NN
+Pkw	NN
+
+mit	APPR
+mit	APPR
+
+Anhänger	NN
+Anhänger	NN
+
+in	APPR
+in	APPR
+
+beide	PIAT
+beide	PIAT
+
+Richtung	NN
+Richtung	NN
+
+sperren	VVPP
+sperren	VVINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+aber	ADV
+aber	KON
+
+hallo	ITJ
+hallo	ITJ
+
+mal	ADV
+mal	ADV
+
+!	$.
+!	$.
+
+tief	ADJD
+tief	ADJD
+
+in	APPRART
+in	APPR
+
+innere	NN
+innere	ADJA
+
+wissen	VVFIN
+wissen	VVFIN
+
+wir	PPER
+wir	PPER
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+es	PPER
+es	PPER
+
+Liebe	NN
+Liebe	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+v.v	EMO
+v.v	NN
+
+emoticon	EMO
+emoticon	EMO
+
+Donnerstag	NN
+Donnerstag	NN
+
+kommen	VVFIN
+kommen	VVFIN
+
+der	ART
+der	ART
+
+Frau	NN
+Frau	NN
+
+an	APPR
+an	APPR
+
+der	ART
+der	ART
+
+Macht	NN
+Macht	NN
+
+!	$.
+!	$.
+
+Helau	ITJ
+Helau	ITJ
+
+!	$.
+!	$.
+
+user	ADDRESS
+user	ADDRESS
+
+habbich	VAFIN_PPER
+habbich	NN
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+klappen	VVPP
+klappen	VVFIN
+
+.	$.
+.	$.
+
+danke	VVFIN
+danke	PTKANT
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+mich	PPER
+mich	PPER
+
+können	VVFIN
+können	VMFIN
+
+ihr	PPER
+ihr	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+in	APPRART
+in	APPR
+
+abseits	NN
+abseits	APPR
+
+tretten	VVINF
+tretten	NN
+
+ein	ART
+ein	ART
+
+Lars	NE
+Lars	NE
+
+Steffens	NE
+Steffens	NE
+
+werden	VAFIN
+werden	VAFIN
+
+es	PPER
+es	PPER
+
+auch	ADV
+auch	ADV
+
+noch	ADV
+noch	ADV
+
+@card@	CARD
+@card@	CARD
+
+geben	VVINF
+geben	VVINF
+
+und	KON
+und	KON
+
+noch	ADV
+noch	ADV
+
+weiterhin	ADV
+weiterhin	ADV
+
+geben	VVINF
+geben	VVINF
+
+es	PPER
+es	PPER
+
+gehen	VVFIN
+gehen	VVFIN
+
+mir	PPER
+mir	PPER
+
+um	APPR
+um	APPR
+
+der	ART
+der	ART
+
+Zukunft	NN
+Zukunft	NN
+
+gewissenhafter	ADJA
+gewissenhafter	ADJA
+
+Bürger	NN
+Bürger	NN
+
+in	APPR
+in	APPR
+
+ein	ART
+ein	ART
+
+vereinigt	ADJA
+vereinigt	VVFIN
+
+Europa	NE
+Europa	NE
+
+als	APPR
+als	KOKOM
+
+Modell	NN
+Modell	NN
+
+ein	ART
+ein	ART
+
+gerecht	ADJA
+gerecht	ADJD
+
+Gesellschaft	NN
+Gesellschaft	NN
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+unser	PPOSAT
+unser	PPOSAT
+
+Server	NN
+Server	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+derzeit	ADV
+derzeit	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+erreichbar	ADJD
+erreichbar	ADJD
+
+.	$.
+.	$.
+
+wir	PPER
+wir	PPER
+
+sein	VAFIN
+sein	VAINF
+
+dran	PROAV
+dran	PTKVZ
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+@card@	CARD
+@card@	CARD
+
+Minute	NN
+Minute	NN
+
+warten	VVPP
+warten	VVFIN
+
+wg.	APPR
+wg.	APPR
+
+ein	ART
+ein	ART
+
+Stromausfalls	NN
+Stromausfalls	NN
+
+!	$.
+!	$.
+
+interessant	ADJA
+interessant	ADJD
+
+Nachbetrachtungen	NN
+Nachbetrachtungen	NN
+
+von	APPR
+von	APPR
+
+user	NE
+user	ADDRESS
+
+zu	APPRART
+zu	APPR
+
+Leistungsschutzrecht-Anhörung	NN
+Leistungsschutzrecht-Anhörung	NN
+
+in	APPRART
+in	APPR
+
+Rechtsausschuss	NN
+Rechtsausschuss	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+heute	ADV
+heute	ADV
+
+spinne	VVFIN
+spinne	VVFIN
+
+ich	PPER
+ich	PPER
+
+zu	APPRART
+zu	APPR
+
+erster	ADJA
+erster	ADJA
+
+Mal	NN
+Mal	NN
+
+wer	PIS
+wer	PWS
+
+mit	APPR
+mit	APPR
+
+glanzfasen	NN
+glanzfasen	ADJA
+
+drin	ADV
+drin	PAV
+
+.	$.
+.	$.
+
+sehen	VVFIN
+sehen	VVFIN
+
+hübsch	ADJD
+hübsch	ADJD
+
+aus	PTKVZ
+aus	PTKVZ
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+der	ART
+der	ART
+
+Single	NN
+Single	NN
+
+werden	VAFIN
+werden	VAFIN
+
+ein	ART
+ein	ART
+
+bisschen	PIS
+bisschen	ADV
+
+drahtig	ADJD
+drahtig	ADJD
+
+...	$.
+...	$.
+
+hm	PTKREZ
+hm	NN
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+liegen	VVFIN
+liegen	VVFIN
+
+immer	ADV
+immer	ADV
+
+noch	ADV
+noch	ADV
+
+in	APPRART
+in	APPR
+
+Bett	NN
+Bett	NN
+
+.	$.
+.	$.
+
+in	APPR
+in	APPR
+
+einer	ART
+einer	ART
+
+halb	ADJA
+halb	ADJD
+
+Stunde	NN
+Stunde	NN
+
+müssen	VMFIN
+müssen	VMFIN
+
+ich	PPER
+ich	PPER
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Schule	NN
+Schule	NN
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+ihhh	ITJ
+ihhh	ADJA
+
+Ja	PTKA
+Ja	NN
+
+sein	VAFIN
+sein	VAINF
+
+du	PPER
+du	PPER
+
+emoticon	EMO
+emoticon	EMO
+
+...	$.
+...	$.
+
+werden	VAFIN
+werden	VAFIN
+
+bitte	ADV
+bitte	VVFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+so	ADV
+so	ADV
+
+!	$.
+!	$.
+
+kaum	ADV
+kaum	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+man	PIS
+man	PIS
+
+aus	APPR
+aus	APPR
+
+Deutschland	NE
+Deutschland	NE
+
+raus	ADV
+raus	ADV
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+beim	APPRART
+beim	APPRART
+
+erster	ADJA
+erster	ADJA
+
+Halt	NN
+Halt	NN
+
+kostenlos	ADJA
+kostenlos	ADJD
+
+WLAN	NN
+WLAN	NN
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+Leben	NN
+Leben	NN
+
+das	ART
+das	ART
+
+Pi	NE
+Pi	NN
+
+-	$(
+-	$(
+
+Schiffbruch	NN
+Schiffbruch	NN
+
+mit	APPR
+mit	APPR
+
+Tiger	NN
+Tiger	NN
+
+"	$(
+"	$(
+
+sein	VAFIN
+sein	VAINF
+
+übrigens	ADV
+übrigens	ADV
+
+ein	ART
+ein	ART
+
+sehr	ADV
+sehr	ADV
+
+sehenswerter	ADJA
+sehenswerter	ADJA
+
+Film	NN
+Film	NN
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+persönlich	ADJA
+persönlich	ADJD
+
+Meisterstück	NN
+Meisterstück	NN
+
+-	$(
+-	$(
+
+der	ART
+der	ART
+
+Wunschtreppe	NN
+Wunschtreppe	NN
+
+in	APPR
+in	APPR
+
+weniger	PIAT
+weniger	PIAT
+
+Schritt	NN
+Schritt	NN
+
+selbst	ADV
+selbst	ADV
+
+gestalten	VVINF
+gestalten	VVFIN
+
+url	URL
+url	URL
+
+Jestic	NE
+Jestic	NE
+
+-	$(
+-	$(
+
+ich	PPER
+ich	PPER
+
+hab`s	VAFIN_ES
+hab`s	VVFIN
+
+dir	PPER
+dir	PRF
+
+nie	ADV
+nie	ADV
+
+sagen	VVPP
+sagen	VVINF
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+Handwerker	NN
+Handwerker	NN
+
+wollen	VMFIN
+wollen	VMFIN
+
+fertig	ADJD
+fertig	ADJD
+
+werden	VAINF
+werden	VAINF
+
+.	$.
+.	$.
+
+Gerät	NN
+Gerät	NN
+
+verpolt	VVPP
+verpolt	VVPP
+
+anschließen	VVPP
+anschließen	VVINF
+
+.	$.
+.	$.
+
+einschalten	VVINF
+einschalten	VVINF
+
+-	$(
+-	$(
+
+Rauch	NN
+Rauch	NE
+
+-	$(
+-	$(
+
+löschen	VVINF
+löschen	VVFIN
+
+-	$(
+-	$(
+
+Termin	NN
+Termin	NN
+
+verschieben	VVINF
+verschieben	VVINF
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
++++	XY
++++	ADJA
+
+Eilmeldung	NN
+Eilmeldung	NN
+
++++	XY
++++	ADJA
+
+Europol	NE
+Europol	NN
+
+decken	VVFIN
+decken	VVFIN
+
+weltweit	ADJD
+weltweit	ADJD
+
+groß	ADJA
+groß	ADJD
+
+Fußball-Wettskandal	NN
+Fußball-Wettskandal	NN
+
+auf	PTKVZ
+auf	APPR
+
+url	URL
+url	URL
+
+auch	ADV
+auch	ADV
+
+hashtag	NE
+hashtag	HASH
+
+und	KON
+und	KON
+
+WM-Qualifikation	NN
+WM-Qualifikation	NN
+
+betreffen	VVPP
+betreffen	VVINF
+
+user	ADDRESS
+user	ADDRESS
+
+sein	VAFIN
+sein	PPOSAT
+
+sehr	ADV
+sehr	ADV
+
+gespannt	ADJD
+gespannt	VVPP
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+dein	PPOSAT
+dein	PPOSAT
+
+Woche	NN
+Woche	NN
+
+ein	ART
+ein	ART
+
+Motto	NN
+Motto	NN
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+hm	PTKREZ
+hm	NN
+
+,	$,
+,	$,
+
+so	ADV
+so	ADV
+
+gesehen	VVPP
+gesehen	VVPP
+
+...	$.
+...	$.
+
+mein	PPOSAT
+mein	PPOSAT
+
+Nachruhm	NN
+Nachruhm	NN
+
+gucken	VVFIN
+gucken	VVFIN
+
+jedenfalls	ADV
+jedenfalls	ADV
+
+Deadwood	NE
+Deadwood	NE
+
+,	$,
+,	$,
+
+weil	KOUS
+weil	KOUS
+
+ich	PPER
+ich	PPER
+
+dazu	PROAV
+dazu	PAV
+
+nie	ADV
+nie	ADV
+
+kommen	VVFIN
+kommen	VVINF
+
+.	$.
+.	$.
+
+acht	CARD
+acht	CARD
+
+Monat	NN
+Monat	NN
+
+lang	ADJD
+lang	ADJD
+
+verschwinden	VVPP
+verschwinden	VVINF
+
+-	$(
+-	$(
+
+irisch	ADJA
+irisch	ADJD
+
+Multimillionär	NN
+Multimillionär	NN
+
+verwahrlost	ADJD
+verwahrlost	VVPP
+
+aufgreifen	VVPP
+aufgreifen	VVINF
+
+:	$.
+:	$.
+
+ein	ART
+ein	ART
+
+irisch	ADJA
+irisch	ADJD
+
+Immobilien-Tycoon	NN
+Immobilien-Tycoon	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+@Wolfslord	ADDRESS
+@Wolfslord	NN
+
+herzlich	ADJD
+herzlich	ADJD
+
+Willkommen	NN
+Willkommen	NN
+
+emo	EMO
+emo	ADJD
+
+schön	ADJD
+schön	ADJD
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+du	PPER
+du	PPER
+
+jetzt	ADV
+jetzt	ADV
+
+bei	APPR
+bei	APPR
+
+uns	PPER
+uns	PPER
+
+sein	VAFIN
+sein	VAINF
+
+.	$.
+.	$.
+
+^JJ	XY
+^JJ	NE
+
+als	KOUS
+als	KOUS
+
+ich	PPER
+ich	PPER
+
+dich	PPER
+dich	PPER
+
+singen	VVINF
+singen	VVINF
+
+hören	VVFIN
+hören	VVINF
+
+,	$,
+,	$,
+
+in	APPR
+in	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+Garten	NN
+Garten	NN
+
+,	$,
+,	$,
+
+dieser	PDAT
+dieser	PDAT
+
+wunderbar	ADJA
+wunderbar	ADJD
+
+Lied	NN
+Lied	NN
+
+...	PAUSE
+...	$.
+
+der	PRELS
+der	ART
+
+mein	PPOSAT
+mein	PPOSAT
+
+Herz	NN
+Herz	NN
+
+(	$(
+(	$(
+
+user	ADDRESS
+user	ADDRESS
+
+url	URL
+url	URL
+
+)	$(
+)	$(
+
+Rajoy	NE
+Rajoy	NE
+
+kommen	VVFIN
+kommen	VVFIN
+
+zu	APPR
+zu	APPR
+
+deutsch-spanischen	ADJA
+deutsch-spanischen	ADJA
+
+Regierungsgesprächen	NN
+Regierungsgesprächen	NN
+
+nach	APPR
+nach	APPR
+
+Berlin	NE
+Berlin	NE
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+spanisch	ADJA
+spanisch	ADJD
+
+Ministerpräsi	XYB
+Ministerpräsi	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+haha	ITJ
+haha	NN
+
+OK	ADJD
+OK	NN
+
+dann	ADV
+dann	ADV
+
+so	ADV
+so	ADV
+
+!	$.
+!	$.
+
+:DDD	EMO
+:DDD	NE
+
+ja	PTKANT
+ja	ADV
+
+3	CARD
+3	CARD
+
+Account	NN
+Account	NN
+
+,	$,
+,	$,
+
+nur	ADV
+nur	ADV
+
+welcher	PWS
+welcher	PIS
+
+sein	VAFIN
+sein	PPOSAT
+
+jetzt	ADV
+jetzt	ADV
+
+der	ART
+der	ART
+
+echt	ADJA
+echt	ADJD
+
+?	$.
+?	$.
+
+wenn	KOUS
+wenn	KOUS
+
+überhaupt	ADV
+überhaupt	ADV
+
+einer	PIS
+einer	PIS
+
+echt	ADJD
+echt	ADJD
+
+sein	VAFIN
+sein	VAINF
+
+.	$.
+.	$.
+
+:DD	EMO
+:DD	NE
+
+user	ADDRESS
+user	ADDRESS
+
+mein	PPOSAT
+mein	PPOSAT
+
+Erfahrung	NN
+Erfahrung	NN
+
+liegen	VVFIN
+liegen	VVFIN
+
+schon	ADV
+schon	ADV
+
+lange	ADJD
+lange	ADV
+
+zurück	PTKVZ
+zurück	PTKVZ
+
+.	$.
+.	$.
+
+Nehm	VVFIN
+Nehm	ADJD
+
+jetzt	ADV
+jetzt	ADV
+
+einen	ART
+einen	ART
+
+Desktop	NN
+Desktop	NN
+
+Mac	NE
+Mac	NE
+
+als	APPR
+als	KOKOM
+
+Medien	TRUNC
+Medien	NN
+
+und	KON
+und	KON
+
+File-Server	NN
+File-Server	NN
+
+für	APPR
+für	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+@card@	CARD
+@card@	CARD
+
+%	NN
+%	NN
+
+Apple	NE
+Apple	NE
+
+Fuhrpark	NN
+Fuhrpark	NN
+
+user	ADDRESS
+user	ADDRESS
+
+sein	VAFIN
+sein	VAINF
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Weg	NN
+Weg	NN
+
+...	$.
+...	$.
+
+!	$.
+!	$.
+
+user	ADDRESS
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+Dank	NN
+Dank	NN
+
+!	$.
+!	$.
+
+wer	PWS
+wer	PWS
+
+ein	ART
+ein	ART
+
+Korb	NN
+Korb	NN
+
+bekommen	VVFIN
+bekommen	VVINF
+
+sollen	VMFIN
+sollen	VMFIN
+
+damit	PROAV
+damit	PAV
+
+einkaufen	VVINF
+einkaufen	VVINF
+
+gehen	VVINF
+gehen	VVINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+oh	ITJ
+oh	ITJ
+
+,	$,
+,	$,
+
+Linsensuppe	NN
+Linsensuppe	NN
+
+können	VMFIN
+können	VMFIN
+
+ich	PPER
+ich	PPER
+
+auch	ADV
+auch	ADV
+
+mal	ADV
+mal	ADV
+
+wieder	ADV
+wieder	ADV
+
+machen	VVINF
+machen	VVINF
+
+.	$.
+.	$.
+
+oh	ITJ
+oh	ITJ
+
+wow	ITJ
+wow	NE
+
+,	$,
+,	$,
+
+wie	PWAV
+wie	KOKOM
+
+sein	VAFIN
+sein	PPOSAT
+
+der	PDS
+der	ART
+
+noch	ADV
+noch	ADV
+
+mal	ADV
+mal	ADV
+
+mit	APPR
+mit	APPR
+
+dieser	PDAT
+dieser	PDAT
+
+doofen	ADJA
+doofen	ADJA
+
+Songtexten	NN
+Songtexten	NN
+
+hashtag	HASH
+hashtag	HASH
+
+in	APPR
+in	APPR
+
+ein	ART
+ein	ART
+
+Webcast	NN
+Webcast	NN
+
+Reihe	NN
+Reihe	NN
+
+stellen	VVFIN
+stellen	VVFIN
+
+wir	PPER
+wir	PPER
+
+spannend	ADJA
+spannend	ADJD
+
+und	KON
+und	KON
+
+aktuell	ADJA
+aktuell	ADJD
+
+Thema	NN
+Thema	NN
+
+vor	PTKVZ
+vor	PTKVZ
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+schwierig	ADJD
+schwierig	ADJD
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+wenn	KOUS
+wenn	KOUS
+
+der	ART
+der	ART
+
+Ehe	NN
+Ehe	NN
+
+'	$(
+'	$(
+
+sicherer	ADJA
+sicherer	ADJA
+
+Hafen	NN
+Hafen	NN
+
+'	$(
+'	$(
+
+nennen	VVPP
+nennen	VVINF
+
+werden	VAFIN
+werden	VAFIN
+
+,	$,
+,	$,
+
+fragen	VVFIN
+fragen	VVFIN
+
+ich	PPER
+ich	PPER
+
+mich	PRF
+mich	PRF
+
+immer	ADV
+immer	ADV
+
+,	$,
+,	$,
+
+welcher	PWAT
+welcher	PWS
+
+Hafen	NN
+Hafen	NN
+
+mit	APPR
+mit	APPR
+
+@card@	CARD
+@card@	CARD
+
+%	NN
+%	NN
+
+Havarie-Quote	NN
+Havarie-Quote	NN
+
+ein	ART
+ein	ART
+
+vernünftiger	ADJA
+vernünftiger	ADJA
+
+Kapitän	NN
+Kapitän	NN
+
+anlaufen	VVINF
+anlaufen	VVINF
+
+werden	VAFIN
+werden	VAFIN
+
+Coral	NE
+Coral	NE
+
+Angebot	NN
+Angebot	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+sehr	ADV
+sehr	ADV
+
+zu	PTKZU
+zu	PTKZU
+
+empfehlen	VVINF
+empfehlen	VVINF
+
+,	$,
+,	$,
+
+fürs	APPRART
+fürs	APPRART
+
+erster	ADJA
+erster	ADJA
+
+PP	NN
+PP	NN
+
+kriegst	VVFIN
+kriegst	VVFIN
+
+schon	ADV
+schon	ADV
+
+bei	APPR
+bei	APPR
+
+5	CARD
+5	CARD
+
+Euro	NN
+Euro	NN
+
+Einzahlung	NN
+Einzahlung	NN
+
+,	$,
+,	$,
+
+Kriegst	VVFIN
+Kriegst	VVFIN
+
+Einzahlung	NN
+Einzahlung	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+@JunAkera	ADDRESS
+@JunAkera	NN
+
+gut	ADJD
+gut	ADJD
+
+als	KOKOM
+als	KOKOM
+
+nichts	PIS
+nichts	PIS
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+lernen	VVPP
+lernen	VVINF
+
+:	$.
+:	$.
+
+ein	ART
+ein	ART
+
+iPhone	NE
+iPhone	NN
+
+können	VMFIN
+können	VMFIN
+
+in	APPR
+in	APPR
+
+Bier	NN
+Bier	NN
+
+kaputt	ADJD
+kaputt	ADJD
+
+gehen	VVINF
+gehen	VVINF
+
+,	$,
+,	$,
+
+der	ART
+der	ART
+
+Surface	NN
+Surface	NN
+
+stammen	VVFIN
+stammen	VVFIN
+
+von	APPR
+von	APPR
+
+Windows	NE
+Windows	NE
+
+und	KON
+und	KON
+
+Foxconn	NE
+Foxconn	NE
+
+bauen	VVFIN
+bauen	VVFIN
+
+nur	ADV
+nur	ADV
+
+(	$(
+(	$(
+
+!	$.
+!	$.
+
+)	$(
+)	$(
+
+für	APPR
+für	APPR
+
+Apple	NE
+Apple	NE
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+sehr	ADV
+sehr	ADV
+
+schade	ADJD
+schade	ADJD
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Freundin	NN
+Freundin	NN
+
+versprechen	VVPP
+versprechen	VVFIN
+
+dieser	PDAT
+dieser	PDAT
+
+Jahr	NN
+Jahr	NN
+
+mit	APPR
+mit	APPR
+
+ihr	PPER
+ihr	PPOSAT
+
+zu	APPR
+zu	APPR
+
+DTM	NE
+DTM	NE
+
+zu	PTKZU
+zu	PTKZU
+
+gehen	VVINF
+gehen	VVINF
+
+,	$,
+,	$,
+
+auch	ADV
+auch	ADV
+
+wenn	KOUS
+wenn	KOUS
+
+ich	PPER
+ich	PPER
+
+der	PDS
+der	ART
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+mögen	VMFIN
+mögen	VMFIN
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+35-jährige	ADJA
+35-jährige	ADJA
+
+Frau	NN
+Frau	NN
+
+aus	APPR
+aus	APPR
+
+Schönefeld	NE
+Schönefeld	NN
+
+holen	VVFIN
+holen	VVFIN
+
+Titel	NN
+Titel	NN
+
+der	ART
+der	ART
+
+Häkel-Weltmeisterschaft	NN
+Häkel-Weltmeisterschaft	NN
+
+nach	APPR
+nach	APPR
+
+Leipzig	NE
+Leipzig	NE
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+eine	ART
+eine	ART
+
+gut	ADJA
+gut	ADJD
+
+Nacht	NN
+Nacht	NN
+
+!	$.
+!	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+Fahrkartenkontrolleuren	NN
+Fahrkartenkontrolleuren	NN
+
+einfach	ADJD
+einfach	ADJD
+
+mal	ADV
+mal	ADV
+
+ein	ART
+ein	ART
+
+gelb	ADJA
+gelb	ADJD
+
+Post	NN
+Post	NN
+
+It-Zettel	NN
+It-Zettel	NN
+
+hinhalten	VVINF
+hinhalten	VVINF
+
+.	$.
+.	$.
+
+aber	KON
+aber	KON
+
+mein	PPOSAT
+mein	PPOSAT
+
+Fresse	NN
+Fresse	NN
+
+,	$,
+,	$,
+
+wer	PWS
+wer	PWS
+
+sein	VAFIN
+sein	PPOSAT
+
+der	PDS
+der	PRELS
+
+humorlos	ADJD
+humorlos	ADJD
+
+!	$.
+!	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+reich	ADJA
+reich	VVIMP
+
+Onkel	NN
+Onkel	NN
+
+"	$(
+"	$(
+
+gegen	APPR
+gegen	APPR
+
+"	$(
+"	$(
+
+arm	ADJA
+arm	ADJD
+
+Schlucker	NN
+Schlucker	NN
+
+"	$(
+"	$(
+
+?	$.
+?	$.
+
+hashtag	NE
+hashtag	HASH
+
+beantworten	VVFIN
+beantworten	VVFIN
+
+Frage	NN
+Frage	NN
+
+zu	APPRART
+zu	APPR
+
+hashtag	NN
+hashtag	HASH
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+(	$(
+(	$(
+
+tpf	XY
+tpf	NN
+
+)	$(
+)	$(
+
+user	ADDRESS
+user	ADDRESS
+
+kommen	VVFIN
+kommen	VVFIN
+
+drauf	PROAV
+drauf	PAV
+
+an	PTKVZ
+an	APPR
+
+für	APPR
+für	APPR
+
+wer	PWS
+wer	PWS
+
+du	PPER
+du	PPER
+
+sein	VAFIN
+sein	VAINF
+
+...	$.
+...	$.
+
+emoticon	EMO
+emoticon	EMO
+
+-	$(
+-	$(
+
+sein	VAFIN
+sein	VAINF
+
+aber	ADV
+aber	KON
+
+irgendwie	ADV
+irgendwie	ADV
+
+absehen	VVIZU
+absehen	VVINF
+
+finden	VVFIN
+finden	VVFIN
+
+ich	PPER
+ich	PPER
+
+...	PAUSE
+...	$.
+
+!	$.
+!	$.
+
+user	ADDRESS
+user	ADDRESS
+
+der	PDS
+der	PDS
+
+wünschen	VVFIN
+wünschen	VVFIN
+
+ich	PPER
+ich	PPER
+
+dir	PPER
+dir	PRF
+
+auch	ADV
+auch	ADV
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+hahah	ITJ
+hahah	VVFIN
+
+ich	PPER
+ich	PPER
+
+wissen	VVFIN
+wissen	VVINF
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+der	PDS
+der	PDS
+
+kommen	VVFIN
+kommen	VVFIN
+
+.	$.
+.	$.
+
+aber	KON
+aber	KON
+
+dafür	PROAV
+dafür	PAV
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+kein	PIAT
+kein	PIAT
+
+Entschuldigung	NN
+Entschuldigung	NN
+
+.	$.
+.	$.
+
+gleich	ADV
+gleich	ADJD
+
+erster	PIS
+erster	ADJA
+
+von	APPR
+von	APPR
+
+4	CARD
+4	CARD
+
+Klausuren	NN
+Klausuren	NN
+
+dieser	PDAT
+dieser	PDAT
+
+Woche	NN
+Woche	NN
+
+..	$.
+..	ADJA
+
+Lets	FM
+Lets	NN
+
+Go	FM
+Go	VVFIN
+
+!	$.
+!	$.
+
+nichts	PIS
+nichts	PIS
+
+haben	VAFIN
+haben	VAFIN
+
+sich	PRF
+sich	PRF
+
+hier	ADV
+hier	ADV
+
+verändern	VVPP
+verändern	VVFIN
+
+der	ART
+der	ART
+
+Ravens	NE
+Ravens	NE
+
+sein	VAFIN
+sein	VAINF
+
+der	ART
+der	ART
+
+Boss	NN
+Boss	NN
+
+!	$.
+!	$.
+
+wer	PWS
+wer	PWS
+
+jetzt	ADV
+jetzt	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+SB	NE
+SB	NE
+
+gucken	VVFIN
+gucken	VVFIN
+
+der	PDS
+der	ART
+
+sagen	VVFIN
+sagen	VVFIN
+
+gut	ADJD
+gut	ADJD
+
+garnix	PIS
+garnix	NN
+
+sonst	ADV
+sonst	ADV
+
+werden	VAFIN
+werden	VAFIN
+
+er	PPER
+er	PPER
+
+geboxt	VVPP
+geboxt	VVPP
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+gut	ADJA
+gut	ADJD
+
+Nacht	NN
+Nacht	NN
+
+.	$.
+.	$.
+
+schon	ADV
+schon	ADV
+
+wieder	ADV
+wieder	ADV
+
+kein	PIAT
+kein	PIAT
+
+Stimme	NN
+Stimme	NN
+
+...	$.
+...	$.
+
+und	KON
+und	KON
+
+verdammen	ADJD
+verdammen	VVFIN
+
+viel	PIAT
+viel	PIAT
+
+Schnee	NN
+Schnee	NN
+
+draußen	ADV
+draußen	ADV
+
+.	$.
+.	$.
+
+mein	PPOSAT
+mein	PPOSAT
+
+Praktikum	NN
+Praktikum	NN
+
+werden	VAFIN
+werden	VAFIN
+
+ja	ADV
+ja	ADV
+
+kompliziert	ADJD
+kompliziert	VVPP
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+Grundy	NE
+Grundy	NE
+
+page	NE
+page	NN
+
+,	$,
+,	$,
+
+Facebook	NE
+Facebook	NE
+
+,	$,
+,	$,
+
+Guy	NE
+Guy	NE
+
+Wochenendverpennen	VVINF
+Wochenendverpennen	NN
+
+-	$(
+-	$(
+
+Kränkelnd	ADJD
+Kränkelnd	ADJD
+
+sein	VAFIN
+sein	VAINF
+
+mein	PPOSAT
+mein	PPOSAT
+
+Partyexperte	NN
+Partyexperte	NN
+
+über	APPR
+über	APPR
+
+der	ART
+der	ART
+
+Wochenende	NN
+Wochenende	NN
+
+mit	APPR
+mit	APPR
+
+sein	PPOSAT
+sein	PPOSAT
+
+Matratze	NN
+Matratze	NN
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+flauschingen	ADJA
+flauschingen	ADJA
+
+D	XYB
+D	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+*	$(
+*	XY
+
+auf	APPR
+auf	APPR
+
+einkaufsliste	NN
+einkaufsliste	NN
+
+setz	COMMENT
+setz	VVIMP
+
+*	$(
+*	XY
+
+oh	ITJ
+oh	ITJ
+
+wie	PWAV
+wie	KOKOM
+
+leggaaaa	ADJD
+leggaaaa	NE
+
+Käse	NN
+Käse	NN
+
+Dip	NN
+Dip	NN
+
+oh	ITJ
+oh	ITJ
+
+,	$,
+,	$,
+
+dieser	PDAT
+dieser	PDAT
+
+Diskussion	NN
+Diskussion	NN
+
+bei	APPR
+bei	APPR
+
+der	ART
+der	ART
+
+grüne	NN
+grüne	ADJA
+
+in	APPR
+in	APPR
+
+Dortmund	NE
+Dortmund	NE
+
+über	APPR
+über	APPR
+
+Lokaljournalismus	NN
+Lokaljournalismus	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+heute	ADV
+heute	ADV
+
+?	$.
+?	$.
+
+hm	PTKREZ
+hm	NN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+melden	VVFIN
+melden	VVINF
+
+:	$.
+:	$.
+
+Dutroux	NE
+Dutroux	ADV
+
+stellen	VVFIN
+stellen	VVFIN
+
+Antraf	NN
+Antraf	NN
+
+auf	APPR
+auf	APPR
+
+Entlassung	NN
+Entlassung	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+Gericht	NN
+Gericht	NN
+
+lassen	VVFIN
+lassen	VVFIN
+
+sich	PRF
+sich	PRF
+
+Zeit	NN
+Zeit	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+berüchtigste	ADJA
+berüchtigste	ADJA
+
+Mörder	NN
+Mörder	NN
+
+Belgien	NE
+Belgien	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+VfB	NE
+VfB	NE
+
+Stuttgart	NE
+Stuttgart	NE
+
+II	NE
+II	NE
+
+:	$.
+:	$.
+
+gegen	APPR
+gegen	APPR
+
+Offenbach	NE
+Offenbach	NE
+
+gleich	ADV
+gleich	ADJD
+
+korrigieren	VVINF
+korrigieren	VVFIN
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+wo	PWAV
+wo	PWAV
+
+bekommen	VVFIN
+bekommen	VVFIN
+
+ich	PPER
+ich	PPER
+
+jetzt	ADV
+jetzt	ADV
+
+ein	ART
+ein	ART
+
+Flash-Kostüm	NN
+Flash-Kostüm	NN
+
+her	PTKVZ
+her	PTKVZ
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+@card@	CARD
+@card@	CARD
+
+@card@	CARD
+@card@	CARD
+
+Uhr	NN
+Uhr	NN
+
+:	$(
+:	$.
+
+Arkells	NE
+Arkells	NE
+
+"	$(
+"	$(
+
+Michigan	NE
+Michigan	NE
+
+Left	NE
+Left	NE
+
+"	$(
+"	$(
+
+user	ADDRESS
+user	ADDRESS
+
+...	$.
+...	$.
+
+Männer	NN
+Männer	NN
+
+immer	ADV
+immer	ADV
+
+nur	ADV
+nur	ADV
+
+an	APPR
+an	APPR
+
+Sex	NN
+Sex	NN
+
+denken	VVINF
+denken	VVINF
+
+)	$(
+)	$(
+
+...	$.
+...	$.
+
+aber	KON
+aber	KON
+
+nur	ADV
+nur	ADV
+
+noch	ADV
+noch	ADV
+
+@card@	CARD
+@card@	CARD
+
+Min.	NN
+Min.	ADV
+
+..	PAUSE
+..	NN
+
+dann	ADV
+dann	ADV
+
+geht_es	VVFIN_ES
+geht_es	VVFIN
+
+wieder	ADV
+wieder	ADV
+
+Stiel	NN
+Stiel	NN
+
+nach	APPR
+nach	APPR
+
+vorn	ADV
+vorn	ADV
+
+und	KON
+und	KON
+
+zurück	ADV
+zurück	ADV
+
+,	$,
+,	$,
+
+nach	APPR
+nach	ADV
+
+vorn	ADV
+vorn	ADV
+
+und	KON
+und	KON
+
+zurück	ADV
+zurück	ADV
+
+...	$.
+...	$.
+
+emoticon	EMO
+emoticon	EMO
+
+"	$(
+"	$(
+
+Allenthalben	ADV
+Allenthalben	ADV
+
+der	ART
+der	PRELS
+
+pur	ADJA
+pur	ADJD
+
+Glück	NN
+Glück	NN
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+url	URL
+url	URL
+
+können	VMFIN
+können	VMFIN
+
+mal	ADV
+mal	ADV
+
+bitte	ADV
+bitte	VVFIN
+
+der	ART
+der	ART
+
+kindle	NE
+kindle	ADJA
+
+Akku	NN
+Akku	NN
+
+schnell	ADJD
+schnell	ADJD
+
+leer	ADJD
+leer	ADJD
+
+gehen	VVINF
+gehen	VVFIN
+
+ich	PPER
+ich	PPER
+
+wollen	VMFIN
+wollen	VMFIN
+
+ihn	PPER
+ihn	PPER
+
+wieder	ADV
+wieder	ADV
+
+aufladen	VVINF
+aufladen	VVINF
+
+...	$.
+...	$.
+
+müssen	VMFIN
+müssen	VMFIN
+
+spät	ADJD
+spät	ADJD
+
+noch	ADV
+noch	ADV
+
+Auto	NN
+Auto	NN
+
+fahren	VVINF
+fahren	VVINF
+
+.	$.
+.	$.
+
+They	FM
+They	ADJA
+
+See	FM
+See	NN
+
+me	FM
+me	ADJA
+
+rollin'	FM
+rollin'	ADJA
+
+,	$,
+,	$,
+
+they	FM
+they	ADJD
+
+dyin'	FM
+dyin'	ADJD
+
+.	$.
+.	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+ich	PPER
+ich	PPER
+
+halten	VVFIN
+halten	VVFIN
+
+es	PPER
+es	PPER
+
+nur	ADV
+nur	ADV
+
+noch	ADV
+noch	ADV
+
+für	APPR
+für	APPR
+
+ein	ART
+ein	ART
+
+Frage	NN
+Frage	NN
+
+der	ART
+der	ART
+
+Zeit	NN
+Zeit	NN
+
+,	$,
+,	$,
+
+bis	KOUS
+bis	KOUS
+
+ich	PPER
+ich	PPER
+
+der	ART
+der	ART
+
+Drang	NN
+Drang	NN
+
+nachgebe	VVFIN
+nachgebe	VVFIN
+
+,	$,
+,	$,
+
+mit	APPR
+mit	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+neu	ADJA
+neu	ADJD
+
+Smartphone	NN
+Smartphone	NN
+
+ein	ART
+ein	ART
+
+Foto	NN
+Foto	NN
+
+in	APPRART
+in	APPR
+
+Spiegel	NN
+Spiegel	NN
+
+zu	PTKZU
+zu	PTKZU
+
+machen	VVINF
+machen	VVINF
+
+.	$.
+.	$.
+
+Essen	VVINF
+Essen	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+auch	ADV
+auch	ADV
+
+mal	ADV
+mal	ADV
+
+ein	ART
+ein	ART
+
+Maßnahme	NN
+Maßnahme	NN
+
+.	$.
+.	$.
+
+wer	PWS
+wer	PWS
+
+haben	VAFIN
+haben	VAFIN
+
+kochen	VVPP
+kochen	VVINF
+
+?	$.
+?	$.
+
+Stadt	NN
+Stadt	NN
+
+erlauben	VVFIN
+erlauben	VVFIN
+
+löwenblaue	ADJA
+löwenblaue	ADJA
+
+Bank	NN
+Bank	NN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+ach	ITJ
+ach	ITJ
+
+dann	ADV
+dann	ADV
+
+passen	VVFIN
+passen	VVFIN
+
+der	PDS
+der	PDS
+
+eh	ADV
+eh	ADV
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+können	VMFIN
+können	VMFIN
+
+ich	PPER
+ich	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+der	ART
+der	ART
+
+Figur	NN
+Figur	NN
+
+von	APPR
+von	APPR
+
+Miley	NE
+Miley	NE
+
+Cyrus	NE
+Cyrus	NE
+
+haben	VAINF
+haben	VAFIN
+
+?	$.
+?	$.
+
+sie	PPER
+sie	PPER
+
+sehen	VVFIN
+sehen	VVFIN
+
+toll	ADJD
+toll	ADJD
+
+aus	PTKVZ
+aus	PTKVZ
+
+!	$.
+!	$.
+
+apo	NE
+apo	NE
+
+Vivace	NE
+Vivace	NN
+
+INKA	NE
+INKA	NE
+
+-	$(
+-	$(
+
+Flexibilität	NN
+Flexibilität	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+Trumpf	NN
+Trumpf	NN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+sein	VAFIN
+sein	PPOSAT
+
+ja	ADV
+ja	ADV
+
+noch	ADV
+noch	ADV
+
+früh	ADJD
+früh	ADJD
+
+an	APPRART
+an	APPR
+
+Tag	NN
+Tag	NN
+
+.	$.
+.	$.
+
+können	VMFIN
+können	VMFIN
+
+ja	ADV
+ja	ADV
+
+noch	ADV
+noch	ADV
+
+werden	VAINF
+werden	VAINF
+
+!	$.
+!	$.
+
+--	XY
+--	$(
+
+Spiegelei	NN
+Spiegelei	NN
+
+auf	APPR
+auf	APPR
+
+gebuttertem	ADJA
+gebuttertem	ADJA
+
+Brötchen	NN
+Brötchen	NN
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+Papa	NN
+Papa	NN
+
+,	$,
+,	$,
+
+kannst_du	VVFIN_DU
+kannst_du	NN
+
+mal	ADV
+mal	ADV
+
+...	PAUSE
+...	$.
+
+?	$.
+?	$.
+
+"	$(
+"	$(
+
+sprechen	VVFIN
+sprechen	VVFIN
+
+der	ART
+der	ART
+
+eigen	ADJA
+eigen	ADJD
+
+Pracht	NN
+Pracht	NN
+
+und	KON
+und	KON
+
+Herrlichkeit	NN
+Herrlichkeit	NN
+
+,	$,
+,	$,
+
+Handtuchumwickelt	ADJD
+Handtuchumwickelt	NN
+
+.	$.
+.	$.
+
+definitiv	ADJA
+definitiv	ADJD
+
+Hardcore	NN
+Hardcore	NN
+
+Eule	NN
+Eule	NN
+
+emoticon	EMO
+emoticon	EMO
+
+(	$(
+(	$(
+
+user	ADDRESS
+user	ADDRESS
+
+url	URL
+url	URL
+
+)	$(
+)	$(
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+man	PIS
+man	PIS
+
+sehen	VVFIN
+sehen	VVFIN
+
+leider	ADV
+leider	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+so	ADV
+so	ADV
+
+gut	ADJD
+gut	ADJD
+
+der	ART
+der	ART
+
+Himmel	NN
+Himmel	NN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Bild	NN
+Bild	NN
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+1	CARD
+1	CARD
+
+hashtag	NN
+hashtag	HASH
+
+aus	APPR
+aus	APPR
+
+@card@	CARD
+@card@	CARD
+
+:	$(
+:	$.
+
+@card@	CARD
+@card@	CARD
+
+qm	NN
+qm	NN
+
+hashtag	NN
+hashtag	HASH
+
+in	APPR
+in	APPR
+
+hashtag	NN
+hashtag	HASH
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+ich	PPER
+ich	PPER
+
+gucken	VVFIN
+gucken	VVFIN
+
+in	APPRART
+in	APPR
+
+Deutsch	NN
+Deutsch	NN
+
+Kurs	NN
+Kurs	NN
+
+wen	PWS
+wen	PWS
+
+werden	VAFIN
+werden	VAFIN
+
+ich	PPER
+ich	PPER
+
+knallen	VVINF
+knallen	VVINF
+
+:	$.
+:	$.
+
+nein	PTKANT
+nein	PTKANT
+
+,	$,
+,	$,
+
+nein	PTKANT
+nein	PTKANT
+
+,	$,
+,	$,
+
+oh	ITJ
+oh	ITJ
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	VAINF
+
+-	ADJD
+-	$(
+
+aber	KON
+aber	KON
+
+der	PDS
+der	PDS
+
+haben	VAFIN
+haben	VAFIN
+
+nur	ADV
+nur	ADV
+
+ein	ART
+ein	ART
+
+Arm	NN
+Arm	NN
+
+emoticon	EMO
+emoticon	EMO
+
+hashtag	HASH
+hashtag	HASH
+
+Arbeitgeber	NN
+Arbeitgeber	NN
+
+attackieren	VVFIN
+attackieren	VVFIN
+
+Rentenkonzepte	NN
+Rentenkonzepte	NN
+
+-	$(
+-	$(
+
+Quelle	NN
+Quelle	NN
+
+:	$(
+:	$.
+
+Handelsblatt	NE
+Handelsblatt	NN
+
+.	$.
+.	$.
+
+Die	ART
+Die	ART
+
+Wirtschaft	NN
+Wirtschaft	NN
+
+gehen	VVFIN
+gehen	VVFIN
+
+auf	APPR
+auf	APPR
+
+Gegenkurs	NN
+Gegenkurs	NN
+
+zu	APPRART
+zu	APPR
+
+Rentenpo	XYB
+Rentenpo	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+Hab	VAFIN
+Hab	NN
+
+aber	ADV
+aber	ADV
+
+leider	ADV
+leider	ADV
+
+kein	PIAT
+kein	PIAT
+
+einzig	ADJA
+einzig	ADJD
+
+Sportsender	NN
+Sportsender	NN
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+einparken	VVINF
+einparken	VVINF
+
+können	VMFIN
+können	VMINF
+
+ich	PPER
+ich	PPER
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+der	PDS
+der	PDS
+
+sprechen	VVFIN
+sprechen	VVFIN
+
+gegen	APPR
+gegen	APPR
+
+blond	ADJD
+blond	ADJD
+
+&	KON
+&	KON
+
+Frau	NN
+Frau	NN
+
+sein	VAINF
+sein	VAINF
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+schöne	ADJA
+schöne	ADJA
+
+gut	ADJA
+gut	ADJD
+
+Morgen	NN
+Morgen	NN
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+aus	NN
+aus	APPR
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Demoszene-Oscar	NN
+Demoszene-Oscar	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+vergangen	ADJA
+vergangen	ADJD
+
+@card@	CARD
+@card@	CARD
+
+Jahr	NN
+Jahr	NN
+
+verliehenen	ADJA
+verliehenen	ADJA
+
+Preis	NN
+Preis	NN
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Best	XYB
+Best	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+in	APPR
+in	APPR
+
+Berlin	NE
+Berlin	NE
+
+fordern	VVFIN
+fordern	VVFIN
+
+der	ART
+der	ART
+
+bildungspolitische	ADJA
+bildungspolitische	ADJA
+
+Sprecherin	NN
+Sprecherin	NN
+
+der	ART
+der	ART
+
+CDU	NE
+CDU	NE
+
+,	$,
+,	$,
+
+hier	ADV
+hier	ADV
+
+wieder	ADV
+wieder	ADV
+
+Lehrer	NN
+Lehrer	NN
+
+zu	PTKZU
+zu	PTKZU
+
+verbeamten	VVINF
+verbeamten	VVINF
+
+.	$.
+.	$.
+
+aus	APPR
+aus	APPR
+
+Wettbewerbsgründen	NN
+Wettbewerbsgründen	NN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+Internet	NN
+Internet	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+Websites	NN
+Websites	NN
+
+und	KON
+und	KON
+
+App	NN
+App	VVFIN
+
+das	ART
+das	ART
+
+Jahr	NN
+Jahr	NN
+
+@card@	CARD
+@card@	CARD
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Flughafen	NN
+Flughafen	NN
+
+erwarten	VVFIN
+erwarten	VVFIN
+
+schwierig	ADJA
+schwierig	ADJD
+
+Zeit	NN
+Zeit	NN
+
+url	URL
+url	URL
+
+Oeffentliche	ADJA
+Oeffentliche	ADJA
+
+Schuld	NN
+Schuld	NN
+
+wie	KOKOM
+wie	KOKOM
+
+nie	ADV
+nie	ADV
+
+-	$(
+-	$(
+
+Deutschland	NE
+Deutschland	NE
+
+tief	ADJD
+tief	ADJD
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Kreide	NN
+Kreide	NN
+
+!	$.
+!	$.
+
+Presseartikel	NN
+Presseartikel	NN
+
+url	URL
+url	URL
+
+-	ADJD
+-	$(
+
+schnell	ADJD
+schnell	ADJD
+
+user	NE
+user	ADDRESS
+
+wieder	ADV
+wieder	ADV
+
+entfolgen	VVFIN
+entfolgen	VVFIN
+
+,	$,
+,	$,
+
+bis	KOUS
+bis	KOUS
+
+mein	PPOSAT
+mein	PPOSAT
+
+Kind	NN
+Kind	NN
+
+erwachsen	VVPP
+erwachsen	VVPP
+
+sein	VAFIN
+sein	VAINF
+
+und	KON
+und	KON
+
+überhaupt	ADV
+überhaupt	ADV
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+weit	PIS
+weit	ADJD
+
+-	$(
+-	$(
+
+Nintendo®tasche	NN
+Nintendo®tasche	NN
+
+Frosch	NN
+Frosch	NN
+
+-	$(
+-	$(
+
+ein	ART
+ein	ART
+
+Designerstück	NN
+Designerstück	NN
+
+von	APPR
+von	APPR
+
+Fadenelemente	NE
+Fadenelemente	NN
+
+bei	APPR
+bei	APPR
+
+DaWanda	NE
+DaWanda	NE
+
+url	URL
+url	URL
+
+DGAP-News	NN
+DGAP-News	NN
+
+:	$.
+:	$.
+
+Nordea-Bank	NN
+Nordea-Bank	NN
+
+beenden	VVFIN
+beenden	VVFIN
+
+der	ART
+der	ART
+
+Geschäftsjahr	NN
+Geschäftsjahr	NN
+
+@card@	CARD
+@card@	CARD
+
+mit	APPR
+mit	APPR
+
+Gewinnwachstum	NN
+Gewinnwachstum	NN
+
+,	$,
+,	$,
+
+stark	ADJA
+stark	ADJD
+
+Kapitalbasis	NN
+Kapitalbasis	NN
+
+und	KON
+und	KON
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Flash	NE
+Flash	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+zwar	ADV
+zwar	ADV
+
+ein	ART
+ein	ART
+
+Arschloch	NN
+Arschloch	NN
+
+,	$,
+,	$,
+
+aber	ADV
+aber	KON
+
+dieser	PDAT
+dieser	PDAT
+
+Hofgut	NN
+Hofgut	NN
+
+faszinieren	VVFIN
+faszinieren	VVFIN
+
+mich	PRF
+mich	PRF
+
+url	URL
+url	URL
+
+(	$(
+(	$(
+
+mit	APPR
+mit	APPR
+
+mobile	NN
+mobile	ADJA
+
+nur	ADV
+nur	ADV
+
+eine	ART
+eine	ART
+
+abgespeckte	ADJA
+abgespeckte	ADJA
+
+Site	NN
+Site	NN
+
+)	$(
+)	$(
+
+emoticon	EMO
+emoticon	EMO
+
+@card@	CARD
+@card@	CARD
+
+%	NN
+%	NN
+
+Übungsscheinpunkte	NN
+Übungsscheinpunkte	NN
+
+emoticon	EMO
+emoticon	EMO
+
+(	$(
+(	$(
+
+@card@	CARD
+@card@	CARD
+
+%	NN
+%	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+Zulassungsvoraussetzung	NN
+Zulassungsvoraussetzung	NN
+
+)	$(
+)	$(
+
+Zuschuss	NN
+Zuschuss	NN
+
+für	APPR
+für	APPR
+
+Baubegleitung	NN
+Baubegleitung	NN
+
+-	$(
+-	$(
+
+Qualitätssicherung	NN
+Qualitätssicherung	NN
+
+bei	APPR
+bei	APPR
+
+energetischer	ADJA
+energetischer	ADJA
+
+Sanierung	NN
+Sanierung	NN
+
+werden	VAFIN
+werden	VAFIN
+
+geför	XYB
+geför	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+"	$(
+"	$(
+
+Manager	NN
+Manager	NN
+
+Magazin	NN
+Magazin	NN
+
+"	$(
+"	$(
+
+:	$.
+:	$.
+
+G	NE
+G	NN
+
++	KON
++	KON
+
+J	NE
+J	NN
+
+verhandeln	VVFIN
+verhandeln	VVFIN
+
+mit	APPR
+mit	APPR
+
+"	$(
+"	$(
+
+Huffington	NE
+Huffington	NN
+
+Post	NE
+Post	NN
+
+"	$(
+"	$(
+
+-	$(
+-	$(
+
+Vertretern	NN
+Vertretern	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+was	PWS
+was	PWS
+
+verstehen	VVFIN
+verstehen	VVFIN
+
+man	PIS
+man	PIS
+
+unter	APPR
+unter	APPR
+
+ein	ART
+ein	ART
+
+hashtag	NN
+hashtag	HASH
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+können	VMFIN
+können	VMFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+oft	ADV
+oft	ADV
+
+genug	ADV
+genug	ADV
+
+rumgereicht	VVPP
+rumgereicht	VVPP
+
+werden	VAINF
+werden	VAINF
+
+:	$.
+:	$.
+
+user	NE
+user	ADDRESS
+
+über	APPR
+über	APPR
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+Stalker	NN
+Stalker	NN
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+(	$(
+(	$(
+
+cont	FM
+cont	ADJA
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+wollen	VMFIN
+wollen	VMFIN
+
+ja	ADV
+ja	ADV
+
+immer	ADV
+immer	ADV
+
+schon	ADV
+schon	ADV
+
+mit	APPR
+mit	APPR
+
+Anne	NE
+Anne	NE
+
+wollen	NE
+wollen	VMFIN
+
+einen	ART
+einen	ART
+
+Bierchen	NN
+Bierchen	NN
+
+trinken	VVINF
+trinken	VVINF
+
+.	$.
+.	$.
+
+bei	APPR
+bei	APPR
+
+"	$(
+"	$(
+
+Zoom	NN
+Zoom	NN
+
+-	$(
+-	$(
+
+der	ART
+der	ART
+
+Mediencafé	NN
+Mediencafé	NN
+
+"	$(
+"	$(
+
+können	VMFIN
+können	VMFIN
+
+ich	PPER
+ich	PPER
+
+zumindest	ADV
+zumindest	ADV
+
+zuschauen	VVINF
+zuschauen	VVINF
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+Kaffee	NN
+Kaffee	NN
+
+Zeit	NN
+Zeit	NN
+
+-	$(
+-	$(
+
+dieser	PDAT
+dieser	PDAT
+
+Mal	NN
+Mal	NN
+
+nach	APPR
+nach	APPR
+
+French	NN
+French	NN
+
+Press	NN
+Press	NN
+
+Anleitung	NN
+Anleitung	NN
+
+von	APPR
+von	APPR
+
+user	NE
+user	ADDRESS
+
+-	$(
+-	$(
+
+sein	VAFIN
+sein	VAINF
+
+gespannt	ADJD
+gespannt	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+url	URL
+url	URL
+
+Oracle	NE
+Oracle	NE
+
+übernehmen	VVFIN
+übernehmen	VVFIN
+
+Netzwerkspezialisten	NN
+Netzwerkspezialisten	NN
+
+Acme	NE
+Acme	VVFIN
+
+:	$.
+:	$.
+
+für	APPR
+für	APPR
+
+@card@	CARD
+@card@	CARD
+
+Milliarde	NN
+Milliarde	NN
+
+US-Dollar	NN
+US-Dollar	NN
+
+url	URL
+url	URL
+
+@_Flakusan_	ADDRESS
+@_Flakusan_	ADJA
+
+Ihh	ITJ
+Ihh	NN
+
+,	$,
+,	$,
+
+Wasser	NN
+Wasser	NN
+
+.	$.
+.	$.
+
+dann	ADV
+dann	ADV
+
+doch	ADV
+doch	ADV
+
+lieber	ADJD
+lieber	ADJD
+
+tot	ADJA
+tot	ADJD
+
+Pixel	NN
+Pixel	NN
+
+.	$.
+.	$.
+
+Do	FM
+Do	NE
+
+You	FM
+You	NE
+
+speak	FM
+speak	NN
+
+English	FM
+English	NE
+
+?	$.
+?	$.
+
+:	$.
+:	$.
+
+Konstantin	NE
+Konstantin	NE
+
+Dshajani	NE
+Dshajani	NE
+
+,	$,
+,	$,
+
+Gründer	NN
+Gründer	NN
+
+der	ART
+der	ART
+
+Sprachschule	NN
+Sprachschule	NN
+
+Meridian	NE
+Meridian	NN
+
+url	URL
+url	URL
+
+in	APPR
+in	APPR
+
+@card@	CARD
+@card@	CARD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+ich	PPER
+ich	PPER
+
+geben	VVFIN
+geben	VVFIN
+
+auf	PTKVZ
+auf	PTKVZ
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+Spiel	NN
+Spiel	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+eh	ADV
+eh	ADV
+
+durch	PTKVZ
+durch	PTKVZ
+
+,	$,
+,	$,
+
+und	KON
+und	KON
+
+wer	PWS
+wer	PWS
+
+wissen	VVFIN
+wissen	VVFIN
+
+,	$,
+,	$,
+
+wie	PWAV
+wie	KOUS
+
+lange	ADJD
+lange	ADV
+
+der	PDS
+der	ART
+
+noch	ADV
+noch	ADV
+
+brauchen	VVFIN
+brauchen	VVINF
+
+.	$.
+.	$.
+
+N8	NE
+N8	NE
+
+.	$.
+.	$.
+
+nein	PTKANT
+nein	PTKANT
+
+,	$,
+,	$,
+
+mal	ADV
+mal	ADV
+
+ernsthaft	ADJD
+ernsthaft	ADJD
+
+.	$.
+.	$.
+
+was	PWS
+was	PWS
+
+wohl	ADV
+wohl	ADV
+
+ein	ART
+ein	ART
+
+Otto-Normal-Wähler	NN
+Otto-Normal-Wähler	NN
+
+von	APPR
+von	APPR
+
+ein	ART
+ein	ART
+
+LT-Kandidaten	NN
+LT-Kandidaten	NN
+
+wissen	VVINF
+wissen	VVINF
+
+wollen	VMFIN
+wollen	VMFIN
+
+?	$.
+?	$.
+
+interessiert	VVFIN
+interessiert	ADJD
+
+er/sie	PPER
+er/sie	VVFIN
+
+sich	PRF
+sich	PRF
+
+überhaupt	ADV
+überhaupt	ADV
+
+für	APPR
+für	APPR
+
+Politik	NN
+Politik	NN
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+wir	PPER
+wir	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+abgemacht	VVPP
+abgemacht	VVPP
+
+,	$,
+,	$,
+
+der	ART
+der	PRELS
+
+4	CARD
+4	CARD
+
+Million	NN
+Million	NN
+
+gibt_es	VVFIN_ES
+gibt_es	VVFIN
+
+vorab	ADV
+vorab	PTKVZ
+
+?	$.
+?	$.
+
+ich	PPER
+ich	PPER
+
+Such	VVFIN
+Such	VVIMP
+
+der	PDS
+der	ART
+
+nochmal	ADV
+nochmal	ADV
+
+raus	PTKVZ
+raus	ADV
+
+.	$.
+.	$.
+
+Daimler	NE
+Daimler	NE
+
+:	$.
+:	$.
+
+springen	VVFIN
+springen	VVFIN
+
+der	ART
+der	ART
+
+Aktie	NN
+Aktie	NN
+
+wieder	ADV
+wieder	ADV
+
+an	PTKVZ
+an	PTKVZ
+
+?	$.
+?	$.
+
+:	$.
+:	$.
+
+von	APPR
+von	APPR
+
+Sven	NE
+Sven	NE
+
+Parplies	NE
+Parplies	NE
+
+,	$,
+,	$,
+
+Euro	NN
+Euro	NN
+
+an	APPRART
+an	APPR
+
+Sonntag	NN
+Sonntag	NN
+
+Daimler-Aktionäre	NN
+Daimler-Aktionäre	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+zu	PTKZU
+zu	APPR
+
+benei	XYB
+benei	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Eintrag	NN
+Eintrag	NN
+
+schönen	VVPP
+schönen	ADJA
+
+:	$.
+:	$.
+
+Stadt	NN
+Stadt	NN
+
+bestätigen	VVFIN
+bestätigen	VVFIN
+
+Wikipedia-Auftrag	NN
+Wikipedia-Auftrag	NN
+
+|	$(
+|	XY
+
+Köln	NE
+Köln	NE
+
+-	$(
+-	$(
+
+Kölner	ADJA
+Kölner	ADJA
+
+Stadt-Anzeiger	NN
+Stadt-Anzeiger	NN
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+retweet	NN
+retweet	ADJD
+
+user	ADDRESS
+user	ADDRESS
+
+hier	ADV
+hier	ADV
+
+hashtag	NN
+hashtag	HASH
+
+:	$.
+:	$.
+
+wer	PWS
+wer	PWS
+
+von	APPR
+von	APPR
+
+euch	PPER
+euch	PPER
+
+oder	KON
+oder	KON
+
+dein	PPOSAT
+dein	PPOSAT
+
+bekannte	NN
+bekannte	ADJA
+
+sein	VAFIN
+sein	PPOSAT
+
+fit	ADJD
+fit	ADJD
+
+in	APPR
+in	APPR
+
+App-Programmierung	NN
+App-Programmierung	NN
+
+(	$(
+(	$(
+
+iOS/Android	NE
+iOS/Android	NE
+
+)	$(
+)	$(
+
+?	$.
+?	$.
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+@card@	CARD
+@card@	CARD
+
+in	APPR
+in	APPR
+
+Leverkusen	NE
+Leverkusen	NE
+
+Dortmund	NE
+Dortmund	NE
+
+gewinnen	VVFIN
+gewinnen	VVFIN
+
+mitreißendes	ADJA
+mitreißendes	ADJA
+
+Verfolgerduell	NN
+Verfolgerduell	NN
+
+:	$.
+:	$.
+
+in	APPR
+in	APPR
+
+ein	ART
+ein	ART
+
+packend	ADJA
+packend	ADJD
+
+Partie	NN
+Partie	NN
+
+erreichen	VVFIN
+erreichen	VVFIN
+
+Borussia	NE
+Borussia	NE
+
+Dor	XYB
+Dor	VVFIN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Ohrwurm	NN
+Ohrwurm	NN
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Rest	NN
+Rest	NN
+
+das	ART
+das	ART
+
+Tag	NN
+Tag	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Blaulicht	NN
+Blaulicht	NN
+
+missbräuchlich	ADJD
+missbräuchlich	ADJD
+
+einsetzen	VVPP
+einsetzen	VVINF
+
+:	$.
+:	$.
+
+WALDKIRCHEN	NE
+WALDKIRCHEN	NE
+
+.	$.
+.	$.
+
+LKR	NE
+LKR	NN
+
+.	$.
+.	$.
+
+FREYUNG-GRAFENAU	NE
+FREYUNG-GRAFENAU	NE
+
+.	$.
+.	$.
+
+jung	ADJA
+jung	ADJD
+
+Fahrer	NN
+Fahrer	NN
+
+werden	VAFIN
+werden	VAFIN
+
+überholen	VVPP
+überholen	VVINF
+
+und	KON
+und	KON
+
+fühlen	VVFIN
+fühlen	VVFIN
+
+s	XYB
+s	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+omas	NN
+omas	ADJA
+
+aktfilme	NN
+aktfilme	NN
+
+|	$(
+|	XY
+
+wirklich	ADJD
+wirklich	ADJD
+
+scharf	ADJD
+scharf	ADJD
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+"	$(
+"	$(
+
+Galileo	NE
+Galileo	NE
+
+"	$(
+"	$(
+
+starten	VVFIN
+starten	VVFIN
+
+Online-Angebot	NN
+Online-Angebot	NN
+
+für	APPR
+für	APPR
+
+Kind	NN
+Kind	NN
+
+url	URL
+url	URL
+
+HSV	NE
+HSV	NE
+
+-	$(
+-	$(
+
+Austria	NE
+Austria	NE
+
+Wien	NE
+Wien	NE
+
+(	$(
+(	$(
+
+@card@	CARD
+@card@	CARD
+
+-	$(
+-	$(
+
+Heung	NE
+Heung	NE
+
+Min.	NE
+Min.	NN
+
+Son	NE
+Son	NE
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+gut	ADJA
+gut	ADJD
+
+Morgen	NN
+Morgen	ADV
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+hashtag	HASH
+hashtag	HASH
+
+:	$.
+:	$.
+
+FRZ.	ADJD
+FRZ.	ADJA
+
+Journalist	NN
+Journalist	NN
+
+zu	APPR
+zu	APPR
+
+7	CARD
+7	CARD
+
+Jahr	NN
+Jahr	NN
+
+Haft	NN
+Haft	NN
+
+verurteilen	VVPP
+verurteilen	VVINF
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+über	APPR
+über	APPR
+
+Menschenhandel	NN
+Menschenhandel	NN
+
+u.	KON
+u.	APPR
+
+Prostitution	NN
+Prostitution	NN
+
+berichten	VVPP
+berichten	VVINF
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+&	KON
+&	KON
+
+'	$(
+'	$(
+
+auf	APPR
+auf	APPR
+
+was	PWS
+was	PIS
+
+Chillt	VVFIN
+Chillt	VVFIN
+
+ihr	PPER
+ihr	PPER
+
+so	ADV
+so	ADV
+
+beim	APPRART
+beim	APPRART
+
+heizen	NN
+heizen	VVINF
+
+?	$.
+?	$.
+
+emoticon	EMO
+emoticon	EMO
+
+-	$(
+-	$(
+
+Maik	NE
+Maik	NE
+
+url	URL
+url	URL
+
+von	APPR
+von	APPR
+
+mein	PPOSAT
+mein	PPOSAT
+
+Follower	NN
+Follower	NN
+
+können	VMFIN
+können	VMFIN
+
+Minute	ADV
+Minute	NN
+
+@card@	CARD
+@card@	CARD
+
+n	ART
+n	ADJA
+
+brauchbares	ADJA
+brauchbares	ADJA
+
+,	$,
+,	$,
+
+nicht-zu-peinliches	ADJA
+nicht-zu-peinliches	ADJA
+
+,	$,
+,	$,
+
+Peer-Werbeblog	NN
+Peer-Werbeblog	NE
+
+für	APPR
+für	APPR
+
+einen	ART
+einen	ART
+
+Bruchteil	NN
+Bruchteil	NN
+
+das	ART
+das	PDS
+
+kolportiert	ADJA
+kolportiert	VVFIN
+
+Geld	NN
+Geld	NN
+
+machen	VVINF
+machen	VVINF
+
+Ruhrtalbrücke	NN
+Ruhrtalbrücke	NN
+
+:	$.
+:	$.
+
+Essener	ADJA
+Essener	NN
+
+OB	NN
+OB	NE
+
+fordern	VVFIN
+fordern	VVFIN
+
+früh	ADJA
+früh	ADJD
+
+Beginn	NN
+Beginn	NN
+
+der	ART
+der	ART
+
+A52-Sperrung	NN
+A52-Sperrung	NN
+
+:	$.
+:	$.
+
+vor	APPR
+vor	APPR
+
+der	ART
+der	ART
+
+geplant	ADJA
+geplant	ADJD
+
+dreimonatig	ADJA
+dreimonatig	ADJD
+
+Sperr	XYB
+Sperr	VVIMP
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+Kulturstiftung	NN
+Kulturstiftung	NN
+
+Sachsen	NE
+Sachsen	NE
+
+,	$,
+,	$,
+
+Antragsschluss	NN
+Antragsschluss	NN
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Projektförderung	NN
+Projektförderung	NN
+
+:	$.
+:	$.
+
+@card@	CARD
+@card@	CARD
+
+(	$(
+(	$(
+
+u.	APPR
+u.	APPR
+
+a.	PIS
+a.	ADJA
+
+Sparte	NN
+Sparte	NN
+
+Film	NN
+Film	NN
+
+,	$,
+,	$,
+
+für	APPR
+für	APPR
+
+Vorhaben	NN
+Vorhaben	NN
+
+2.	ADJA
+2.	ADJA
+
+Halbjahr	NN
+Halbjahr	NN
+
+@card@	CARD
+@card@	CARD
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+Schokolade	NN
+Schokolade	NN
+
+machen	VVFIN
+machen	VVFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+glücklich	ADJD
+glücklich	ADJD
+
+,	$,
+,	$,
+
+nur	ADV
+nur	ADV
+
+Dick	ADJD
+Dick	NE
+
+emoticon	EMO
+emoticon	EMO
+
+Lokale	ADJA
+Lokale	ADJA
+
+Blog	NN
+Blog	NN
+
+,	$,
+,	$,
+
+mal	ADV
+mal	ADV
+
+sehen	VVINF
+sehen	VVFIN
+
+wie	PWAV
+wie	KOKOM
+
+viel	PIS
+viel	PIS
+
+der	PDS
+der	ART
+
+liefern	VVINF
+liefern	VVINF
+
+können	VMINF
+können	VMINF
+
+und	KON
+und	KON
+
+wie	PWAV
+wie	KOUS
+
+lange	ADV
+lange	ADV
+
+der	ART
+der	PDS
+
+durchhalten	VVINF
+durchhalten	VVINF
+
+-	$(
+-	$(
+
+Markus	NE
+Markus	NE
+
+schwarz	NE
+schwarz	ADJD
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+ganz	ADV
+ganz	ADV
+
+viel	PIAT
+viel	PIAT
+
+lieben	NN
+lieben	ADJA
+
+emoticon	EMO
+emoticon	EMO
+
+Kleinanzeige	NN
+Kleinanzeige	NN
+
+:	$.
+:	$.
+
+drei	CARD
+drei	CARD
+
+selbst	ADV
+selbst	ADV
+
+handgeknüpfte	ADJA
+handgeknüpfte	ADJA
+
+Teppich	NN
+Teppich	NN
+
+/	$(
+/	$(
+
+Läufer	NN
+Läufer	NN
+
+,	$,
+,	$,
+
+wissen	ADJD
+wissen	VVINF
+
+,	$,
+,	$,
+
+Natur	ADJD
+Natur	NN
+
+in	APPR
+in	APPR
+
+Hamburg	NE
+Hamburg	NE
+
+:	$.
+:	$.
+
+aus	APPR
+aus	APPR
+
+Hau	XYB
+Hau	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Kaufen	VVINF
+Kaufen	NN
+
+über	APPR
+über	APPR
+
+url	NE
+url	URL
+
+Karl	NE
+Karl	NE
+
+Heinz	NE
+Heinz	NE
+
+Förster	NE
+Förster	NN
+
+auch	ADV
+auch	ADV
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+PK	NN
+PK	NN
+
+als	APPR
+als	KOKOM
+
+Frankreich	NE
+Frankreich	NE
+
+Legionär	NN
+Legionär	NN
+
+Experte	NN
+Experte	NN
+
+user	ADDRESS
+user	ADDRESS
+
+@card@	CARD
+@card@	CARD
+
+Prognose	NN
+Prognose	NN
+
+zu	APPRART
+zu	APPR
+
+Design-Jahr	NN
+Design-Jahr	NN
+
+@card@	CARD
+@card@	CARD
+
+(	$(
+(	$(
+
+Teil	NN
+Teil	NN
+
+@card@	CARD
+@card@	CARD
+
+)	$(
+)	$(
+
+-	$(
+-	$(
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+.	$.
+.	$.
+
+info	NN
+info	NN
+
+vierhebiger	ADJA
+vierhebiger	ADJA
+
+trochäus	NN
+trochäus	NN
+
+mit	APPR
+mit	APPR
+
+paarreimen	NN
+paarreimen	ADJA
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+für	APPR
+für	APPR
+
+Deutschland	NE
+Deutschland	NE
+
+haben	VAFIN
+haben	VAFIN
+
+du	PPER
+du	PPER
+
+damit	PROAV
+damit	PAV
+
+sicher	ADJD
+sicher	ADJD
+
+recht	NN
+recht	ADJD
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+der	ART
+der	ART
+
+Jailbreak	NN
+Jailbreak	NN
+
+sollen	VMFIN
+sollen	VMFIN
+
+in	APPR
+in	APPR
+
+@card@	CARD
+@card@	CARD
+
+Minute	NN
+Minute	NN
+
+veröffentlichen	VVPP
+veröffentlichen	VVINF
+
+werden	VAINF
+werden	VAFIN
+
+D:	EMO
+D:	NN
+
+*	$(
+*	XY
+
+iPhone	NN
+iPhone	NN
+
+bereit	ADJD
+bereit	PTKVZ
+
+mach	COMMENT
+mach	VVIMP
+
+*	$(
+*	XY
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+Problem	NN
+Problem	NN
+
+haben	VAFIN
+haben	VAFIN
+
+so	ADV
+so	ADV
+
+viele	PIS
+viele	PIS
+
+.	$.
+.	$.
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+so	ADV
+so	ADV
+
+schwer	ADJD
+schwer	ADJD
+
+aussprechen	VVIZU
+aussprechen	VVINF
+
+,	$,
+,	$,
+
+was	PWS
+was	PRELS
+
+geschehen	VVPP
+geschehen	VVPP
+
+sein	VAFIN
+sein	VAINF
+
+,	$,
+,	$,
+
+und	KON
+und	KON
+
+dann	ADV
+dann	ADV
+
+glauben	VVFIN
+glauben	VVFIN
+
+es	PPER
+es	PPER
+
+keiner	PIS
+keiner	PIS
+
+.	$.
+.	$.
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+aber	ADV
+aber	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+Mist	NN
+Mist	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+Sneak	NN
+Sneak	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+ab	APPR
+ab	APPR
+
+inflecitve	ADV
+inflecitve	NE
+
+anscheinend	ADJD
+anscheinend	ADJD
+
+reservierbar	ADJD
+reservierbar	ADJD
+
+.	$.
+.	$.
+
+aktuell	ADJA
+aktuell	ADJD
+
+Anmeldung	NN
+Anmeldung	NN
+
+:	$.
+:	$.
+
+5	CARD
+5	CARD
+
+Frankfurt	NE
+Frankfurt	NE
+
+Verkehr	NN
+Verkehr	NN
+
+-	$(
+-	$(
+
+Krater	NN
+Krater	NN
+
+auf	APPR
+auf	APPR
+
+Frankfurt	NE
+Frankfurt	NE
+
+Straße	NN
+Straße	NN
+
+:	$.
+:	$.
+
+noch	ADV
+noch	ADV
+
+bestehen	VVFIN
+bestehen	VVFIN
+
+Frostgefahr	NN
+Frostgefahr	NN
+
+-	$(
+-	$(
+
+der	ART
+der	ART
+
+Frankfurter	NN
+Frankfurter	NN
+
+kennen	VVFIN
+kennen	VVFIN
+
+Ja	ADV
+Ja	ADV
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+no	XYB
+no	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+The	NE
+The	FM
+
+Offspring	NE
+Offspring	NN
+
+in	APPRART
+in	APPR
+
+Radio	NN
+Radio	NN
+
+!	$.
+!	$.
+
+erstmal	ADV
+erstmal	ADV
+
+laut	ADJD
+laut	ADJD
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+jetzt	ADV
+jetzt	ADV
+
+gehen	VVFIN
+gehen	VVFIN
+
+es	PPER
+es	PPER
+
+aber	ADV
+aber	ADV
+
+los	PTKVZ
+los	ADJD
+
+!	$.
+!	$.
+
+Respekt	NN
+Respekt	NN
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+können	VMFIN
+können	VMFIN
+
+mir	PPER
+mir	PPER
+
+mal	ADV
+mal	ADV
+
+an	APPRART
+an	APPR
+
+Arsch	NN
+Arsch	NN
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+mal	ADV
+mal	ADV
+
+eine	ART
+eine	ART
+
+Woche	NN
+Woche	NN
+
+,	$,
+,	$,
+
+mal	ADV
+mal	ADV
+
+paar	PIAT
+paar	PIAT
+
+Tag	NN
+Tag	NN
+
+.	$.
+.	$.
+
+zuletzt	ADV
+zuletzt	ADV
+
+@card@	CARD
+@card@	CARD
+
+für	APPR
+für	APPR
+
+3	CARD
+3	CARD
+
+Tag	NN
+Tag	NN
+
+in	APPRART
+in	APPR
+
+Oktober	NN
+Oktober	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+können	VMFIN
+können	VMFIN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Tag	NN
+Tag	NN
+
+ziemlich	ADV
+ziemlich	ADV
+
+gut	ADJD
+gut	ADJD
+
+damit	PROAV
+damit	PAV
+
+füllen	VVINF
+füllen	VVINF
+
+-	$(
+-	$(
+
+sein	VAFIN
+sein	PPOSAT
+
+da	ADV
+da	ADV
+
+dieser	PDAT
+dieser	PDAT
+
+Arbeit	NN
+Arbeit	NN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+emoticon	EMO
+emoticon	EMO
+
+ich	PPER
+ich	PPER
+
+hoffen	VVFIN
+hoffen	VVFIN
+
+,	$,
+,	$,
+
+es	PPER
+es	PPER
+
+geben	VVFIN
+geben	VVFIN
+
+vor	APPR
+vor	APPR
+
+der	ART
+der	ART
+
+BTW	NN
+BTW	NN
+
+noch	ADV
+noch	ADV
+
+eine	ART
+eine	ART
+
+Epidemie	NN
+Epidemie	NN
+
+[	$(
+[	$(
+
+not	FM
+not	PTKVZ
+
+!	$.
+!	$.
+
+]	$(
+]	$(
+
+.	$.
+.	$.
+
+dann	ADV
+dann	ADV
+
+sehen	VVFIN
+sehen	VVFIN
+
+man	PIS
+man	PIS
+
+endlich	ADV
+endlich	ADV
+
+der	ART
+der	ART
+
+Daniel	NE
+Daniel	NE
+
+Bahr	NE
+Bahr	NE
+
+wieder	ADV
+wieder	ADV
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Talkshows	NN
+Talkshows	NN
+
+*	$(
+*	XY
+
+chch	PTKONO
+chch	ADJA
+
+*	$(
+*	XY
+
+user	ADDRESS
+user	ADDRESS
+
+in	APPRART
+in	APPR
+
+Intro	NN
+Intro	NE
+
+von	APPR
+von	APPR
+
+Farid	NE
+Farid	NE
+
+sein	VAFIN
+sein	VAINF
+
+der	PDS
+der	PRELS
+
+schon	ADV
+schon	ADV
+
+Legende	NN
+Legende	NN
+
+The	NE
+The	FM
+
+Big	NE
+Big	ADJD
+
+Bang	NE
+Bang	VVIMP
+
+Theory	NE
+Theory	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Lieblinge	NN
+Lieblinge	NN
+
+emoticon	EMO
+emoticon	EMO
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+es	PPER
+es	PPER
+
+geben	VVFIN
+geben	VVFIN
+
+leider	ADV
+leider	ADV
+
+kein	PIAT
+kein	PIAT
+
+Livestream	NN
+Livestream	NN
+
+.	$.
+.	$.
+
+sein	VAFIN
+sein	VAINF
+
+schlafen	VVINF
+schlafen	VVFIN
+
+leutz	NN
+leutz	ADJD
+
+,	$,
+,	$,
+
+schlaft	VVFIN
+schlaft	VVFIN
+
+alle	PIS
+alle	PIS
+
+gut	ADJD
+gut	ADJD
+
+und	KON
+und	KON
+
+träuim	VVFIN
+träuim	NE
+
+schön	ADJD
+schön	ADJD
+
+Morgen	ADV
+Morgen	NN
+
+&	KON
+&	KON
+
+Freitag	NN
+Freitag	NN
+
+=	XY
+=	$(
+
+Scheiße	ADJD
+Scheiße	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+sie	PPER
+sie	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+Post	NN
+Post	NN
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+echt	ADJD
+echt	ADJD
+
+hart	ADJD
+hart	ADJD
+
+.	$.
+.	$.
+
+Sach	VVIMP
+Sach	ADJD
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+du	PPER
+du	PPER
+
+sein	VAFIN
+sein	VAINF
+
+an	APPRART
+an	APZR
+
+lernen	NN
+lernen	VVINF
+
+?	$.
+?	$.
+
+user	ADDRESS
+user	ADDRESS
+
+sehen	VVFIN
+sehen	VVFIN
+
+gut	ADJD
+gut	ADJD
+
+aus	PTKVZ
+aus	PTKVZ
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+oder	KON
+oder	KON
+
+wir	PPER
+wir	PPER
+
+treffen	VVFIN
+treffen	VVFIN
+
+uns	PPER
+uns	PPER
+
+mal	ADV
+mal	ADV
+
+bei	APPR
+bei	APPR
+
+Skype	NE
+Skype	NN
+
+2	CARD
+2	CARD
+
+Minute	NN
+Minute	NN
+
+Ball	NN
+Ball	NN
+
+das	ART
+das	ART
+
+Sports	NN
+Sports	NN
+
+-	$(
+-	$(
+
+2	CARD
+2	CARD
+
+Minute	NN
+Minute	NN
+
+der	ART
+der	ART
+
+Sport	NN
+Sport	NN
+
+feiern	VVFIN
+feiern	VVFIN
+
+sich	PRF
+sich	PRF
+
+&	KON
+&	KON
+
+werden	VAFIN
+werden	VAFIN
+
+feiern	VVPP
+feiern	VVINF
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+Herz	NN
+Herz	NN
+
+und	KON
+und	KON
+
+Leistungssport	NN
+Leistungssport	NN
+
+:	$.
+:	$.
+
+Nutzen	NN
+Nutzen	NN
+
+oder	KON
+oder	KON
+
+Schaden	NN
+Schaden	NN
+
+?	$.
+?	$.
+
+Jürgen	NE
+Jürgen	NE
+
+Scharhag	NE
+Scharhag	NN
+
+,	$,
+,	$,
+
+Herbert	NE
+Herbert	NE
+
+Löllgen	NE
+Löllgen	NE
+
+,	$,
+,	$,
+
+Wilfried	NE
+Wilfried	NE
+
+Kindermann	NE
+Kindermann	NE
+
+in	APPRART
+in	APPR
+
+deutsch	ADJA
+deutsch	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+wer	PWS
+wer	PWS
+
+brauchen	VVFIN
+brauchen	VVFIN
+
+schon	ADV
+schon	ADV
+
+noch	ADV
+noch	ADV
+
+Markler	NE
+Markler	NN
+
+?	$.
+?	$.
+
+Unützes	ADJA
+Unützes	NN
+
+packen	NN
+packen	VVINF
+
+!	$.
+!	$.
+
+der	ART
+der	ART
+
+Morgen	NN
+Morgen	NN
+
+fangen	VVFIN
+fangen	VVFIN
+
+gut	ADJD
+gut	ADJD
+
+an	PTKVZ
+an	PTKVZ
+
+,	$,
+,	$,
+
+Bus	NN
+Bus	NN
+
+verpassen	VVPP
+verpassen	VVINF
+
+...	$.
+...	$.
+
+hashtag	HASH
+hashtag	HASH
+
+der	ART
+der	ART
+
+Marketing-Potenziale	NN
+Marketing-Potenziale	NN
+
+von	APPR
+von	APPR
+
+bedruckten	ADJA
+bedruckten	ADJA
+
+Werbemitteln	NN
+Werbemitteln	NN
+
+url	URL
+url	URL
+
+@acidfreak80	ADDRESS
+@acidfreak80	ADJA
+
+Hausmeisterkosten	NN
+Hausmeisterkosten	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+bei	APPR
+bei	APPR
+
+mir	PPER
+mir	PPER
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Nebenkosten	NN
+Nebenkosten	NN
+
+der	ART
+der	ART
+
+Miete	NN
+Miete	NN
+
+enthalten	VVPP
+enthalten	VVPP
+
+.	$.
+.	$.
+
+-	PDS
+-	$(
+
+haben	VAFIN
+haben	VAFIN
+
+ich	PPER
+ich	PPER
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+gesondert	ADJD
+gesondert	VVPP
+
+.	$.
+.	$.
+
+Kinoprogrammpreise	NN
+Kinoprogrammpreise	NN
+
+Mitteldeutschland	NN
+Mitteldeutschland	NE
+
+@card@	CARD
+@card@	CARD
+
+-	$(
+-	$(
+
+Sachsen	NE
+Sachsen	NE
+
+,	$,
+,	$,
+
+Sachsen-Anhalt	NE
+Sachsen-Anhalt	NE
+
+&	KON
+&	KON
+
+Thüringen	NE
+Thüringen	NE
+
+(	$(
+(	$(
+
+Einreichungen	NN
+Einreichungen	NN
+
+bis	APPR
+bis	APPR
+
+@card@	ADJA
+@card@	CARD
+
+Februar	NN
+Februar	NN
+
+@card@	CARD
+@card@	CARD
+
+)	$(
+)	$(
+
+url	URL
+url	URL
+
+url	URL
+url	URL
+
+erneuerbar	ADJA
+erneuerbar	NN
+
+Energie	NN
+Energie	NN
+
+:	$.
+:	$.
+
+Rösler	NE
+Rösler	NE
+
+stellen	VVFIN
+stellen	VVFIN
+
+sich	PRF
+sich	PRF
+
+gegen	APPR
+gegen	APPR
+
+Altmaiers	NE
+Altmaiers	NN
+
+Vorstoß	NN
+Vorstoß	NN
+
+zu	APPRART
+zu	APPR
+
+Ökostr	NN
+Ökostr	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+...	$.
+...	$.
+
+gut	ADJA
+gut	ADJD
+
+Artikel	NN
+Artikel	NN
+
+user	ADDRESS
+user	ADDRESS
+
+nein	PTKANT
+nein	PTKANT
+
+,	$,
+,	$,
+
+März	NN
+März	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+richtig	ADJD
+richtig	ADJD
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+schön	ADJD
+schön	ADJD
+
+wenn	KOUS
+wenn	KOUS
+
+es	PPER
+es	PPER
+
+dich	PPER
+dich	PPER
+
+freuen	VVFIN
+freuen	VVINF
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+Hab	VAFIN
+Hab	NN
+
+mich	PRF
+mich	PRF
+
+auch	ADV
+auch	ADV
+
+verlesen	VVPP
+verlesen	VVINF
+
+und	KON
+und	KON
+
+es	PPER
+es	PPER
+
+dank	APPR
+dank	APPR
+
+dir	PPER
+dir	PRF
+
+bemerken	VVPP
+bemerken	VVINF
+
+.	$.
+.	$.
+
+auch	ADV
+auch	ADV
+
+darauf	PROAV
+darauf	PAV
+
+ein	ART
+ein	ART
+
+Rose	NN
+Rose	NN
+
+.	$.
+.	$.
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+dass	KOUS
+dass	KOUS
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+in	APPR
+in	APPR
+
+hashtag	NE
+hashtag	HASH
+
+gegen	APPR
+gegen	APPR
+
+der	ART
+der	ART
+
+hashtag	NN
+hashtag	HASH
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Straße	NN
+Straße	NN
+
+gehen	VVFIN
+gehen	VVINF
+
+,	$,
+,	$,
+
+wirken	VVFIN
+wirken	VVFIN
+
+kurios	ADJD
+kurios	ADJD
+
+,	$,
+,	$,
+
+sein	VAFIN
+sein	PPOSAT
+
+aber	ADV
+aber	ADV
+
+aus	APPR
+aus	APPR
+
+Marketingsicht	NN
+Marketingsicht	NN
+
+plausibel	ADJD
+plausibel	ADJD
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+und	KON
+und	KON
+
+werden	VAFIN
+werden	VAFIN
+
+ständig	ADJD
+ständig	ADJD
+
+und	KON
+und	KON
+
+flott	ADJD
+flott	ADJD
+
+weiterentwickeln	VVPP
+weiterentwickeln	VVINF
+
+,	$,
+,	$,
+
+Daumen	NN
+Daumen	NN
+
+hoch	ADJD
+hoch	ADJD
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Mann	NN
+Mann	NN
+
+,	$,
+,	$,
+
+finden	VVFIN
+finden	VVFIN
+
+ich	PPER
+ich	PPER
+
+gut	ADJD
+gut	ADJD
+
+.	$.
+.	$.
+
+Grusel-Prozess	NN
+Grusel-Prozess	NN
+
+-	$(
+-	$(
+
+Grab	NN
+Grab	NN
+
+in	APPRART
+in	APPR
+
+Wald	NN
+Wald	NN
+
+:	$.
+:	$.
+
+Täter	NN
+Täter	NN
+
+Christian	NE
+Christian	NE
+
+L.	NE
+L.	NE
+
+(	$(
+(	$(
+
+@card@	CARD
+@card@	CARD
+
+)	$(
+)	$(
+
+verurteilen	VVPP
+verurteilen	VVINF
+
+:	$.
+:	$.
+
+er	PPER
+er	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+in	APPRART
+in	APPR
+
+Königsforst	NE
+Königsforst	NN
+
+ein	ART
+ein	ART
+
+Grab	NN
+Grab	NN
+
+ausgehoben	VVPP
+ausgehoben	VVPP
+
+,	$,
+,	$,
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Senad	NE
+Senad	NE
+
+Gashi	NE
+Gashi	NE
+
++	XY
++	KON
+
+Erfolgsjahr	NN
+Erfolgsjahr	NN
+
+@card@	CARD
+@card@	CARD
+
++	XY
++	KON
+
+url	URL
+url	URL
+
+Antwort-Mail	NN
+Antwort-Mail	NN
+
+der	ART
+der	ART
+
+GEZ	NE
+GEZ	NE
+
+wg.	APPR
+wg.	APPR
+
+todesbedingter	ADJA
+todesbedingter	ADJA
+
+Kündigung	NN
+Kündigung	NN
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+sie	PPER
+sie	PPER
+
+unterstützen	VVFIN
+unterstützen	VVFIN
+
+uns	PPER
+uns	PPER
+
+,	$,
+,	$,
+
+wenn	KOUS
+wenn	KOUS
+
+sie	PPER
+sie	PPER
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Zwischenzeit	NN
+Zwischenzeit	NN
+
+von	APPR
+von	APPR
+
+Nachfrage	NN
+Nachfrage	NN
+
+absehen	VVFIN
+absehen	VVINF
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+user	ADDRESS
+user	ADDRESS
+
+der	ART
+der	ART
+
+etwas	ADV
+etwas	PIAT
+
+anderer	ADJA
+anderer	PIS
+
+gut	ADJA
+gut	ADJD
+
+hashtag	NN
+hashtag	HASH
+
+zu	APPRART
+zu	APPR
+
+hashtag	ADJA
+hashtag	HASH
+
+hashtag	NN
+hashtag	HASH
+
+hashtag	CARD
+hashtag	HASH
+
+!	$.
+!	$.
+
+tu	VVIMP
+tu	VVFIN
+
+einfach	ADV
+einfach	ADJD
+
+,	$,
+,	$,
+
+was	PWS
+was	PRELS
+
+dir	PPER
+dir	PRF
+
+vor	APPR
+vor	APPR
+
+der	ART
+der	ART
+
+Hand	NN
+Hand	NN
+
+kommen	VVFIN
+kommen	VVINF
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+vor	APPR
+vor	APPR
+
+der	ART
+der	ART
+
+erster	ADJA
+erster	ADJA
+
+Tweet	NN
+Tweet	NN
+
+ein	ART
+ein	ART
+
+Beschwerde	NN
+Beschwerde	NN
+
+über	APPR
+über	APPR
+
+der	ART
+der	ART
+
+Werbekampagne	NN
+Werbekampagne	NN
+
+von	APPR
+von	APPR
+
+R*dcoon	NE
+R*dcoon	NE
+
+beim	APPRART
+beim	APPRART
+
+Werberat	NN
+Werberat	NN
+
+einkippen	VVFIN
+einkippen	VVFIN
+
+.	$.
+.	$.
+
+Box	NN
+Box	NN
+
+-	$(
+-	$(
+
+er	PPER
+er	PPER
+
+wollen	VMFIN
+wollen	VMFIN
+
+nur	ADV
+nur	ADV
+
+noch	ADV
+noch	ADV
+
+@card@	CARD
+@card@	CARD
+
+werden	VAINF
+werden	VAINF
+
+-	$(
+-	$(
+
+Yahoo	NE
+Yahoo	NE
+
+!	$.
+!	$.
+
+Eurosport	NE
+Eurosport	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+:	$.
+:	$.
+
+Fußgänger	NN
+Fußgänger	NN
+
+von	APPR
+von	APPR
+
+Auto	NN
+Auto	NN
+
+töten	VVPP
+töten	VVFIN
+
+url	URL
+url	URL
+
+hashtag	NE
+hashtag	HASH
+
+Zwickauer	NE
+Zwickauer	NN
+
+Straße	NN
+Straße	NN
+
+:	$.
+:	$.
+
+Blitzer	NN
+Blitzer	NN
+
+(	$(
+(	$(
+
+stadtauswärts	ADV
+stadtauswärts	ADV
+
+)	$(
+)	$(
+
+gut	ADJA
+gut	ADJD
+
+Morgen	NN
+Morgen	ADV
+
+ihr	PPOSAT
+ihr	PPER
+
+lieb	ADJA
+lieb	PTKVZ
+
+.	$.
+.	$.
+
+gut	ADJD
+gut	ADJD
+
+und	KON
+und	KON
+
+hashtag	ADJD
+hashtag	HASH
+
+:	$.
+:	$.
+
+Gnocchi	NN
+Gnocchi	NE
+
+in	APPR
+in	APPR
+
+Pestosahne	NN
+Pestosahne	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Cinergy	NE
+Cinergy	NN
+
+T	NE
+T	NN
+
+Stick	NE
+Stick	NN
+
+RC	NE
+RC	NE
+
+(	$(
+(	$(
+
+DVB-T	NE
+DVB-T	NN
+
+,	$,
+,	$,
+
+Fernbedienung	NN
+Fernbedienung	NN
+
+,	$,
+,	$,
+
+USB	NN
+USB	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+bei	APPR
+bei	APPR
+
+2	CARD
+2	CARD
+
+mit	APPR
+mit	APPR
+
+der	ART
+der	ART
+
+rechter	ADJA
+rechter	ADJA
+
+maustaste	NN
+maustaste	NN
+
+und	KON
+und	KON
+
+auf	APPR
+auf	APPR
+
+"	$(
+"	$(
+
+Eigenschaft	NN
+Eigenschaft	NN
+
+"	$(
+"	$(
+
+url	URL
+url	URL
+
+jetzt	ADV
+jetzt	ADV
+
+Film	NN
+Film	NN
+
+gucken	VVINF
+gucken	VVINF
+
+und	KON
+und	KON
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+Pudding	NN
+Pudding	NN
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+aufmerksame	ADJA
+aufmerksame	ADJA
+
+Leser	NN
+Leser	NN
+
+werden	VAFIN
+werden	VAFIN
+
+bemerken	VVPP
+bemerken	VVINF
+
+haben	VAINF
+haben	VAFIN
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+sich	PRF
+sich	PRF
+
+in	APPRART
+in	APPR
+
+letzter	ADJA
+letzter	ADJA
+
+Tweet	NN
+Tweet	NN
+
+der	ART
+der	ART
+
+Fehlerteufel	NN
+Fehlerteufel	NN
+
+einschleichen	VVPP
+einschleichen	VVINF
+
+haben	VAFIN
+haben	VAFIN
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+bitte	VVFIN
+bitte	VVFIN
+
+dieser	PDS
+dieser	PDAT
+
+zu	PTKZU
+zu	PTKZU
+
+entschuldigen	VVINF
+entschuldigen	VVINF
+
+!	$.
+!	$.
+
+Filterstorm	NN
+Filterstorm	NN
+
+iPhone-	NE
+iPhone-	TRUNC
+
+/	$(
+/	$(
+
+iPad-App	NE
+iPad-App	ADJA
+
+@card@	CARD
+@card@	CARD
+
+Deutsch	NN
+Deutsch	NN
+
+:	$.
+:	$.
+
+umfangreich	ADJD
+umfangreich	ADJD
+
+wie	KOKOM
+wie	KOKOM
+
+ein	ART
+ein	ART
+
+Windows-Software	NN
+Windows-Software	NN
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+universell	ADJA
+universell	ADJD
+
+iOS-App	NE
+iOS-App	ADJA
+
+Fi	XYB
+Fi	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Nutzer	NN
+Nutzer	NN
+
+Mike	NE
+Mike	NE
+
+haben	VAFIN
+haben	VAFIN
+
+es	PPER
+es	PPER
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Punkt	NN
+Punkt	NN
+
+bringen	VVPP
+bringen	VVINF
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+Martin	NE
+Martin	NE
+
+Smolinski	NE
+Smolinski	NN
+
+auch	ADV
+auch	ADV
+
+@card@	CARD
+@card@	CARD
+
+in	APPR
+in	APPR
+
+Birmingham	NE
+Birmingham	NE
+
+:	$.
+:	$.
+
+in	APPR
+in	APPR
+
+letzter	ADJA
+letzter	ADJA
+
+Minute	NN
+Minute	NN
+
+unterschreiben	VVFIN
+unterschreiben	VVFIN
+
+Martin	NE
+Martin	NE
+
+Smolinski	NE
+Smolinski	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+danke	VVFIN
+danke	VVFIN
+
+Junge	NN
+Junge	NN
+
+emoticon	EMO
+emoticon	EMO
+
+-	$(
+-	$(
+
+Following	FM
+Following	ADJA
+
+question	FM
+question	NN
+
+:	$.
+:	$.
+
+wer	PWS
+wer	PWS
+
+sein	VAFIN
+sein	VAINF
+
+dieser	PDAT
+dieser	PDAT
+
+Özcan	NE
+Özcan	NE
+
+;))	EMO
+;))	NN
+
+@pewild	ADDRESS
+@pewild	ADJD
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+so	ADV
+so	ADV
+
+sehen	VVFIN
+sehen	VVFIN
+
+es	PPER
+es	PPER
+
+wohl	ADV
+wohl	ADV
+
+allgemein	ADJD
+allgemein	ADJD
+
+aus	PTKVZ
+aus	PTKVZ
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+Gerät	NN
+Gerät	NN
+
+unterscheiden	VVFIN
+unterscheiden	VVFIN
+
+sich	PRF
+sich	PRF
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+ich	PPER
+ich	PPER
+
+kriegen	VVFIN
+kriegen	VVFIN
+
+nur	ADV
+nur	ADV
+
+Rückmeldungen	NN
+Rückmeldungen	NN
+
+dieser	PDAT
+dieser	PDAT
+
+Art	NN
+Art	NN
+
+.	$.
+.	$.
+
+Ahmadineschad	NE
+Ahmadineschad	NE
+
+zu	APPRART
+zu	APPR
+
+Mond	NN
+Mond	NN
+
+schießen	VVFIN
+schießen	VVINF
+
+halten	VVFIN
+halten	VVFIN
+
+ich	PPER
+ich	PPER
+
+für	APPR
+für	APPR
+
+ein	ART
+ein	ART
+
+sehr	ADV
+sehr	ADV
+
+gut	ADJA
+gut	ADJD
+
+Idee	NN
+Idee	NN
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+@miss_meanie	ADDRESS
+@miss_meanie	NN
+
+Gabs	VVFIN_ES
+Gabs	NE
+
+außer	APPR
+außer	APPR
+
+Boston	NE
+Boston	NE
+
+legal	ADJD
+legal	ADJD
+
+eigentlich	ADV
+eigentlich	ADV
+
+jemals	ADV
+jemals	ADV
+
+ein	ART
+ein	ART
+
+sehenswertes	ADJA
+sehenswertes	ADJA
+
+Spinoff	NN
+Spinoff	NN
+
+?	$.
+?	$.
+
+iHola	FM
+iHola	NE
+
+Barcelona	FM
+Barcelona	NE
+
+!	$.
+!	$.
+
+wir	PPER
+wir	PPER
+
+bereiten	VVFIN
+bereiten	VVFIN
+
+hier	ADV
+hier	ADV
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+hashtag	NE
+hashtag	HASH
+
+and	NE
+and	FM
+
+hashtag	NE
+hashtag	HASH
+
+Summits	NE
+Summits	NN
+
+vor	PTKVZ
+vor	PTKVZ
+
+.	$.
+.	$.
+
+kommen	VVFIN
+kommen	VVFIN
+
+sie	PPER
+sie	PPER
+
+zu	APPR
+zu	PTKVZ
+
+sich	PPER
+sich	PRF
+
+an	APPR
+an	APPR
+
+der	ART
+der	ART
+
+Stand	NN
+Stand	NN
+
+,	$,
+,	$,
+
+es	PPER
+es	PPER
+
+geben	VVFIN
+geben	VVFIN
+
+toll	ADJA
+toll	ADJD
+
+Preis	NN
+Preis	NN
+
+zu	PTKZU
+zu	PTKZU
+
+gewinnen	VVINF
+gewinnen	VVINF
+
+!	$.
+!	$.
+
+schön	ADJA
+schön	ADJD
+
+Graphik	NN
+Graphik	NN
+
+zu	APPRART
+zu	APPR
+
+Fundort	NN
+Fundort	NN
+
+das	ART
+das	ART
+
+Skeletts	NN
+Skeletts	NN
+
+von	APPR
+von	APPR
+
+Richard	NE
+Richard	NE
+
+III	CARD
+III	NE
+
+.	$.
+.	$.
+
+beim	APPRART
+beim	APPRART
+
+Guardian	NE
+Guardian	NE
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+ich	PPER
+ich	PPER
+
+mögen	VMFIN
+mögen	VMFIN
+
+eigentlich	ADV
+eigentlich	ADV
+
+kein	PIAT
+kein	PIAT
+
+Milcheis	NN
+Milcheis	NN
+
+.	$.
+.	$.
+
+aber	KON
+aber	ADV
+
+durch	APPR
+durch	APPR
+
+der	ART
+der	ART
+
+streusel	NN
+streusel	NN
+
+schmecken	VVFIN
+schmecken	VVFIN
+
+man	PIS
+man	PIS
+
+da	ADV
+da	ADV
+
+eh	ADV
+eh	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+.	$.
+.	$.
+
+Horst	NE
+Horst	NE
+
+Heldt	NE
+Heldt	NE
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+Jens	NE
+Jens	NE
+
+Keller	NE
+Keller	NE
+
+bleiben	VVFIN
+bleiben	VVFIN
+
+bis	APPR
+bis	APPR
+
+Saisonende	NN
+Saisonende	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Trainer	NN
+Trainer	NN
+
+,	$,
+,	$,
+
+daran	PROAV
+daran	PAV
+
+geben	VVFIN
+geben	VVFIN
+
+es	PPER
+es	PPER
+
+nichts	PIS
+nichts	PIS
+
+zu	PTKZU
+zu	PTKZU
+
+rütteln	VVINF
+rütteln	VVINF
+
+"	$(
+"	$(
+
+hashtag	HASH
+hashtag	HASH
+
+Young	NN
+Young	NE
+
+Professional	NN
+Professional	NN
+
+in	APPRART
+in	APPR
+
+it	NN
+it	FM
+
+Bereich	NN
+Bereich	NN
+
+m/w	ADJD
+m/w	ADJA
+
+Raum	NN
+Raum	NN
+
+Hamburg	NE
+Hamburg	NE
+
+in	APPR
+in	APPR
+
+hashtag	CARD
+hashtag	HASH
+
+Hamburg	NE
+Hamburg	NE
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+der	ART
+der	ART
+
+nächster	ADJA
+nächster	ADJA
+
+,	$,
+,	$,
+
+der	PRELS
+der	PRELS
+
+mir	PPER
+mir	PPER
+
+heute	ADV
+heute	ADV
+
+dumm	ADJD
+dumm	ADJD
+
+kommen	VVFIN
+kommen	VVINF
+
+werden	VAFIN
+werden	VAFIN
+
+mit	APPR
+mit	APPR
+
+einem	ART
+einem	ART
+
+stabilo	NE
+stabilo	NE
+
+fineliner	NE
+fineliner	NN
+
+aufspießen	VVPP
+aufspießen	VVINF
+
+.	$.
+.	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Manuel	NE
+Manuel	NE
+
+hashtag	NE
+hashtag	HASH
+
+heute	ADV
+heute	ADV
+
+zu	APPR
+zu	APPR
+
+Gast	NN
+Gast	NN
+
+bei	APPR
+bei	APPR
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	NE
+hashtag	HASH
+
+haben	VAFIN
+haben	VAFIN
+
+Angst	NN
+Angst	NN
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+ein	ART
+ein	PTKVZ
+
+"	$(
+"	$(
+
+ein	ART
+ein	ART
+
+Abstimmung	NN
+Abstimmung	NN
+
+über	APPR
+über	APPR
+
+der	ART
+der	ART
+
+Staatsregierung	NN
+Staatsregierung	NN
+
+"	$(
+"	$(
+
+.	$.
+.	$.
+
+da	ADV
+da	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+ja	ADV
+ja	ADV
+
+einer	PIS
+einer	PIS
+
+richtig	ADJD
+richtig	ADJD
+
+selbstbewusst	ADJD
+selbstbewusst	ADJD
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+Nu	ADV
+Nu	NN
+
+aber	ADV
+aber	ADV
+
+rasch	ADJD
+rasch	ADJD
+
+!	$.
+!	$.
+
+emoticon	EMO
+emoticon	EMO
+
+du	PPER
+du	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+ja	ADV
+ja	ADV
+
+extra	ADV
+extra	ADJD
+
+deswegen	PROAV
+deswegen	PAV
+
+BGS-frei	ADJD
+BGS-frei	ADJD
+
+;))	EMO
+;))	ADJD
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+ich	PPER
+ich	PPER
+
+quäle	VVFIN
+quäle	VVFIN
+
+der	ART
+der	ART
+
+Scan-Fax-Monster-es	NN
+Scan-Fax-Monster-es	ADJA
+
+sein	VAFIN
+sein	PPOSAT
+
+willig	ADJD
+willig	ADJD
+
+emoticon	EMO
+emoticon	EMO
+
+.	$.
+.	$.
+
+@DjMaliksGirLx	ADDRESS
+@DjMaliksGirLx	ADJD
+
+user	ADDRESS
+user	ADDRESS
+
+KP	XY
+KP	NE
+
+,	$,
+,	$,
+
+müssen	VMFIN
+müssen	VMFIN
+
+kein	PIAT
+kein	PIAT
+
+Sinn	NN
+Sinn	NN
+
+haben	VAINF
+haben	VAFIN
+
+emoticon	EMO
+emoticon	EMO
+
+du	PPER
+du	PPER
+
+kennen	VVFIN
+kennen	VVFIN
+
+mich	PRF
+mich	PRF
+
+emoticon	EMO
+emoticon	EMO
+
+der	ART
+der	ART
+
+Fleischmütze	NN
+Fleischmütze	NN
+
+-	$(
+-	$(
+
+es	PPER
+es	PPER
+
+geben	VVFIN
+geben	VVFIN
+
+Wollmützen	NN
+Wollmützen	NN
+
+,	$,
+,	$,
+
+Filzmützen	NN
+Filzmützen	NN
+
+,	$,
+,	$,
+
+Stoffmützen	NN
+Stoffmützen	NN
+
+-	$(
+-	$(
+
+und	KON
+und	KON
+
+der	ART
+der	ART
+
+Fleischmütze	NN
+Fleischmütze	NN
+
+.	$.
+.	$.
+
+sie	PPER
+sie	PPER
+
+halten	VVFIN
+halten	VVFIN
+
+der	ART
+der	ART
+
+Ohr	NN
+Ohr	NN
+
+leider	ADV
+leider	ADV
+
+gar	ADV
+gar	ADV
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+wollen	VMFIN
+wollen	VMFIN
+
+ja	ADV
+ja	ADV
+
+lernen	VVINF
+lernen	VVFIN
+
+,	$,
+,	$,
+
+aber	KON
+aber	KON
+
+können	ADV
+können	VMFIN
+
+sein	VAFIN
+sein	PPOSAT
+
+ich	PPER
+ich	PPER
+
+plötzlich	ADJD
+plötzlich	ADJD
+
+in	APPR
+in	APPR
+
+Twitter	NE
+Twitter	NN
+
+...	$.
+...	$.
+
+user	ADDRESS
+user	ADDRESS
+
+dann	ADV
+dann	ADV
+
+geht_es	VVFIN_ES
+geht_es	VVFIN
+
+ja	ADV
+ja	ADV
+
+.	$.
+.	$.
+
+doof	ADJD
+doof	ADJD
+
+sein	VAFIN
+sein	VAINF
+
+es	PPER
+es	PPER
+
+trotzdem	PROAV
+trotzdem	PAV
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+hoffen	VVFIN
+hoffen	VVFIN
+
+,	$,
+,	$,
+
+der	ART
+der	PRELS
+
+anderer	PIS
+anderer	PIS
+
+haben	VAFIN
+haben	VAINF
+
+verstehen	VVPP
+verstehen	VVFIN
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+es	PPER
+es	PPER
+
+auf	APPR
+auf	APPR
+
+japanisch	NN
+japanisch	ADJD
+
+sein	VAFIN
+sein	PPOSAT
+
+|D	EMO
+|D	NN
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+user	ADDRESS
+user	ADDRESS
+
+in	APPRART
+in	APPR
+
+Herbrands	NE
+Herbrands	NE
+
+wieder	ADV
+wieder	ADV
+
+?	$.
+?	$.
+
+hm	PTKREZ
+hm	NN
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+so	ADV
+so	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+der	ART
+der	ART
+
+Alltag	NN
+Alltag	NN
+
+,	$,
+,	$,
+
+einfach	ADJD
+einfach	ADJD
+
+schade	ADJD
+schade	ADJD
+
+aber	KON
+aber	ADV
+
+keiner	PIS
+keiner	PIS
+
+halten	VVFIN
+halten	VVFIN
+
+es	PPER
+es	PPER
+
+auf	PTKVZ
+auf	PTKVZ
+
+.	$.
+.	$.
+
+irgendwann	ADV
+irgendwann	ADV
+
+fragen	VVFIN
+fragen	VVFIN
+
+man	PIS
+man	PIS
+
+sich	PRF
+sich	PRF
+
+,	$,
+,	$,
+
+sein	VAFIN
+sein	PPOSAT
+
+es	PPER
+es	PPER
+
+der	PDS
+der	PRELS
+
+nun	ADV
+nun	ADV
+
+?	$.
+?	$.
+
+Anmeldung	NN
+Anmeldung	NN
+
+bis	APPR
+bis	APPR
+
+@card@	ADJA
+@card@	CARD
+
+Februar	NN
+Februar	NN
+
+:	$.
+:	$.
+
+hashtag	HASH
+hashtag	HASH
+
+Anmeldung	NN
+Anmeldung	NN
+
+an	APPR
+an	APPR
+
+der	ART
+der	ART
+
+Christian	NE
+Christian	NE
+
+?	$.
+?	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+genau	ADJD
+genau	ADJD
+
+!	$.
+!	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+user	ADDRESS
+user	ADDRESS
+
+kein	PIAT
+kein	PIAT
+
+Ziel	NN
+Ziel	NN
+
+zu	PTKZU
+zu	PTKZU
+
+haben	VAINF
+haben	VAINF
+
+bedeuten	VVFIN
+bedeuten	VVFIN
+
+loszulassen	VVIZU
+loszulassen	VVIZU
+
+und	KON
+und	KON
+
+ja	ADV
+ja	ADV
+
+erst	ADV
+erst	ADV
+
+dann	ADV
+dann	ADV
+
+bekommen	VVFIN
+bekommen	VVFIN
+
+der	ART
+der	ART
+
+Moment	NN
+Moment	NN
+
+sein	PPOSAT
+sein	PPOSAT
+
+Chance	NN
+Chance	NN
+
+auf	APPR
+auf	APPR
+
+Momentum	NN
+Momentum	NN
+
+dreist	ADJD
+dreist	ADJD
+
+und	KON
+und	KON
+
+dumm	ADJD
+dumm	ADJD
+
+:	$.
+:	$.
+
+der	ART
+der	ART
+
+neu	ADJA
+neu	ADJD
+
+Bildersuche	NN
+Bildersuche	NN
+
+von	APPR
+von	APPR
+
+Google	NE
+Google	NN
+
+:	$.
+:	$.
+
+zugegeben	VVPP
+zugegeben	VVPP
+
+:	$.
+:	$.
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+damit	PROAV
+damit	PAV
+
+rechnen	VVPP
+rechnen	VVINF
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+ge	XYB
+ge	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Bausparvertrag	NN
+Bausparvertrag	NN
+
+und	KON
+und	KON
+
+privat	ADJA
+privat	ADJD
+
+Altersvorsorge	NN
+Altersvorsorge	NN
+
+abschließen	VVPP
+abschließen	VVINF
+
+.	$.
+.	$.
+
+Feels	FM
+Feels	NN
+
+so	FM
+so	ADV
+
+Good	FM
+Good	NN
+
+.	$.
+.	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Altersarmut	NN
+Altersarmut	NN
+
+in	APPR
+in	APPR
+
+München	NE
+München	NE
+
+:	$.
+:	$.
+
+alt	ADJD
+alt	ADJD
+
+und	KON
+und	KON
+
+arm	ADJD
+arm	ADJD
+
+in	APPR
+in	APPR
+
+ein	ART
+ein	ART
+
+reich	ADJA
+reich	ADJD
+
+Stadt	NN
+Stadt	NN
+
+url	URL
+url	URL
+
+(	$(
+(	$(
+
+Bot	NN
+Bot	NN
+
+)	$(
+)	$(
+
+mein	PPOSAT
+mein	PPOSAT
+
+200.	ADJA
+200.	ADJA
+
+FollowerIn	NN
+FollowerIn	NN
+
+können	VMFIN
+können	VMFIN
+
+sich	PRF
+sich	PRF
+
+so	ADV
+so	ADV
+
+langsam	ADJD
+langsam	ADJD
+
+wirklich	ADJD
+wirklich	ADJD
+
+darauf	PROAV
+darauf	PAV
+
+einstellen	VVINF
+einstellen	VVINF
+
+,	$,
+,	$,
+
+ein	ART
+ein	ART
+
+Buch	NN
+Buch	NN
+
+zu	PTKZU
+zu	PTKZU
+
+gewinnen	VVINF
+gewinnen	VVINF
+
+.	$.
+.	$.
+
+|	$(
+|	XY
+
+url	URL
+url	URL
+
+...	$.
+...	$.
+
+Mitchell	NE
+Mitchell	NE
+
+bleiben	VVFIN
+bleiben	VVFIN
+
+Trainer	NN
+Trainer	NN
+
+der	ART
+der	ART
+
+Augsburger	ADJA
+Augsburger	ADJA
+
+Panther	NN
+Panther	NN
+
+:	$.
+:	$.
+
+Trainer	NN
+Trainer	NN
+
+Larry	NE
+Larry	NE
+
+Mitchell	NE
+Mitchell	NE
+
+bleiben	VVFIN
+bleiben	VVFIN
+
+der	ART
+der	ART
+
+Eishockey	NN
+Eishockey	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+@Kartonmaennchen	ADDRESS
+@Kartonmaennchen	NN
+
+ahahah	ITJ
+ahahah	VVFIN
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	VAINF
+
+scheisse	ADJD
+scheisse	VVFIN
+
+Auszubildender	NN
+Auszubildender	NN
+
+zu	APPRART
+zu	APPR
+
+Personaldienstleistungskaufmann	NN
+Personaldienstleistungskaufmann	NN
+
+(	$(
+(	$(
+
+m/w	ADJD
+m/w	NE
+
+)	$(
+)	$(
+
+in	APPR
+in	APPR
+
+hashtag	CARD
+hashtag	HASH
+
+München	NE
+München	NE
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+user	ADDRESS
+user	ADDRESS
+
+nach	APPR
+nach	APPR
+
+der	ART
+der	ART
+
+Test	NN
+Test	NN
+
+von	APPR
+von	APPR
+
+euch	PPER
+euch	PPER
+
+,	$,
+,	$,
+
+haben	VAFIN
+haben	VAFIN
+
+ich	PPER
+ich	PPER
+
+der	ART
+der	ART
+
+Nexus	NE
+Nexus	NN
+
+4	CARD
+4	CARD
+
+kaufen	VVPP
+kaufen	VVINF
+
+.	$.
+.	$.
+
+bis	KON
+bis	KON
+
+jetzt	ADV
+jetzt	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+ich	PPER
+ich	PPER
+
+zufrieden	ADJD
+zufrieden	ADJD
+
+.	$.
+.	$.
+
+obwohl	KOUS
+obwohl	KOUS
+
+ihr	PPER
+ihr	PPER
+
+jetzt	ADV
+jetzt	ADV
+
+der	ART
+der	ART
+
+Verarbeitung	NN
+Verarbeitung	NN
+
+bemängeln	VVFIN
+bemängeln	VVINF
+
+in	APPRART
+in	APPR
+
+Bad	NN
+Bad	NE
+
+ein	ART
+ein	ART
+
+Schatztruhe	NN
+Schatztruhe	NN
+
+mit	APPR
+mit	APPR
+
+Dobendan	NE
+Dobendan	NN
+
+und	KON
+und	KON
+
+Ibus	NE
+Ibus	NN
+
+finden	VVPP
+finden	VVINF
+
+.	$.
+.	$.
+
+aller	PIS
+aller	PIS
+
+werden	VAFIN
+werden	VAFIN
+
+gut	ADJD
+gut	ADJD
+
+.	$.
+.	$.
+
+wmw	NE
+wmw	ADJA
+
+style	NN
+style	NN
+
+geburtstagspost	NN
+geburtstagspost	ADJA
+
+check	VVIMP
+check	VVIMP
+
+wmw-style.de	NE
+wmw-style.de	VVFIN
+
+in	APPRART
+in	APPR
+
+Sommer	NN
+Sommer	NE
+
+kühl	ADJD
+kühl	ADJD
+
+,	$,
+,	$,
+
+in	APPRART
+in	APPR
+
+Winter	NN
+Winter	NN
+
+warm	ADJD
+warm	ADJD
+
+-	$(
+-	$(
+
+Farbe	NN
+Farbe	NN
+
+mit	APPR
+mit	APPR
+
+Million	NN
+Million	NN
+
+winzig	ADJA
+winzig	ADJD
+
+Kügelchen	NN
+Kügelchen	NN
+
+sparen	VVFIN
+sparen	VVFIN
+
+Energie	NN
+Energie	NN
+
+url	URL
+url	URL
+
+Wand	NN
+Wand	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+perfekter	ADJD
+perfekter	ADJD
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+in	APPRART
+in	APPR
+
+brasilianisch	ADJA
+brasilianisch	ADJD
+
+Angra	NE
+Angra	NN
+
+dos	NE
+dos	ADJA
+
+Reis	NE
+Reis	NN
+
+lagern	VVFIN
+lagern	VVFIN
+
+seit	APPR
+seit	APPR
+
+@card@	CARD
+@card@	CARD
+
+Jahr	NN
+Jahr	NN
+
+ein	ART
+ein	ART
+
+deutsch	ADJA
+deutsch	ADJD
+
+Atomreaktor	NN
+Atomreaktor	NN
+
+.	$.
+.	$.
+
+nun	ADV
+nun	ADV
+
+sollen	VMFIN
+sollen	VMFIN
+
+er	PPER
+er	PPER
+
+an	APPRART
+an	APPR
+
+Netz	NN
+Netz	NE
+
+.	$.
+.	$.
+
+ein	ART
+ein	ART
+
+Ortsbesuch	NN
+Ortsbesuch	NN
+
+url	URL
+url	URL
+
+schön	ADJA
+schön	ADJD
+
+Ding	NN
+Ding	NN
+
+,	$,
+,	$,
+
+user	NE
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+zwar	ADV
+zwar	ADV
+
+kein	PIAT
+kein	PIAT
+
+Super	NE
+Super	NN
+
+Bowl	NE
+Bowl	NE
+
+Ads	NN
+Ads	NN
+
+,	$,
+,	$,
+
+aber	KON
+aber	ADV
+
+dafür	PROAV
+dafür	PAV
+
+hashtag	NN
+hashtag	HASH
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+ich	PPER
+ich	PPER
+
+räumen	VVFIN
+räumen	VVFIN
+
+gerade	ADV
+gerade	ADV
+
+mein	PPOSAT
+mein	PPOSAT
+
+Twitterkonto	NN
+Twitterkonto	NN
+
+auf	PTKVZ
+auf	PTKVZ
+
+und	KON
+und	KON
+
+benutzen	VVFIN
+benutzen	VVFIN
+
+dabei	PROAV
+dabei	PAV
+
+url	NE
+url	URL
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+jemand	PIS
+jemand	PIS
+
+Erfahrung	NN
+Erfahrung	NN
+
+damit	PROAV
+damit	PAV
+
+?	$.
+?	$.
+
+scheinen	VVFIN
+scheinen	VVFIN
+
+nützlich	ADJD
+nützlich	ADJD
+
+zu	PTKZU
+zu	PTKZU
+
+sein	VAINF
+sein	VAINF
+
+!	$.
+!	$.
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Löw	NE
+Löw	NE
+
+:	$.
+:	$.
+
+Adler	NE
+Adler	NE
+
+spielen	VVFIN
+spielen	VVFIN
+
+gegen	APPR
+gegen	APPR
+
+Frankreich	NE
+Frankreich	NE
+
+url	URL
+url	URL
+
+Karlsruher	ADJA
+Karlsruher	ADJA
+
+Haushalt	NN
+Haushalt	NN
+
+:	$.
+:	$.
+
+CDU	NE
+CDU	NE
+
+wollen	VMFIN
+wollen	VMFIN
+
+OB	NN
+OB	NE
+
+Mentrup	NE
+Mentrup	NE
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Pflicht	NN
+Pflicht	NN
+
+nehmen	VVINF
+nehmen	VVINF
+
+:	$.
+:	$.
+
+@card@	CARD
+@card@	CARD
+
+Antrag	NN
+Antrag	NN
+
+mit	APPR
+mit	APPR
+
+ein	ART
+ein	ART
+
+Gesamtvolumen	NN
+Gesamtvolumen	NN
+
+vo	XYB
+vo	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	ADJA
+hashtag	HASH
+
+hashtag	NN
+hashtag	HASH
+
+@card@	CARD
+@card@	CARD
+
+@card@	CARD
+@card@	CARD
+
+Potsdam	NE
+Potsdam	NE
+
+hashtag	HASH
+hashtag	HASH
+
+url	URL
+url	URL
+
+Update	NN
+Update	NN
+
+@card@	CARD
+@card@	CARD
+
+§1	XY
+§1	NN
+
+der	ART
+der	ART
+
+Frau	NN
+Frau	NN
+
+haben	VAFIN
+haben	VAFIN
+
+immer	ADV
+immer	ADV
+
+recht	ADJD
+recht	ADJD
+
+.	$.
+.	$.
+
+ich	PPER
+ich	PPER
+
+müssen	VMFIN
+müssen	VMFIN
+
+mich	PPER
+mich	PPER
+
+duschen	VVINF
+duschen	VVINF
+
+und	KON
+und	KON
+
+bettfertig	ADJD
+bettfertig	ADJD
+
+machen	VVINF
+machen	VVINF
+
+(	$(
+(	$(
+
+emoticon	EMO
+emoticon	EMO
+
+)	$(
+)	$(
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+aus	APPR
+aus	APPR
+
+der	ART
+der	ART
+
+Rubrik	NN
+Rubrik	NN
+
+:	$.
+:	$.
+
+Horst	NE
+Horst	NE
+
+erklären	VVFIN
+erklären	VVFIN
+
+hashtag	NE
+hashtag	HASH
+
+-	$(
+-	$(
+
+oder	KON
+oder	KON
+
+:	$.
+:	$.
+
+wie	PWAV
+wie	KOUS
+
+in	APPRART
+in	APPR
+
+hashtag	NN
+hashtag	HASH
+
+der	ART
+der	ART
+
+Meinungsbildungsprozess	NN
+Meinungsbildungsprozess	NN
+
+funktionieren	VVFIN
+funktionieren	VVFIN
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+ich	PPER
+ich	PPER
+
+verstehen	VVFIN
+verstehen	VVFIN
+
+auch	ADV
+auch	ADV
+
+Nichts	PIS
+Nichts	PIAT
+
+emoticon	EMO
+emoticon	EMO
+
+Musst_du	VVFIN
+Musst_du	NN
+
+mal	ADV
+mal	ADV
+
+in	APPRART
+in	APPR
+
+Stadion	NN
+Stadion	NN
+
+Sitz	VVINF
+Sitz	NN
+
+und	KON
+und	KON
+
+mir	PRF
+mir	PPER
+
+der	PDS
+der	ART
+
+antun	VVINF
+antun	VVINF
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+einzig	ADJD
+einzig	ADJD
+
+spannend	NN
+spannend	ADJD
+
+Ware	VAFIN
+Ware	NN
+
+der	ART
+der	ART
+
+Cheerleader	NN
+Cheerleader	NN
+
+.	$.
+.	$.
+
+haben	VAFIN
+haben	VAFIN
+
+sie	PPER
+sie	PPER
+
+schon	ADV
+schon	ADV
+
+mal	ADV
+mal	ADV
+
+daran	PROAV
+daran	PAV
+
+denken	VVPP
+denken	VVFIN
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+Unternehmen	NN
+Unternehmen	NN
+
+mit	APPR
+mit	APPR
+
+einer	PIS
+einer	PIS
+
+nehmen	VVIMP
+nehmen	VVFIN
+
+sie	PPER
+sie	PPER
+
+einfach	ADJD
+einfach	ADJD
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+der	ART
+der	ART
+
+Frau	NN
+Frau	NN
+
+gehören	VVFIN
+gehören	VVFIN
+
+an	APPR
+an	APPR
+
+der	ART
+der	ART
+
+Nerd	NN
+Nerd	NE
+
+.	$.
+.	$.
+
+"	$(
+"	$(
+
+der	PDS
+der	ART
+
+von	APPR
+von	APPR
+
+Apple	NE
+Apple	NE
+
+haben	VAFIN
+haben	VAFIN
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+soviel	PIAT
+soviel	PIAT
+
+Ahnung	NN
+Ahnung	NN
+
+"	$(
+"	$(
+
+haben	VAFIN
+haben	VAFIN
+
+ich	PPER
+ich	PPER
+
+der	ART
+der	ART
+
+Eindruck	NN
+Eindruck	NN
+
+hashtag	HASH
+hashtag	HASH
+
+wie	PWAV
+wie	KOKOM
+
+Recht	NN
+Recht	NN
+
+der	ART
+der	ART
+
+alt	NN
+alt	ADJD
+
+haben	VAFIN
+haben	VAFIN
+
+emoticon	EMO
+emoticon	EMO
+
+user	ADDRESS
+user	ADDRESS
+
+aller	PIS
+aller	PIS
+
+,	$,
+,	$,
+
+nur	ADV
+nur	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+der	PDS
+der	ART
+
+,	$,
+,	$,
+
+was	PWS
+was	PWS
+
+es	PPER
+es	PPER
+
+sollen	VMFIN
+sollen	VMFIN
+
+.	$.
+.	$.
+
+Swinger	NN
+Swinger	ADJA
+
+Neunkirchen	NE
+Neunkirchen	NN
+
+suchen	VVFIN
+suchen	VVFIN
+
+Erotikkontakte	NN
+Erotikkontakte	NN
+
+und	KON
+und	KON
+
+Paar	NN
+Paar	PIS
+
+url	URL
+url	URL
+
+@card@	CARD
+@card@	CARD
+
+Allah	NN
+Allah	NE
+
+haben	VAFIN
+haben	VAFIN
+
+der	ART
+der	ART
+
+schön	ADJA
+schön	ADJD
+
+Botschaft	NN
+Botschaft	NN
+
+,	$,
+,	$,
+
+ein	ART
+ein	ART
+
+Buch	NN
+Buch	NN
+
+,	$,
+,	$,
+
+hinabgesandt	VVPP
+hinabgesandt	VVPP
+
+,	$,
+,	$,
+
+ein	ART
+ein	ART
+
+in	APPRART
+in	APPR
+
+Einklang	NN
+Einklang	NN
+
+(	$(
+(	$(
+
+mit	APPR
+mit	APPR
+
+anderer	ADJA
+anderer	PIAT
+
+Schrift	NN
+Schrift	NN
+
+)	$(
+)	$(
+
+stehend	ADJA
+stehend	ADJD
+
+,	$,
+,	$,
+
+oft	ADV
+oft	ADV
+
+wiederholtes	ADJA
+wiederholtes	ADJA
+
+,	$,
+,	$,
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+wo	PWAV
+wo	PWAV
+
+?	$.
+?	$.
+
+wann	PWAV
+wann	PWAV
+
+?	$.
+?	$.
+
+wieviel	PWAV
+wieviel	PWAV
+
+?	$.
+?	$.
+
+-	$(
+-	$(
+
+Festival-Tickets	NN
+Festival-Tickets	VVIMP
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+ergattern	VVINF
+ergattern	VVFIN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+|	$(
+|	XY
+
+Belgien	NE
+Belgien	NE
+
+:	$.
+:	$.
+
+Gericht	NN
+Gericht	NN
+
+prüfen	VVFIN
+prüfen	VVFIN
+
+Haftentlassung	NN
+Haftentlassung	NN
+
+von	APPR
+von	APPR
+
+Kindermörder	NN
+Kindermörder	NN
+
+Dutroux	NE
+Dutroux	NN
+
+:	$.
+:	$.
+
+Marc	NE
+Marc	NE
+
+Dutroux	NE
+Dutroux	NN
+
+haben	VAFIN
+haben	VAINF
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+der	ART
+der	ART
+
+hashtag	NE
+hashtag	HASH
+
+möchten	VMFIN
+möchten	VMFIN
+
+also	ADV
+also	ADV
+
+mit	APPR
+mit	APPR
+
+Rassismus	NN
+Rassismus	NN
+
+Wahlkampf	NN
+Wahlkampf	NN
+
+machen	VVINF
+machen	VVINF
+
+und	KON
+und	KON
+
+gegen	APPR
+gegen	APPR
+
+der	ART
+der	ART
+
+doppelt	ADJA
+doppelt	ADJD
+
+Staatsbürgerschaft	NN
+Staatsbürgerschaft	NN
+
+hetzen	VVINF
+hetzen	VVINF
+
+.	$.
+.	$.
+
+freuen	VVFIN
+freuen	VVFIN
+
+mich	PPER
+mich	PRF
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Auseinandersetzung	NN
+Auseinandersetzung	NN
+
+!	$.
+!	$.
+
+@DerKleineTM	ADDRESS
+@DerKleineTM	NE
+
+Wundert	VVFIN
+Wundert	VVFIN
+
+mich	PPER
+mich	PRF
+
+leider	ADV
+leider	ADV
+
+gar	ADV
+gar	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+emoticon	EMO
+emoticon	EMO
+
+-	ADV
+-	$(
+
+schön	ADJD
+schön	ADJD
+
+hoch	ADJD
+hoch	PTKVZ
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+werden	VAFIN
+werden	VAFIN
+
+ich	PPER
+ich	PPER
+
+mir	PRF
+mir	PRF
+
+wohl	ADV
+wohl	ADV
+
+heute	ADV
+heute	ADV
+
+Abend	NN
+Abend	ADV
+
+mal	ADV
+mal	ADV
+
+reinziehen	VVINF
+reinziehen	VVINF
+
+(	$(
+(	$(
+
+müssen	VVINF
+müssen	VMINF
+
+)	$(
+)	$(
+
+.	$.
+.	$.
+
+Markencheck	NN
+Markencheck	NN
+
+:	$.
+:	$.
+
+hashtag	NE
+hashtag	HASH
+
+von	APPRART
+von	APPR
+
+user	NE
+user	ADDRESS
+
+url	URL
+url	URL
+
+Roundup	NN
+Roundup	NN
+
+2	CARD
+2	CARD
+
+:	$.
+:	$.
+
+Teilverstaatlichte	ADJA
+Teilverstaatlichte	ADJA
+
+Commerzbank	NE
+Commerzbank	NN
+
+@card@	CARD
+@card@	CARD
+
+nur	ADV
+nur	ADV
+
+knapp	ADJD
+knapp	ADJD
+
+in	APPR
+in	APPR
+
+Gewinnzone	NN
+Gewinnzone	NN
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+Swinger	NN
+Swinger	NN
+
+aus	APPR
+aus	APPR
+
+Ottweiler	NE
+Ottweiler	NN
+
+finden	VVFIN
+finden	VVFIN
+
+Swinger	NN
+Swinger	NN
+
+und	KON
+und	KON
+
+Swingerpaare	NN
+Swingerpaare	NN
+
+beim	APPRART
+beim	APPRART
+
+Erotik	NN
+Erotik	NN
+
+Forum	NN
+Forum	NN
+
+Venuszeit	NN
+Venuszeit	NN
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+|R	XY
+|R	NN
+
+Hecht	NN
+Hecht	NN
+
+in	APPR
+in	APPR
+
+Bühlau	NN
+Bühlau	NN
+
+:	$.
+:	$.
+
+an	APPRART
+an	APPR
+
+Samstag	NN
+Samstag	NN
+
+stehen	VVFIN
+stehen	VVFIN
+
+dieser	PDAT
+dieser	PDAT
+
+"	$(
+"	$(
+
+groß	ADJA
+groß	ADJD
+
+Hecht	NN
+Hecht	NN
+
+"	$(
+"	$(
+
+an	APPRART
+an	APPR
+
+Ullersdorfer	ADJA
+Ullersdorfer	NN
+
+Platz	NN
+Platz	NN
+
+.	$.
+.	$.
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+ein	ART
+ein	ART
+
+Sonderfahrt	NN
+Sonderfahrt	NN
+
+,	$,
+,	$,
+
+al	XYB
+al	NE
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+der	ART
+der	ART
+
+krank	ADJA
+krank	ADJD
+
+Seele	NN
+Seele	NN
+
+mein	PPOSAT
+mein	PPOSAT
+
+Zeit	NN
+Zeit	NN
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+Punkt	NN
+Punkt	NN
+
+bringen	VVPP
+bringen	VVINF
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+ja	PTKANT
+ja	ADV
+
+,	$,
+,	$,
+
+danke	VVFIN
+danke	VVFIN
+
+.	$.
+.	$.
+
+der	ART
+der	ART
+
+Vortrag	NN
+Vortrag	NN
+
+_muessen_	VMFIN
+_muessen_	VVFIN
+
+wir	PPER
+wir	PPER
+
+unbedingt	ADV
+unbedingt	ADJD
+
+jetzt	ADV
+jetzt	ADV
+
+dann	ADV
+dann	ADV
+
+angehen	VVINF
+angehen	VVINF
+
+.	$.
+.	$.
+
+wie	PWAV
+wie	KOUS
+
+sein	VAFIN
+sein	VAINF
+
+denn	ADV
+denn	KON
+
+ein	ART
+ein	ART
+
+Planung	NN
+Planung	NN
+
+an	APPRART
+an	APPR
+
+@card@	CARD
+@card@	CARD
+
+beim	APPRART
+beim	APPRART
+
+Stammtisch	NN
+Stammtisch	NN
+
+?	$.
+?	$.
+
+Steinsysteme	NN
+Steinsysteme	NN
+
+mit	APPR
+mit	APPR
+
+vieler	PIAT
+vieler	PIAT
+
+Format	NN
+Format	NN
+
+-	$(
+-	$(
+
+Natursteinoptik	NN
+Natursteinoptik	NN
+
+und	KON
+und	KON
+
+klassisch	ADJA
+klassisch	ADJD
+
+Velegemuster	NN
+Velegemuster	ADJD
+
+url	URL
+url	URL
+
+Japan	NE
+Japan	NE
+
+Airlines	NE
+Airlines	NE
+
+:	$.
+:	$.
+
+Dreamliner-Panne	NN
+Dreamliner-Panne	NN
+
+werden	VAFIN
+werden	VAFIN
+
+teuer	ADJD
+teuer	ADJD
+
+url	URL
+url	URL
+
+Weg	PTKVZ
+Weg	NN
+
+gehen	VVPP
+gehen	VVINF
+
+,	$,
+,	$,
+
+Platz	NN
+Platz	NN
+
+vergehen	VVPP
+vergehen	VVINF
+
+?	$.
+?	$.
+
+Öi	ITJ
+Öi	NE
+
+,	$,
+,	$,
+
+gemein	ADJD
+gemein	ADJD
+
+.	$.
+.	$.
+
+und	KON
+und	KON
+
+doch	ADV
+doch	ADV
+
+:	$.
+:	$.
+
+hach	ITJ
+hach	NN
+
+!	$.
+!	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+"	$(
+"	$(
+
+neulich	ADV
+neulich	ADV
+
+in	APPRART
+in	APPR
+
+Dschungelcamp	NN
+Dschungelcamp	NN
+
+"	$(
+"	$(
+
+emoticon	EMO
+emoticon	EMO
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Laurent	NE
+Laurent	NE
+
+Louis	NE
+Louis	NE
+
+werden	VAFIN
+werden	VAFIN
+
+bestrafen	VVPP
+bestrafen	VVINF
+
+für	APPR
+für	APPR
+
+der	ART
+der	ART
+
+Offenlegung	NN
+Offenlegung	NN
+
+der	ART
+der	ART
+
+verbrechen	NN
+verbrechen	VVFIN
+
+der	ART
+der	ART
+
+pädop	XYB
+pädop	NN
+
+...	$.
+...	$.
+
+:	$.
+:	$.
+
+url	URL
+url	URL
+
+via	APPR
+via	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+Verdienstkreuz	NN
+Verdienstkreuz	NN
+
+für	APPR
+für	APPR
+
+Dr.	NN
+Dr.	NN
+
+Ghodstinat	NE
+Ghodstinat	NN
+
+:	$.
+:	$.
+
+hashtag	HASH
+hashtag	HASH
+
+der	ART
+der	ART
+
+saarländisch	ADJA
+saarländisch	ADJA
+
+Sozialminister	NN
+Sozialminister	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+hashtag	HASH
+hashtag	HASH
+
+laut	APPR
+laut	APPR
+
+Beschreibung	NN
+Beschreibung	NN
+
+klingen	VVFIN
+klingen	VVFIN
+
+Misfits	NE
+Misfits	NN
+
+wie	KOKOM
+wie	KOKOM
+
+XMan	NE
+XMan	NE
+
+O.	APPR
+O.	KON
+
+Heroes	NN
+Heroes	NE
+
+.	$.
+.	$.
+
+Vorschau	NN
+Vorschau	NN
+
+sehen	VVFIN
+sehen	VVFIN
+
+eher	ADV
+eher	ADV
+
+nach	APPR
+nach	APPR
+
+einem	ART
+einem	ART
+
+Crossover	NN
+Crossover	NN
+
+von	APPR
+von	APPR
+
+"	$(
+"	$(
+
+L-Word	NE
+L-Word	NE
+
+"	$(
+"	$(
+
+,	$,
+,	$,
+
+"	$(
+"	$(
+
+Prison	NE
+Prison	NN
+
+break	NE
+break	NN
+
+"	$(
+"	$(
+
++	KON
++	KON
+
+"	$(
+"	$(
+
+Sons	NE
+Sons	NN
+
+of	NE
+of	FM
+
+Anarchy	NE
+Anarchy	NE
+
+"	$(
+"	$(
+
+aus	APPR
+aus	PTKVZ
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+hashtag	HASH
+hashtag	HASH
+
+@	APPR
+@	ADDRESS
+
+Thalia	NE
+Thalia	NE
+
+Theater	NN
+Theater	NN
+
+url	URL
+url	URL
+
+Yuhuhuhu	ITJ
+Yuhuhuhu	NE
+
+noch	ADV
+noch	ADV
+
+drei	CARD
+drei	CARD
+
+Kunde	NN
+Kunde	NN
+
+dann	ADV
+dann	ADV
+
+haben	VAFIN
+haben	VAFIN
+
+ich	PPER
+ich	PPER
+
+Feierabend	NN
+Feierabend	NN
+
+!	$.
+!	$.
+
+der	PDS
+der	ART
+
+sein	VAFIN
+sein	PPOSAT
+
+wohl	ADV
+wohl	ADV
+
+der	ART
+der	ART
+
+erster	ADJA
+erster	ADJA
+
+Mal	NN
+Mal	NN
+
+der	KOUS
+der	ART
+
+Heino	NE
+Heino	NE
+
+der	ART
+der	ART
+
+Weg	NN
+Weg	NN
+
+auf	APPR
+auf	APPR
+
+vieler	PIAT
+vieler	PIAT
+
+iPods	NE
+iPods	NN
+
+finden	VVFIN
+finden	VVINF
+
+.	$.
+.	$.
+
+DRADKU	NE
+DRADKU	NN
+
+tatsächlich	ADV
+tatsächlich	ADJD
+
+Überrest	NN
+Überrest	NN
+
+von	APPR
+von	APPR
+
+Richard	NE
+Richard	NE
+
+III.	NN
+III.	NN
+
+finden	VVPP
+finden	VVINF
+
+:	$.
+:	$.
+
+ja	PTKANT
+ja	PTKANT
+
+,	$,
+,	$,
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	PPOSAT
+
+wirklich	ADJD
+wirklich	ADJD
+
+sein	PPOSAT
+sein	PPOSAT
+
+Gebein	NN
+Gebein	NN
+
+unter	APPR
+unter	APPR
+
+der	ART
+der	ART
+
+Parkplatz	NN
+Parkplatz	NN
+
+:	$.
+:	$.
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+sicher	ADJD
+sicher	ADJD
+
+?	$.
+?	$.
+
+wieder	ADV
+wieder	ADV
+
+ein	ART
+ein	ART
+
+Schrittchen	NN
+Schrittchen	NN
+
+zu	APPRART
+zu	APPR
+
+Krebsregister	NN
+Krebsregister	NN
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+Erwachsenheitsstatus	NN
+Erwachsenheitsstatus	NN
+
+:	$.
+:	$.
+
+ich	PPER
+ich	PPER
+
+bekommen	VVFIN
+bekommen	VVFIN
+
+seit	APPR
+seit	APPR
+
+Stunde	NN
+Stunde	NN
+
+Lachanfälle	NN
+Lachanfälle	NN
+
+wegen	APPR
+wegen	APPR
+
+ein	ART
+ein	ART
+
+Klosteins	NN
+Klosteins	NN
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+gestern	ADV
+gestern	ADV
+
+noch	ADV
+noch	ADV
+
+paar	PIAT
+paar	PIAT
+
+Szene	NN
+Szene	NN
+
+drehen	VVPP
+drehen	VVINF
+
+.	$.
+.	$.
+
+Video	NN
+Video	NN
+
+sein	VAFIN
+sein	PPOSAT
+
+in	APPRART
+in	APPR
+
+Kasten	NN
+Kasten	NN
+
+!	$.
+!	$.
+
+hashtag	HASH
+hashtag	HASH
+
+#WhyAlwaysMe	HASH
+#WhyAlwaysMe	NN
+
+url	URL
+url	URL
+
+fühlen	VVFIN
+fühlen	VVFIN
+
+mich	PRF
+mich	PRF
+
+wie	KOKOM
+wie	KOKOM
+
+user	NE
+user	ADDRESS
+
+.	$.
+.	$.
+
+user	ADDRESS
+user	ADDRESS
+
+deshalb	PROAV
+deshalb	PAV
+
+haben	VAFIN
+haben	VAFIN
+
+ich	PPER
+ich	PPER
+
+sie	PPER
+sie	PPER
+
+auch	ADV
+auch	ADV
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+erwähnen	VVPP
+erwähnen	VVINF
+
+.	$.
+.	$.
+
+vielleicht	ADV
+vielleicht	ADV
+
+steigen	VVFIN
+steigen	VVFIN
+
+sie	PPER
+sie	PPER
+
+ja	ADV
+ja	ADV
+
+noch	ADV
+noch	ADV
+
+ein	PTKVZ
+ein	ART
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Debatte	NN
+Debatte	NN
+
+?	$.
+?	$.
+
+(	$(
+(	$(
+
+@JTrittin	ADDRESS
+@JTrittin	NN
+
+user	ADDRESS
+user	ADDRESS
+
+)	$(
+)	$(
+
+user	ADDRESS
+user	ADDRESS
+
+Sankt	NE
+Sankt	NE
+
+Pauli	NE
+Pauli	NE
+
+sein	VAFIN
+sein	PPOSAT
+
+der	ART
+der	ART
+
+einzig	ADJA
+einzig	ADJD
+
+Möglichkeit	NN
+Möglichkeit	NN
+
+.	$.
+.	$.
+
+immer	ADV
+immer	ADV
+
+!	$.
+!	$.
+
+sein	VAFIN
+sein	PPOSAT
+
+gespannt	ADJD
+gespannt	ADJD
+
+auf	APPR
+auf	APPR
+
+der	ART
+der	ART
+
+vierter	ADJA
+vierter	ADJA
+
+Staffel	NN
+Staffel	NN
+
+hashtag	HASH
+hashtag	HASH
+
+.	$.
+.	$.
+
+allerdings	ADV
+allerdings	ADV
+
+hauptsächlich	ADJD
+hauptsächlich	ADJD
+
+darauf	PROAV
+darauf	PAV
+
+,	$,
+,	$,
+
+ob	KOUS
+ob	KOUS
+
+Rhys-Meyers	NE
+Rhys-Meyers	NE
+
+auch	ADV
+auch	ADV
+
+auf	APPR
+auf	APPR
+
+Henrys	NE
+Henrys	NE
+
+final	ADJA
+final	ADJD
+
+Bauchumfang	NN
+Bauchumfang	NN
+
+kommen	VVFIN
+kommen	VVINF
+
+.	$.
+.	$.
+
+super	NE
+super	ADJD
+
+Bowl	NE
+Bowl	NE
+
+:	$.
+:	$.
+
+Baltimore	NE
+Baltimore	NE
+
+gewinnt	VVFIN
+gewinnt	VVFIN
+
+packend	ADJA
+packend	ADJD
+
+Duell	NN
+Duell	NN
+
+gegen	APPR
+gegen	APPR
+
+San	NE
+San	NE
+
+Francisco	NE
+Francisco	NE
+
+:	$.
+:	$.
+
+es	PPER
+es	PPER
+
+sein	VAFIN
+sein	VAINF
+
+ein	ART
+ein	ART
+
+kurioser	ADJA
+kurioser	ADJA
+
+Super	NE
+Super	NN
+
+Bowl	NE
+Bowl	NE
+
+:	$.
+:	$.
+
+Baltimore	NE
+Baltimore	NE
+
+Dom	XYB
+Dom	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+mein	PPOSAT
+mein	PPOSAT
+
+Güte	NN
+Güte	NN
+
+,	$,
+,	$,
+
+der	PDS
+der	PRELS
+
+sein	VAFIN
+sein	PPOSAT
+
+Pässe	NN
+Pässe	NN
+
+.	$.
+.	$.
+
+arm	ADJA
+arm	ADJD
+
+49ers	NE
+49ers	NN
+
+.	$.
+.	$.
+
+hashtag	HASH
+hashtag	HASH
+
+manchmal	ADV
+manchmal	ADV
+
+denken	VVFIN
+denken	VVFIN
+
+ich	PPER
+ich	PPER
+
+haben	VAFIN
+haben	VAFIN
+
+der	ART
+der	ART
+
+Leben	NN
+Leben	NN
+
+ein	ART
+ein	ART
+
+Sinn	NN
+Sinn	NN
+
+?!	$.
+?!	ADJD
+
+Stuttgart	NE
+Stuttgart	NE
+
+@card@	CARD
+@card@	CARD
+
+sein	VAFIN
+sein	VAINF
+
+scheitern	VVPP
+scheitern	VVFIN
+
+.	$.
+.	$.
+
+nun	ADV
+nun	ADV
+
+beginnen	VVFIN
+beginnen	VVFIN
+
+der	ART
+der	ART
+
+Absetzbewegungen	NN
+Absetzbewegungen	NN
+
+der	ART
+der	ART
+
+bisherig	ADJA
+bisherig	ADJA
+
+Unterstützer	NN
+Unterstützer	NN
+
+.	$.
+.	$.
+
+bisher	ADV
+bisher	ADV
+
+sein	VAFIN
+sein	PPOSAT
+
+es	PPER
+es	PPER
+
+so	ADV
+so	ADV
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+retweet	NN
+retweet	ADJA
+
+user	ADDRESS
+user	ADDRESS
+
+:	$.
+:	$.
+
+wie	PWAV
+wie	KOUS
+
+sich	PRF
+sich	PRF
+
+der	ART
+der	ART
+
+Gang-Gewalt	NN
+Gang-Gewalt	NN
+
+in	APPR
+in	APPR
+
+Mexiko	NE
+Mexiko	NE
+
+auf	APPR
+auf	APPR
+
+Kind	NN
+Kind	NN
+
+und	KON
+und	KON
+
+jugendliche	NN
+jugendliche	ADJA
+
+auswirken	VVFIN
+auswirken	VVINF
+
+-	$(
+-	$(
+
+Filmessay	NN
+Filmessay	NN
+
+mit	APPR
+mit	APPR
+
+eigen	ADJA
+eigen	ADJD
+
+Musik	NN
+Musik	NN
+
+von	APPR
+von	APPR
+
+user	ADDRESS
+user	ADDRESS
+
+.	$.
+.	$.
+
+url	URL
+url	URL
+
+NVIDIA-GPU-beschleunigter	ADJA
+NVIDIA-GPU-beschleunigter	ADJA
+
+Supercomputer	NN
+Supercomputer	NN
+
+stellen	VVFIN
+stellen	VVFIN
+
+Rekord	NN
+Rekord	NN
+
+bei	APPR
+bei	APPR
+
+Energieeffizienz	NN
+Energieeffizienz	NN
+
+auf	PTKVZ
+auf	APPR
+
+Italiens	NE
+Italiens	NE
+
+Supercomputer	NN
+Supercomputer	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+user	ADDRESS
+user	ADDRESS
+
+haben	VAFIN
+haben	VAFIN
+
+nach	APPR
+nach	APPR
+
+3	CARD
+3	CARD
+
+Minute	NN
+Minute	NN
+
+merken	VVPP
+merken	VVINF
+
+,	$,
+,	$,
+
+daß	KOUS
+daß	KOUS
+
+der	PDS
+der	ART
+
+nicht	PTKNEG
+nicht	PTKNEG
+
+laufen	VVFIN
+laufen	VVINF
+
+Porzellan	NN
+Porzellan	NN
+
+Anzeige	NN
+Anzeige	NN
+
+Porzellan	NN
+Porzellan	NN
+
+von	APPR
+von	APPR
+
+Rosenthal	NE
+Rosenthal	NE
+
+Romanze	NN
+Romanze	NN
+
+in	APPR
+in	APPR
+
+blaue	ADJD
+blaue	ADJA
+
+in	APPR
+in	APPR
+
+Osnabrück	NE
+Osnabrück	NE
+
+:	$.
+:	$.
+
+Hochwertiges	ADJA
+Hochwertiges	ADJA
+
+Porzellan	NN
+Porzellan	NN
+
+...	$.
+...	$.
+
+url	URL
+url	URL
+
+Porzellan	NN
+Porzellan	NN
+
+kaufen	VVFIN
+kaufen	VVINF
+
+user	ADDRESS
+user	ADDRESS
+
+wo	PWAV
+wo	PWAV
+
+stehen	VVFIN
+stehen	VVFIN
+
+der	PDS
+der	PDS
+
+?	$.
+?	$.
+
+der	ART
+der	ART
+
+Entscheidung	NN
+Entscheidung	NN
+
+fallen	VVFIN
+fallen	VVFIN
+
+schwer	ADJD
+schwer	ADJD
+
+:	$.
+:	$.
+
+pro	APPR
+pro	APPR
+
+#CLT2013	NE
+#CLT2013	NN
+
+,	$,
+,	$,
+
+contra	APPR
+contra	ADV
+
+#FCNS04	NE
+#FCNS04	ADJA
+
+seufz	COMMENT
+seufz	VVIMP
+
+user	ADDRESS
+user	ADDRESS
+
+kein	PIAT
+kein	PIAT
+
+Ahnung	NN
+Ahnung	NN
+
+aber	KON
+aber	ADV
+
+wenn	KOUS
+wenn	KOUS
+
+ich	PPER
+ich	PPER
+
+der	PDS
+der	PDS
+
+sehen	VVFIN
+sehen	VVFIN
+
+dann	ADV
+dann	ADV
+
+schiebe	VVFIN
+schiebe	VVFIN
+
+ich	PPER
+ich	PPER
+
+der	PRELS
+der	ART
+
+ihr	PPOSAT
+ihr	PPOSAT
+
+Handgranate	NN
+Handgranate	NN
+
+so	ADV
+so	ADV
+
+in	APPR
+in	APPR
+
+der	ART
+der	ART
+
+Arsch	NN
+Arsch	NN
+
+ne	PTKQU
+ne	ART
+
+Accuracy: 80.92415465445238 (6007 korrekt aus 7423 Tokens)

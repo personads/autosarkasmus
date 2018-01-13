@@ -1,0 +1,1 @@
+Accuracy: 22.20126633436616 (1648 korrekt aus 7423 Tokens)
